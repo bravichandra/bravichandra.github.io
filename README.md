@@ -1,15 +1,15 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-	<title>GITHUB TEST </title>
-</head>
-<body>
-<h4>Welcome Test user</h4>
-<form>
-<input type="text" name="test" value="">
-<input type="text" name="test1" value="">
-</form>
-</body>
-</html>
-
+<script>
+    function isEmpty(str){
+        return !str.replace(/\s+/, '').length;
+    }
+    function getValid(){
+         var text=document.getElementById('textid').value;
+         if(isEmpty(franch_Name)){
+         document.getElementById("textid").innerHTML = "Enter Text";
+         document.getElementById("text_name").focus();
+         }
+         else{
+         document.getElementById("textid").innerHTML = "";
+         }       
+    }
+</script>
