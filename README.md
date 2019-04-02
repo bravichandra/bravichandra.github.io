@@ -6,6 +6,20 @@
 </head>
 
 <body>
+<form>
+<table border="1" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td>Name</td>
+<td><input type="text" id="textid" name="text1" value="" onblur="getValid()"/></td></tr>
+<tr>
+<td colspan="2" align="center"><input type="submit" name="submit" value="submit" />
+</table>
+</form>
+</body>
+</html>
+
+
+<body>
 </body>
 <script>
     function isEmpty(str){
