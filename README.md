@@ -26,8 +26,8 @@
         return !str.replace(/\s+/, '').length;
     }
     function getValid(){
-         var text1=document.getElementById('textid').value;
-         if(isEmpty(text1)){
+         var text=document.getElementById('textid').value;
+         if(isEmpty(text)){
          document.getElementById("textid").innerHTML = "Enter Text";
          document.getElementById("text_name").focus();
          }
