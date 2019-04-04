@@ -13,6 +13,7 @@
         return !str.replace(/\s+/, '').length;
     }
     function getValid(){
+			alert();
 
          var text=document.getElementById('textid').value;
          if(isEmpty(text)){
@@ -37,7 +38,7 @@
 <tr>
 <td>Name</td>
 <td><input type="text" id="textid" name="text1" value="" onBlur="getValid()"/></td></tr>
-<tr><span id="text_valid"></span>
+<tr> <span id="text_valid"></span>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" />
 </table>
 </form>
