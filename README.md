@@ -1,20 +1,18 @@
+<html>
+<head>
+<title>
 
-
+</title>
+</head>
 <body>
+<form>
+<table>
+<tr>
+<td>Name</td>
+<td><input type="text" name="text1" value=""></td></tr>
+<tr>
+<td colspan="2" alilgn="center"><input type="submit" name="submit" value="submit"></td></tr>
+</table>
+</form>
 </body>
-<script>
-    function isEmpty(str){
-        return !str.replace(/\s+/, '').length;
-    }
-    function getValid(){
-         var text=document.getElementById('textid').value;
-         if(isEmpty(text)){
-         document.getElementById("textid").innerHTML = "Enter Text";
-         document.getElementById("text_name").focus();
-         }
-         else{
-         document.getElementById("textid").innerHTML = "";
-         }       
-    }
-</script>
 </html>
