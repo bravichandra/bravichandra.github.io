@@ -13,6 +13,7 @@
         return !str.replace(/\s+/, '').length;
     }
     function getValid(){
+			alert();
 
          var text=document.getElementById('textid').value;
          if(isEmpty(text)){
@@ -42,6 +43,6 @@
 </table>
 </form>
 </body
-</html>
+></html>
 
 
