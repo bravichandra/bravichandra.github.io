@@ -13,7 +13,7 @@
         return !str.replace(/\s+/, '').length;
     }
     function getValid(){
-
+        alert("test");
          var text=document.getElementById('textid').value;
          if(isEmpty(text)){
          document.getElementById("text_valid").innerHTML = "Enter Text";
