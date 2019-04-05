@@ -20,14 +20,14 @@
 <tr><span class="error" id="text_valid"></span>
 <td>Phone</td>
 
-<td><input type="text" id="testForm" name="tst12" value="" /></td></tr>
+<td><input type="text" id="testForm12" name="tst12" value="" /></td></tr>
 <tr><td>Address</td>
 <td><input type="text" id="textAddress" name="addresss" value="" /></td></tr>
 <tr><td>Details</td>
 <td><input type="text" id="textDetails" name="Details" value="" /></td></tr>
 
 <td><input type="text" id="testForm" name="tst12" value="" onBlur="getval()" /></td></tr>
-<tr>
+<tr><span class="error" id="add_valid"></span>
 <td>Email</td>
 <td><input type="text" name="email" value=""></td></tr>
 <tr>
@@ -63,12 +63,25 @@
          document.getElementById("textid").focus();
          }
          else{
-         document.getElementById("textid").innerHTML = "";
+         document.getElementById("text_valid").innerHTML = "";
          }       
     }
-	function getval(){
-	alert("test");
-	}
+	
+
+     function getval(){
+    //alert("test");
+         var text=document.getElementById('testForm').value;
+         if(isEmpty(text)){
+         document.getElementById("add_valid").innerHTML = "Enter Address";
+         document.getElementById("testForm").focus();
+         }
+         else{
+         document.getElementById("testForm").innerHTML = "";
+         }       
+    }
+    function getval(){
+    alert("test");
+    }
 	
 </script>
 
