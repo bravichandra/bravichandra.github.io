@@ -48,6 +48,9 @@
 <tr>
 <td>College Name</td>
 <td><input type="text" id="textid3" name="text13" value="" /></td></tr>
+<tr>
+<td>City Name</td>
+<td><input type="text" id="textid3" name="text13" value="" /></td></tr>
 <tr> <span id="text_valid"></span>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" />
 </table>
