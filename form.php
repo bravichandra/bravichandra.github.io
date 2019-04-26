@@ -51,6 +51,12 @@
 <tr>
 <td>City Name</td>
 <td><input type="text" id="textid3" name="text13" value="" /></td></tr>
+<tr>
+<td>State Name</td>
+<td><input type="text" id="textid3" name="text13" value="" /></td></tr>
+<tr>
+<td>Country Name</td>
+<td><input type="text" id="textid3" name="text13" value="" /></td></tr>
 <tr> <span id="text_valid"></span>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" />
 </table>
