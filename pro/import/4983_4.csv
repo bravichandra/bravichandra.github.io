@@ -1,0 +1,558 @@
+ First Name, Last Name, Title, Company, Address, City, State, ZIP, Contact Phone, Email, Revenue, Employees, Domain, LinkedIn
+Doug,Barnes,COO/CTO,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,DBarnesJR@eyemartexpress.com,30,50,eyemartexpress.com,http://www.linkedin.com/in/doug-barnes-9109aa75
+Bob,Rogers,SVP of Lab Operations,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,BRogers@eyemartexpress.com,30,50,eyemartexpress.com,http://www.linkedin.com/in/bobrogers
+Andy,Hawari,Optometrist,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903.569.5432,frontoffice@mineolaeyecare.com,0,6,mineolaeyecare.com,http://www.linkedin.com/indy-hawari-03a090a
+Bryan,Pinciaro,SVP and Chief Marketing Officer (CMO),Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281.312.1111,BPinciaro@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/bryan-pinciaro-2b70123
+Chris,Neils,Exercise Physiologist; Cardiodiagnostics Department,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,ChrisN@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/chris-neils-7629258
+Connie,Albers,supervisor,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,ConnieA@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/connie-albers-85100b45
+Gary Y.,Chu,Vice President; Community Collaborations,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617.266.2030,chu@neco.edu,5,50,neco.edu,http://www.linkedin.com/in/gary-y-chu-b21a982
+Leah,LeCamus,Sr. Executive Assistant; Operations Dept.,Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281.312.1111,LLeCamus@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/leah-lecamus-90a08021
+Neal,Nossaman,Owner/Optometrist,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806.355.5633,Neal.Nossaman@BroomeOptical.com,3,15,paneye.com,http://www.linkedin.com/in/neal-nossaman-177b3a45
+Randall L.,Webster,Corporate Paralegal,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,RWebster@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/randall-l-webster-1164287
+Rich,Dahill,Director of Facilities Administration,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617.266.2030,dahillr@neco.edu,5,50,neco.edu,http://www.linkedin.com/in/rich-dahill-b25a5121
+Shelly,Tatro, RN,CCM,CLNC,Productivity Supervisor,Prevea Health,1715 Dousman St,Green Bay,54303,920.496.4700,920-833-9896,ShellyT@prevea.com,500
+Gregory,Kraupa,OWNER,Eyecare Center-Maplewood,1965 11th Ave E Ste 101,Maplewood,MN,55109-5168,651-777-3555,gkraupa@eyecarecenters.net,5,5,eyecarecenters.net,http://www.linkedin.com/in/greg-kraupa-b8836b11
+Alan,Bacho,Medical Doctor,Optic 1,2401 Route 130 S,Cinnaminson,NJ,08077-3020,856-786-1616,abacho@optic-one.com,5,50,optic-one.com,http://www.linkedin.com/ilan-bacho-8973371a
+Faye,Munnings,Director Accounting And Assistant Chief Financial ,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,faye.munnings@nws.edu,0,62,rdeyes.com,http://www.linkedin.com/in/faye-munnings-54736a6
+Victoria,Rogers,Executive Vice President,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,victoria.rogers@nws.edu,0,62,rdeyes.com,http://www.linkedin.com/in/victoria-rogers-22302016
+Jack,Terry,Executive Director,National Board of Examiners In Optometery; Inc.,200 College St,Charlotte,NC,28202,704-332-9565,terry@optometry.org,5,10,optometry.org,http://www.linkedin.com/in/jack-terry-84197752
+Brian,Vasey,Associate General Counsel,World Vision US,PO Box 9716 MS 357,Federal Way,WA,98063-9716,253-815-2302,bvasey@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/brian-vasey-bbb9137
+Gary,Cahn,President and Sales Representative,Private Stock,36 Glenside Rd,South Orange,NJ,07079-1601,973-763-3474,gcahn@privatestockmenswear.com,0,0,privatestockmenswear.com,http://www.linkedin.com/in/gary-cahn-83255921
+Bryan,Wilson,Product Development/Administrative Assistant,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,BWilson@eyemartexpress.com,30,50,eyemartexpress.com,http://www.linkedin.com/in/bryan-wilson-37530924
+Cheryl,Hay,Network Services Representative,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,CHay@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/cheryl-hay-7b0b67a
+Rob,Houdek,Sr. VP Business Development,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,RHoudek@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/rob-houdek-493b157
+Debbi,Morris,Project Manager Controller And Administration,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,dmorris@essner.com,0,5,nwvision.org,http://www.linkedin.com/in/debbi-morris-b770a817
+Lee,Werner,Chief Information Officer,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,lwerner@eyenm.com,3,9,eyenm.com,http://www.linkedin.com/in/lee-werner-2961b39
+Karel,Kolker,Project Manager Information Technology,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,karel.kolker@tlcvision.com,288,1100,tlcvision.com,http://www.linkedin.com/in/karel-kolker-96372010
+Jim,Hale,Optometrist,Valley Eye Care,1505 NW Harrison Blvd,Corvallis,OR,97330,541-754-6222,jimh@valleyeyecare.com,0,3,valleyeyecare.com,http://www.linkedin.com/in/drjimhale
+Richard,Curtis,Account Executive,World Vision US,210 Overlook Dr,Sewickley,PA,15143-2306,412-749-1800,rcurtis@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/richard-a-curtis-352285b
+Robert,Carviou,Brand Manager-Prevea,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-429-1764,robertca@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/robertcarviou
+Diana,Bancroft,medical records coordinator,Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405,,Diana.Bancroft@gfclinic.com,30,200,gfclinic.com,http://www.linkedin.com/in/diana-bancroft-61571450
+Tony,Cole,Director of Information Technology,National Board of Examiners In Optometery; Inc.,200 College St,Charlotte,NC,28202,704-332-9565,cole@optometry.org,5,10,optometry.org,http://www.linkedin.com/in/tony-cole-93436a47
+Hannah,Robison,Event Manager,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,,HRobison@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/hannah-robison-7976911a
+Chris,Wooldridge,Director of Marketing and Information Technology,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,,CWooldridge@Beacheyecare.com,0,50,beacheyecare.com,http://www.linkedin.com/in/chris-wooldridge-6b387913
+Vonda,Syler,Administrator,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,,sylervl@mcdonaldeye.com,0,25,mcdonaldeye.com,http://www.linkedin.com/in/vonda-syler-5603b713
+DENNIS,JOHNSON,Owner,Midland Eye Care,5908 Eastman Ave,Midland,MI,48640,,docdj@midlandeyecare.com,0,5,doctorsbandk.com,http://www.linkedin.com/in/dennis-johnson-00351221
+Patricia,Gelner,Owner,Gelner Optometry PC,14386 Woodlake Dr,Chesterfield,MO,63017-5782,314-434-2626,doctor@gelner.com,0,3,gelner.com,http://www.linkedin.com/in/patricia-gelner-a120ba4a
+Clifford,Scott,President,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,scottc@neco.edu,5,50,neco.edu,http://www.linkedin.com/in/clifford-scott-2367243
+Doug,Hoffman,Director Of Residencies,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,hoffmand@neco.edu,5,50,neco.edu,http://www.linkedin.com/in/doug-hoffman-224a3b5
+Flynn,Michael,Controller,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,flynnmi@neco.edu,5,50,neco.edu,http://www.linkedin.com/in/flynn-michael-b3506b8
+Eric,Robirds,Principal,Vision West Inc,PO Box 799,Powell,WY,82435-0799,307-754-1000,eric@visionwest.com,1,12,visionwest.com,http://www.linkedin.com/in/eric-robirds-1221961b
+Shelley,Easton,Office Admin,Eye Institute,2000 S Wheeling Ave Ste 500,Tulsa,OK,74104-5642,918-749-6461,seaston@eyeinst.com,5,50,eyeinst.com,http://www.linkedin.com/in/shelley-easton-67640023
+Brent,Dunn,Office Manager,Valley Vision Clinic P S Inc,22 W Main St,Walla Walla,WA,99362,509-529-2020,bdunn@valleyvisionclinic.com,0,15,valleyvisionclinic.com,http://www.linkedin.com/in/brent-dunn-0536029
+Diane,Lehtinen,Office Administrator,Iowa Eyecare,1065 E POST RD,Marion,IA,52302-5214,319-377-2222,dlehtinen@iowaeyecare.com,5,50,iowaeyecare.com,http://www.linkedin.com/in/diane-lehtinen-8ba39b3a
+Billy,Moscow,Optometrist,Roswell Eye Clinic Inc,1190 Grimes Bridge Rd E,Roswell,GA,30075,770-992-7620,eyesure@roswelleyeclinic.com,5,50,roswelleyeclinic.com,http://www.linkedin.com/in/billy-moscow-56940317
+John,Abbate,Director Of Operations,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,jabbate@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/john-abbate-73237a14
+Brendon,Copland,Information Systems Coordinator,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bcopland@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/brendon-copland-93a1496
+Peter,Mogyordy,Optometrist,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,drpete@madisoneyecare.com,0,15,madisoneyecare.com,http://www.linkedin.com/in/peter-mogyordy-18ab32a
+Joe,Rust,IT Director,Zionsville Eyecare,1375 Parkway Dr,Zionsville,IN,46077-1954,317-873-3000,joerust@zionsvillefire.com,30,200,zionsville-eyecare.com,http://www.linkedin.com/in/joseph-rust-53216614
+Amanda,Smith,Marketing Manager,OPTO Intl Inc,220 Messner Dr,Wheeling,IL,60090-6436,847-541-6786,asmith@optosystem.com,1,15,optosystem.com,http://www.linkedin.com/imanda-m-smith-2809133a
+Amy,Herrin,Credentialing,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,aherrin@southerneyecenter.com,5,5,southerneyecenter.com,http://www.linkedin.com/imy-herrin-a4b8aa1a
+Kenneth,Carlson,Pediatrics,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,503-364-2181,kcarlson@childhoodhealth.com,2,1,childhoodhealth.com,http://www.linkedin.com/in/carlsonk-fastmail-us-carlsonk-fastmail-us-84493232
+Teri,Kranz,Manager of Employee Relations and Recruiting,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,NULL,terik@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/teri-kranz-054b3710
+Robin,Lewis,Ophthalmologist,Family Optometry PC,2950 N Dobson Rd,Chandler,AZ,85224-1824,480-963-8833,rlewis@familyoptometry.net,0,0,familyoptometry.net,http://www.linkedin.com/in/robin-lewis-29456546
+Gary,Bockhold,Manager,Center for Sight,3534 S Osprey Avenue,Sarasota,FL,34239-5925,941-953-2020,gbockhold@centerforsight.net,30,3,centerforsight.net,http://www.linkedin.com/in/gary-bockhold-o-d-3a654944
+Melissa,Hammond,Owner,Center for Sight,8433 TUTTLE AVE,Sarasota,FL,34243-2868,941-351-9440,mhammond@centerforsight.net,30,3,centerforsight.net,http://www.linkedin.com/in/melissa-hammond-o-d-46402146
+Peter,Van Hoven,Vice President,Primary Eyecare Group,205 Ward Cir,Brentwood,TN,37027-7552,615-373-2848,pvanhoven@primaryeyecare.com,5,50,primaryeyecare.com,http://www.linkedin.com/in/pete-van-hoven-48448b10
+Jon,Forche,Owner,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,jforche@fivepointseyecare.com,0,15,fivepointseyecare.com,http://www.linkedin.com/in/jon-forche-a7144038
+David,Wolf,Optometrist,Lake Oswego Vision Clinic,4550 Kruse Way Ste 105,Lake Oswego,OR,97035,503-635-1458,drwolf@lakeoswegovision.com,0,6,lakeoswegovision.com,http://www.linkedin.com/in/david-wolf-19a10a20
+Laura,Walters,Director Of Operations,Bennett; H W & Association Optometrist Co,2000 Green Rd Ste 200,Ann Arbor,MI,48105,734-930-2373,lwalters@bennettoptometry.com,0,15,bennettoptometry.com,http://www.linkedin.com/in/laura-walters-145b177
+Holly,Elmore,Attorney,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,,hollye@childhoodhealth.com,2,1,childhoodhealth.com,http://www.linkedin.com/in/holly-elmore-2b252a32
+Brett,Ball,Isa,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bball@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/brettball
+Brad,Haller,Vice President Chief Financial Officer,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bhaller@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/brad-haller-70a27317
+Julie,Sylvester,Human Resources Executive,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,757-425-5550,jsylvester@beacheyecare.com,0,50,beacheyecare.com,http://www.linkedin.com/in/beach-eye-care-a5893331
+Lindsey,Rees,Eyewear Consultant,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,lindsey@madisoneyecare.com,0,15,madisoneyecare.com,http://www.linkedin.com/in/lindsey-rees-55887836
+Kris,Heeg,Office Manager,Eagle Vision & Eye Clinic,2080 Main St,Longmont,CO,80501,303-651-2020,kris@evec.com,0,20,evec.com,http://www.linkedin.com/in/kris-heeg-a9498410
+Tim,Ehlen,Pediatrician,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-416-7635,dr.ehlen@nweyeclinic.com,0,15,nweyeclinic.com,http://www.linkedin.com/in/timothy-ehlen-md-b9314114
+Gerald,Loushin,Opthalmology,Northwest Eye Clinic,12000 Elm Creek Blvd N Ste 100,Maple Grove,MN,55369-7074,763-416-7600,dr.loushin@nweyeclinic.com,6,15,nweyeclinic.com,http://www.linkedin.com/in/gerald-loushin-0b49a71a
+Patty,Raisleger,Mngr Benefits and Comp,Prevea Health,1727 Shawano Ave,Green Bay,WI,54303-3268,920-496-8877,pattyr@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/patty-raisleger-b169a412
+Bhrent,Waddell,Controller Finance Executive,Eye Physicians of Austin PA,301 E 5th Ave,Owasso,OK,74055-3450,918-274-8787,thein@epaustin.com,0,9,epaustin.com,http://www.linkedin.com/in/tricia-hein-68386418
+Lisa,Blankenship,HR Director,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806.355.5633,Lisa.Blankenship@BroomeOptical.com,3,15,paneye.com,http://www.linkedin.com/in/lisa-blankenship-b38b3745
+Leonard,Avril,Owner,Southwest Florida Eye Care,1109 Del Prado Blvd S Ste 10,Cape Coral,FL,33990-3636,239-574-5406,lavril@swfleye.com,5,50,swfleye.com,http://www.linkedin.com/in/leonard-avril-2420895
+John,Cross,Medical Doctor,Arvada Vision & Eye Clinic,5801 Wadsworth Blvd,Arvada,CO,80003-5421,303-422-3817,jcross@arvadavision.com,2,15,arvadavision.com,http://www.linkedin.com/in/john-cross-2b4467a
+Jason,Stutz,Director Of Corporate Communications,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,jstutz@pshcs.com,5,50,pshcs.com,http://www.linkedin.com/in/jason-stutz-bb58477
+Lauren,Noriega,Media Marketing Manager,Eye Care Centers of America; Inc.,11103 West Ave Ste 1,San Antonio,TX,78213-4920,210-524-6930,lnoriega@ecca.com,370,4200,ecca.com,http://www.linkedin.com/in/lauren-noriega-1323295
+Alan,Lewis,President,New England College of Optometry,424 Beacon St,Boston,MA,02115-1129,617-236-6254,lewisa@neco.edu,5,50,neco.edu,http://www.linkedin.com/ilan-lewis-36a55022
+Mary,Wetherbee,Coder Supervisor,Prevea Health,2793 Lineville Rd,Green Bay,WI,54313-7152,920-496-4733,maryw@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/mary-wetherbee-497a5b63
+Amy,Lewandowski,Recruiter,Prevea Health,1727 Shawano Ave,Green Bay,WI,54303-3268,920-496-4700,amyl@prevea.com,75,500,prevea.com,http://www.linkedin.com/imy-abts-lewandowski-7ab06411
+Maurice,Zadeh,Owner,Family Eyecare Of Roswell,1425 Market Blvd # 315,Roswell,GA,30076-6715,770-992-6789,zadeh@familyeyecareofroswell.com,0,5,familyeyecareofroswell.com,http://www.linkedin.com/in/maurice-zadeh-95556613
+Stan,Richardson,Quality Assurance Manager,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,srichardson@essner.com,0,5,nwvision.org,http://www.linkedin.com/in/stan-richardson-8b332b56
+Gregory,Goetzinger,Optometrist,Carthage Vision Clinic,2020a S Garrison Ave,Carthage,MO,64836,417-359-0600,eyedrg@carthagevisionclinic.com,0,0,carthagevisionclinic.com,http://www.linkedin.com/in/greg-goetzinger-9b92881b
+Graham,Wood,Human Resources Manager,OPTO Intl Inc,220 Messner Dr,Wheeling,IL,60090-6436,847-541-6786,GWood@optosystem.com,1,15,optosystem.com,http://www.linkedin.com/in/graham-wood-bb82b692
+Nadine,Forche,Medical Doctor,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,nforche@fivepointseyecare.com,0,15,fivepointseyecare.com,http://www.linkedin.com/in/nadine-forche-4a4ba438
+Guido,Piquet,Information Technology,Mann Eye Institute,18850 S Memorial Dr,Humble,TX,77338-4288,713-580-2508,guido.piquet@manneye.com,30,200,manneye.com,http://www.linkedin.com/in/guidopiquet
+STEVEN H,KANTOR,PARTNER,CENTRAL PHOENIX EYECARE,5727 N 7TH ST STE 105,PHOENIX,AZ,85014-5815,602-265-8597,drkantor@cpe.phxcoxmail.com,0,3,CPE.PHXCOXMAIL.COM,http://www.linkedin.com/in/steven-kantor-81a4042b
+Daniel,Shen,Owner,Eye Q,1101 Pacific Ave # E,Santa Cruz,CA,95060-7506,831-466-3937,Daniel@eyeqsantacruz.com,0,6,eyeqsantacruz.com,http://www.linkedin.com/in/danny-shen-5b9bbb4
+Alan,Miles,Legal Search Consultant,Alan Miles & Associates; Inc.,1821 Wilshire Boulevard; Suite 550,Santa Monica,CA,90403,310-829-9589,amiles@mileslawsearch.com,1,15,mileslawsearch.com,http://www.linkedin.com/ilan-miles-75a0726
+Donna,Braun,Human Resources Executive,Northwest Eye Clinic,8401 Golden Valley Rd # 330,Golden Valley,MN,55427-4687,763-383-4130,Donna_Braun@Nweyeclinic.com,6,15,Nweyeclinic.com,http://www.linkedin.com/in/donna-braun-381b185
+Gayle,Knudson,Office Manager,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-771-3159,gayle.knudson@gfclinic.com,30,200,gfclinic.com,http://www.linkedin.com/in/gayle-knudson-12b02112
+Richard,Baker,Supply Chain Coordinator,World Vision US,4200 Industry Dr E Ste D,Fife,WA,98424-1852,253-926-5599,rbaker@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/richard-baker-jr-aa36a940
+Rene,Calster,Clinical Application Manager,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1956,renev@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/rene-van-calster-70869511
+Bob,Dyke,Director of equipment services,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,bvandyke@eyemartexpress.com,30,50,eyemartexpress.com,http://www.linkedin.com/in/bob-dyke-2067b832
+Edward,Bantamoi,team leader,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,edwardb@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/edward-bantamoi-62b9104b
+Louis,Binder,Clinical Advisor Board Member Central USA,International Eye Care,926 N Wilcrest Dr,Houston,TX,77079,713.984.9777,LBinder@texaslasik.com,1,8,texaslasik.com,http://www.linkedin.com/in/louis-binder-1a645217
+Ola,Merrick,Retail Merchandising Specialist,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,OMerrick@eyemartexpress.com,30,50,eyemartexpress.com,http://www.linkedin.com/in/ola-merrick-072a2529
+Ben,Cook,Chief Executive Officer,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,513-984-1777,b.cook@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,http://www.linkedin.com/in/ben-cook-86553b12
+Morris,Lehrfeld,Optometrist,Palatine Vision Center,251 E Northwest Hwy,Palatine,IL,60067,847-358-4950,lehrfeld@palatinevision.com,0,4,palatinevision.com,http://www.linkedin.com/in/lehrfeld-morris-b8b08a7
+Michael,Klein,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,mklein@kdklaw.com,0,3,kdklaw.com,http://www.linkedin.com/in/michael-klein-32293b16
+Daniel,Hock,Owner,Evergreen Vision Clinic,30960 Stagecoach Blvd,Evergreen,CO,80439-7902,303-674-4143,dhock@evergreenvision.com,5,50,evergreenvision.com,http://www.linkedin.com/in/dan-hock-b6a9022b
+Sandra,Rapacz,Head Information Technology,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,srapacz@althoffind.com,5,7,cohensfashionoptical.com,
+Rick,Peterson,Graphic Designer,Absolute Vision Care Inc,5553 127th St,Midlothian,IL,60445,708-371-5160,drrickavc@absolutevision.com,0,3,absolutevision.com,http://www.linkedin.com/in/dr-rick-peterson-833a9829
+Jeff,Eichenlaub,Associate Director Corporate Engagement,World Vision US,6 Borrell Ct,Saint James,NY,11780-1640,631-368-3200,jeichenl@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/jeff-eichenlaub-48608b8
+Tina,Mc Carty,Medical Doctor,Eyecare Center-Maplewood,1965 11th Ave E Ste 101,Saint Paul,MN,55109-5168,651-777-3555,tina.mccarty@eyecarecenters.net,5,4,eyecarecenters.net,http://www.linkedin.com/in/tina-mccarty-9813857
+Theresa,Etter,Administrative Assistant,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,tetter@essner.com,0,5,nwvision.org,
+Brian,Andrew,General Counsel,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,brian.andrew@tlcvision.com,288,1100,tlcvision.com,http://www.linkedin.com/in/brian-andrew-aa03009
+Ben,Ben,Chief Financial Officer,Lasik Vision Institute,2000 Palm Beach Lakes Blvd Ste 800,West Palm Beach,FL,33409-6505,561-965-9110,bcook@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,http://www.linkedin.com/in/ben-cook-86553b12
+Mike,Feeney,Office Manager,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-456-1004,mfeeney@visionfirsteyecare.com,65,15,visionfirsteyecare.com,http://www.linkedin.com/in/mike-feeney-480b7ba
+Steve,Toman,President,Toman; Steven D,11295 Provencal Pl,San Diego,CA,92128-3672,619-524-0196,steven.toman@med.navy.mil,80,1,med.navy.mil,
+Gregory,Kovats,Medical Doctor,Madison Eye Care Assoc,17520 Madison Ave,Lakewood,OH,44107-3535,216-228-3343,gregory.kovats@madisoneyecare.com,0,15,madisoneyecare.com,
+Jason,Fronk,Medical Doctor,Vision One,610 S Americana Blvd,Boise,ID,83702-6731,208-344-2020,jfronk@vision-1.com,0,15,vision-1.com,
+Judd,Od,Medical Doctor,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,513-984-1777,judd.od@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Tom,Goettel,Pastor,Highland Vision Care,500 CANYON RIDGE DR STE L350,Austin,TX,78753-1641,620-674-3429,tomgoettel@centerchristianchurch.com,0,15,highlandvisioncare.com,
+Stephen,Franklin,Chief Executive Officer,Accurate Optical Company; Inc,31519 Winterplace Pkwy,Salisbury,MD,21804,410-749-1545,sfranklin@accurateoptical.net,0,15,accurateoptical.net,http://www.linkedin.com/in/stephenlfranklin
+Debbie,Hibler,Sales And Marketing,TLC Vision Corporation,5875 Castle Crk 136,Indianapolis,IN,46250,317-845-2020,debbie.hibler@tlcvision.com,287,1100,tlcvision.com,http://www.linkedin.com/in/debbie-hibler-76313918
+Vincent,Copple,Owner; Human Resources Executives,Billerica Liquors,3725 Ingersoll Ave Null,Des Moines,IA,50312-3410,515-255-5533,vcopple@cvkcorp.com,2,20,cvkcorp.com,
+Meg,Brya,Optometrist,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,drmeg@fivepointseyecare.com,0,15,fivepointseyecare.com,http://www.linkedin.com/in/margaret-brya-7477ab15
+Carie,Harris,Business Manager,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,carie.harris@tlcvision.com,288,1100,tlcvision.com,http://www.linkedin.com/in/carrie-harris-5a18411b
+James,Devine,Partner,Eyecare Specialties; P.C.,7930 O St,Lincoln,NE,68510,402-488-1291,jdevine@eyecarespecialties.com,0,6,eyecarespecialties.com,http://www.linkedin.com/in/jim-devine-3b556927
+Kevin,Chauvette,Owner,Merrimack Vision Care; LLC,401 Daniel Webster Hwy # 3,Merrimack,NH,3054,603-424-0404,kchauvette@merrimackvision.com,5,50,merrimackvision.com,http://www.linkedin.com/in/kevin-chauvette-1b47692b
+Barry,Morrison,Doctor of Optometry,Morrison; Barry D,299 Aikens Center,Martinsburg,WV,25401-6208,304-263-6716,bmorrison@berkeleyoptical.com,5,50,berkeleyoptical.com,http://www.linkedin.com/in/dr-barry-morrison-6b746324
+Glenn,Ellisor,Medical Doctor,Vision Source,5514 Atascocita Rd Ste 100,Humble,TX,77346-2969,281-548-2020,gellisor@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/glenn-ellisor-919a6a59
+Cecil,Swyers,Owner,Cbd Ophthalmic Tomey,4800 N 22nd St,Phoenix,AZ,85016-4701,602-508-4736,CSwyers@Tomeyusa.com,0,5,Tomeyusa.com,http://www.linkedin.com/in/cecil-swyers-634a2514
+Larry,Weiss,Executive Director,Bishe; Edith L Center For Blind & Visually Impaired Inc,628 N Arthur St,Kennewick,WA,99336,509-735-0699,larry@edithbishelcenter.org,0,5,edithbishelcenter.org,http://www.linkedin.com/in/larry-weiss-59555539
+Richard,Kestenbaum,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,rkestenbaum@kdklaw.com,0,3,kdklaw.com,http://www.linkedin.com/in/richard-kestenbaum-52a94714
+Carol,Farina,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,615-320-0143,carol.farina@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Kelli,Maddy,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,503-684-1280,kmaddy@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Kevin,Connor,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,703-734-6030,kevin.connor@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Daryl,Jurbala,Chief Executive Officer,Introspect.Net Consulting Inc,116 N Bellevue Ave,New Hope,PA,19047,215-752-7660,daryl@introspect.net,0,5,introspect.net,http://www.linkedin.com/in/darylj
+Holly,Anderson,Optometrist,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,andersonh@mcdonaldeye.com,0,25,mcdonaldeye.com,
+Marlene,Miller,Service Line Director Lab and Diagnost...,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4700,marlenem@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/marlene-miller-25696119
+Wes,Johnson,Human Resources Manager,Professional Eyecare,6575 W 119th St,Overland Park,KS,66209-2001,913-696-0092,WJohnson@professionaleyecare.net,5,3,professionaleyecare.net,
+Rod,Rallo,Owner,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-456-1004,rrallo@visionfirsteyecare.com,65,15,visionfirsteyecare.com,http://www.linkedin.com/in/rallo-rod-36671265
+Colleen,Daley,President,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-0107 x652,cdaley@spokaneeye.com,75,500,spokaneeye.com,
+Cherry,Cockrell,Medical Doctor,Cockrell Eyecare Ctr,1711 W 6th Ave,Stillwater,OK,74074-4200,405-372-1715,ccockrell@cockrelleyecare.com,5,50,cockrelleyecare.com,
+Diane,Robbins-Luce,Owner,Murrayhill Eye Care,14667 SW Teal Blvd,Beaverton,OR,97007-6194,503-579-2020,diane.robbins-luce@murrayhilleyecare.com,0,15,murrayhilleyecare.com,
+Kerry,Steck,Owner,Pelham Vision Center PA,317 The Pkwy,Greer,SC,29650-4569,864-627-0634,ksteck@pelhamvisioncenter.com,0,15,pelhamvisioncenter.com,
+S Barry,Eiden,Owner; Human Resources Executive,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,sbeiden@nsvc.com,5,15,nsvc.com,http://www.linkedin.com/in/s-barry-eiden-387250b
+Kim,Williams,Finance Executive,Helena Physicians' Clinic,3330 Ptarmigan Ln,Helena,MT,59602-0521,406-442-3570,Kim.Williams@Gfclinic.com,30,200,Gfclinic.com,
+John,Zeller,Plant Manager,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4789,John_Zeller@Prevea.com,75,500,prevea.com,
+Suzanne,Devroye,Finance Executive,Michael J Bermel & Assoc,7531 Somerset Crossing Dr,Gainesville,VA,20155-4873,571-261-4261,sdevroye@drbermel.com,0,0,Drbermel.com,
+BRENDA,WEIRICH,OWNER,BRENDA WEIRICH & ASSOC,1114 N POINT CIR,ALPHARETTA,GA,30022-4854,770-667-8060,bweirich@lenscrafters.com,1330,25000,LENSCRAFTERS.COM,
+Sherry,Mansfield,Chairman,Lenscrafters Inc,320 Chicago Ridge Mall Apt C15,Chicago Ridge,IL,60415,708-423-1515,smansfield@lenscrafters.com,1330,25000,lenscrafters.com,
+Teresa,Garza,Manager,Lenscrafters Inc,5400 Brodie Ln Ste 350,Austin,TX,78745,512-892-5500,tgarza@officemax.com,13270,41000,officemax.com,
+James,Bing,Doctor Of Medicine,Bing James D & Bing Lois B OD,7054 W 130th St,Cleveland,OH,44130,440-845-5210,jbing@clarionnet.com,150,50,clarionnet.com,
+Tam,Angela,Manager,Preimer Eyecare of San,3201 Mission St,San Francisco,CA,94110,415-648-3600,tangela@premiereyecare.net,4,4,premiereyecare.net,
+Darvin,Cull,Purchasing Agent,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,dcull@essner.com,0,5,nwvision.org,
+Robert,Agulilar,Purchasing Agent,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,ragulilar@essner.com,0,5,nwvision.org,
+Linda,Ogura,Office Manager,Vision Service Corporation,6614 Logan Dr,Evansville,IN,47715,812-477-6700,logura@eye-mart.com,5,5,eyemart.com,
+Nicholas,Koshuta,Optometrist,Wright & Jones,410 N San Francisco St,Flagstaff,AZ,86001,928-774-5093,drk@flagstaffeyecare.com,0,10,flagstaffeyecare.com,
+Sean,Claflin,Optometrist,Claflin Eye Care,1924 Franklin Ave,Canon City,CO,81212,719-276-1660,sean@claflineyecare.com,0,2,claflineyecare.com,
+Denise,Griffin,Executive Assistant,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,dmgriffin@eyenm.com,3,9,eyenm.com,http://www.linkedin.com/in/dee-griffin-0122ab23
+Randy,Andregg,Optometrist,Vision One,610 S Americana Blvd,Boise,ID,83702-6731,208-336-7200,lcook@vision-1.com,0,15,vision-1.com,http://www.linkedin.com/in/lauren-cook-32a47812
+John,Schmidt,Partner/Real Estate,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-451-0332,jschmitt@visionfirsteyecare.com,65,15,visionfirsteyecare.com,http://www.linkedin.com/in/john-schmitt-9450692b
+Bonnie,Demark,Optician,Family Eyecare Specialist,420 E Elm St,Caldwell,ID,83605-4846,208-459-2020,bonnie@familyeyes.com,0,0,familyeyes.com,http://www.linkedin.com/in/bonnie-demark-56814318
+Brian,Grudem,Principal,Birch Lake Eye Clinic,4720 WHITE BEAR PKWY,White Bear Lake,MN,55110-3336,651-426-2747,briang@birchlakeeyeclinic.com,2,20,birchlakeeyeclinic.com,http://www.linkedin.com/in/brian-grudem-5a986a26
+Gregory,Garner,President,MIDWEST EYE CONSULTANTS PC,835 N Cass Street,Wabash,IN,46992-1613,260-569-9550,ggarner@mwec-pc.com,0,3,mwec-pc.com,http://www.linkedin.com/in/gregory-garner-0a3a2120
+Howard,Schor,General Manager,COFFMAN VISION CLINIC,61535 S Highway. 97 Highway,Bend,OR,97702-2154,541-389-3971,howard@coffmanvision.com,0,4,coffmanvision.com,http://www.linkedin.com/in/howard-schor-1bb40428
+Richard,Rolston,Chief Executive Officer,Prevea Clinic,5400 Gibson Blvd SE,Albuquerque,NM,87108-4729,505-262-7000,richardr@prevea.com,75,500,prevea.com,
+Vu,Nguyen,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drnguyen@todaysvision.com,5,50,todaysvision.com,
+Timothy,Phair,Information Technology Technical Services Manager,Clinical Laboratory Partners Llc,129 Patricia M Genova Dr,Newington,CT,06111-1543,860-696-8055,tphair@clpct.com,30,500,clinicallabpartners.com,
+Carmen,Castellano,Owner,Koetting Associates,2511 S BRENTWOOD BLVD,Saint Louis,MO,63144-2308,314-863-0000,ccastellano@koettingassociates.com,5,50,koettingassociates.com,http://www.linkedin.com/in/carmen-castellano-841b13a
+Jim,Kivlin,Owner,Kivlin Eye Clinic,2303 Schneider Ave SE # 100,Menomonie,WI,54751,715-235-3838,jim.kivlin@kivlineyeclinic.com,0,9,kivlineyeclinic.com,
+Travis,Little,Information Technology,Ossip Optometry,5948 N College Ave,Indianapolis,IN,46220-2554,,tlittle@ossip.com,5,50,ossip.com,http://www.linkedin.com/in/travis-little-5197596
+Tim,Rankin,President,Nick L Neagle Od,2 Pidgeon Hill Dr Ste 180,Sterling,VA,20165,703-444-8502,timrankin@totalresults.net,0,1,totalresults.net,http://www.linkedin.com/in/tim-rankin-134635
+Rick,Schaefer,President,Capital Advisors,16303 Yellow Sage St Ste 101,Pflugerville,TX,78660,512-231-0890,rick@capitaladvisors.us,1625,5500,capitaladvisors.us,http://www.linkedin.com/in/rick-schaefer-41813785
+David,Robertson,Owner,Spinal Performance Ctr,4900 Woodway Dr Ste 520,Houston,TX,77056-1881,713-358-7500,drobertson@covenant.com,5,3,covenant.com,http://www.linkedin.com/in/david-robertson-5a24736a
+Terri,Younger,Accounting Admin,Abba Eyecare,4331 Centennial Blvd,Colorado Springs,CO,80907,719-630-8200,terri@abbaeyecare.com,0,0,abbaeyecare.com,http://www.linkedin.com/in/terri-younger-a92a1328
+Tina,Hull,Human Resources Director,Eye Institute,2000 S Wheeling Ave Ste 500,Tulsa,OK,74104-5642,918-747-3937,thull@eyeinst.com,5,50,eyeinst.com,http://www.linkedin.com/in/tina-hull-a232565a
+Tim,Joness,Contractor,Maverick Construction and Management Services,PO Box 60700,King of Prussia,PA,19406-0700,610-783-6202,tjoness@maverick-cm.com,5,15,maverick-cm.com,
+Carl,Christensen,Chief Information Officer,Marshfield Clinic Inc,Marshfield Clinic - Marshfield Center 1000 North Oak Avenue,Marshfield,WI,54449,715-387-5511,cchristensen@mfldclin.edu,664,5696,mfldclin.edu,
+Charles,Pegram,Medical Doctor,Vistar Eye Center,548 Blue Ridge Ave,Bedford,VA,24523-2604,540-586-5700,cpegram@vistareye.com,1,15,vistareye.com,
+Donald,Cerise,Medical Doctor,Eyecare Associates,PO Box 334,Conrad,IA,50621-0334,641-366-3002,dcerise@eyecareneworleans.com,5,15,eyecareneworleans.com,
+Donald,Glenz,Medical Doctor,Today'S Vision Sugar Land,15309 Southwest Fwy,Sugar Land,TX,77478-3870,281-469-2020,donald.glenz@todaysvision.com,5,50,todaysvision.com,
+Greg,Butterworth,Medical Doctor,Vision Associates Inc,920 Revolution St,Havre de Grace,MD,21078-3718,410-939-2200,gbutterworth@visionassoc.com,5,50,visionassoc.com,
+Heath,Bullard,Medical Doctor,Cleburne Eye Clinic,PO Box 476,Cleburne,TX,76033-0476,817-645-2411,hbullard@cleburneeyeclinic.com,5,50,cleburneeyeclinic.com,
+James,Freedman,Medical Doctor,South Shore Eye Assoc,670 Depot St,North Easton,MA,2356,508-238-8460,jamesf@southshoreeye.com,5,50,southshoreeye.com,
+John,Blackley,Medical Doctor,Eye Care PROFESSIONALS-Ny,130 Empire Dr,Buffalo,NY,14224-1320,716-656-2011,jblackley@eyecarepros.com,3,7,eyecarepros.com,
+Gina,Schenk,Physician,Lenscrafters Foundation Inc,4000 Luxottica Pl,Mason,OH,45040,513-765-6000,gschenk@lenscrafters.com,1330,25000,lenscrafters.com,
+James,Stoelting,Executive Director of Medical Records,Lenscrafters Foundation Inc,4000 Luxottica Pl,Mason,OH,45040,513-765-6000,jstoelting@lenscrafters.com,1330,25000,lenscrafters.com,
+Steven,Wilson,Attorney,Law Ofc Steven A Wilson Ltd,511 Linda Kay Ct,Carson City,CA,89701,775-882-5545,taxlaw2@pyramid.net,1,5,pyramid.net,
+Angela,Gunn,Finance Executive,Lenscrafters,699 Boylston St,Boston,MA,02116-2848,617-437-1070,Angela_Gunn@Lenscrafters.com,1330,25000,Lenscrafters.com,
+George,Oconnel,Finance Executive,Lenscrafters,630 Old Country Rd # 522,Garden City,NY,11530-3402,516-873-0742,George@Lenscrafters.com,1330,25000,Lenscrafters.com,
+Marvin,Mayberry,Owner,Subway,219 US Route 1,Falmouth,ME,04105-1325,207-781-3103,Marvin@Subway.com,468,730,Subway.com,
+Nancy,Amir,Owner,Santa Rosa Low Vision Clinic,9577 Huebner Rd # 4,San Antonio,TX,78240-1688,210-228-0030,Nancy_Amir@Lowvisionclinic.net,0,15,Lowvisionclinic.net,
+TED T,NAMBA,OWNER,TED T NAMBA & ASSOC,2330 N 75TH AVE STE 101,PHOENIX,AZ,85035-1200,623-849-8726,tnamba@lenscrafters.com,1330,25000,LENSCRAFTERS.COM,
+Edward,Malak,Owner,Oculus,3570 Las Vegas Blvd S,Las Vegas,NV,89109-8924,702-731-4850,edward_malak@oculusinc.com,4,40,oculusinc.com,
+Charles,Langley,General Manager,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,clangley@essner.com,0,5,nwvision.org,http://www.linkedin.com/in/charles-langley-4550a517
+William,Tullo,Clinical Director Tlc Manhattan,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,,william.tullo@tlcvision.com,287,1100,tlcvision.com,http://www.linkedin.com/in/bill-tullo-a578347
+Kelly,Ferree,Executive Administrator,Coastal Eye Assoc,555 E Medical Center Blvd Ste 101,Webster,TX,77598-4367,281-488-7213,kellyf@coastaleyeassociates.com,1,15,coastaleyeassociates.com,http://www.linkedin.com/in/kellyferree
+Steven,Bennett,HR Manager,Bennett Optometry,2000 Green Rd # 200,Ann Arbor,MI,48105-1575,734-930-2373,SBennett@bennettoptometry.com,0,15,bennettoptometry.com,http://www.linkedin.com/in/steve-bennett-66092a3
+David,Landess,Owner / Co-Owner / Partner,McLean County Eye Center,1607 VISA DR STE 4,Normal,IL,61761-6160,309-454-2472,dklandess@2020medical.com,0,15,2020medical.com,http://www.linkedin.com/in/david-landess-12531a82
+William,Ernstein,Owner,Palatine Vision Center LLC,Palatine Plaza Shopping Center 251 E. Northwest Highway,Palatine,IL,60067,847-358-4950,ernstein@palatinevision.com,0,4,palatinevision.com,
+Brian,Cohen,Medical Doctor,Campus Eyes,1700 White Horse,Trenton,NJ,8690,609-587-2020,bcohen@campuseye.com,5,50,campuseye.com,
+Moira,Long,Human Resources Director,Mann Eye Institute,18850 S Memorial Dr,Humble,TX,77338-4288,713-580-2568,mlong@manneye.com,30,200,manneye.com,http://www.linkedin.com/in/moira-long-ba92b59
+Brian,Sayre,Orchestra Manager Acting,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,brian.sayre@nws.edu,0,62,rdeyes.com,
+Travis,Dickenson,Orchestra Manager,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,travis.dickenson@nws.edu,0,62,rdeyes.com,
+Michael,Bermel,Owner,Michael J Bermel Od PC,7909 Stonewall Shops Sq,Gainesville,VA,20155,571-261-5100,mbermel@drbermel.com,0,25,drbermel.com,http://www.linkedin.com/in/michael-bermel-b8698433
+Paul,Endry,Owner,Eye Center,675 Biltmore Ave # H,Asheville,NC,28803-2527,828-253-3533,knichols@eyecarenow.com,5,6,eyecarenow.com,http://www.linkedin.com/in/kathi-nichols-b5a47124
+Linda,Hill,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drhill@todaysvision.com,5,50,todaysvision.com,
+Mark,Chavana,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drchavana@todaysvision.com,5,50,todaysvision.com,
+Curtis John,Dominque,In House Counsel,Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281-312-1111 x218,cdomingue@visionsource.com,30,5,visionsource.com,
+Peter,Flatow,Chief Executive Officer,CoKnowledge Inc,475 Fairfield Beach Road,Fairfield,CT,6430,203-256-5600,flatowp@coknowledge.com,0,5,coknowledge.com,http://www.linkedin.com/in/peterflatow
+Kellee,Bertsch,Medical Doctor,Today'S Vision Sugar Land,15309 Southwest Fwy,Sugar Land,TX,77478-3870,281-469-2020,kellee.bertsch@todaysvision.com,5,50,todaysvision.com,
+Kristen,Runke,Owner; Human Resources Executive,Unwalla and Runke Optical,9909 Georgetown Pike Null,Great Falls,VA,22066-2826,703-759-0061,runke@greatfallseyecare.com,5,15,greatfallseyecare.com,
+H Kenneth,Kopolow,Human Resources,Doctors Of Optometry,1300 W Sunset Rd # 1617,Henderson,NV,89014-6623,702-436-0266,h-kopolow@lenscrafters.com,1330,25000,lenscrafters.com,
+HOWARD B,BACON,PARTNER,FAMILY OPTOMERTY,2950 N DOBSON RD STE 11,CHANDLER,AZ,85224-1824,480-963-8833,hbbacon@familyoptometry.net,0,3,FAMILYOPTOMETRY.NET,
+Patricia,Gelner,Owner,Gelner Optometry PC,14386 Woodlake Dr,Chesterfield,MO,63017-5782,314-434-2626,gelner@gelner.com,0,3,gelner.com,
+Tom,Lef,Finance Executive,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,left@althoffind.com,5,7,cohensfashionoptical.com,
+Chris,Schlottmann,Business Development,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,chris@essner.com,0,5,nwvision.org,http://www.linkedin.com/in/chris-schlottmann-aa762315
+Eric,Parsons,Executive Assistant To The President And Chief Exe,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,eric.parsons@nws.edu,0,62,rdeyes.com,http://www.linkedin.com/in/beth-boleyn-7b11907
+Jeffrey,Huettemann,Optometrist,McLean County Eye Care Center,1607 Visa Dr Ste 4,Normal,IL,61761,309-454-2472,jahuettemann@2020medical.com,30,15,2020medical.com,http://www.linkedin.com/in/jeffrey-huettemann-6a947830
+Neeja,Bindal,Optometrist,College Park Hearing Services Ltd,7305 Baltimore Ave # 204,College Park,MD,20740,301-277-2100,drs@contactlensassociates.net,0,5,contactlensassociates.net,http://www.linkedin.com/in/stuart-schatz-5248b32a
+Jon,Scott,Owner,Battleground Eye Care,3132 Battleground Ave,Greensboro,NC,27408-1915,336-282-2273,drscott@battlegroundeye.com,0,15,battlegroundeye.com,http://www.linkedin.com/in/nceyedoc
+Jeffrey,Pyndo,Opthalmology,The Eye Center of North Florida,8019 Front Beach Rd,Panama City Beach,FL,32407-4818,850-234-1829,jpyne@eyecarenow.com,5,6,eyecarenow.com,http://www.linkedin.com/in/jeffrey-pyne-1b4a0017
+Yoongie,Min,Owner,Northwest Vision Ctr,1161 Bethel Rd,Columbus,OH,43220-2773,614-273-2020,eyes@nwvision.org,0,7,nwvision.org,
+Frank,Setren,Owner,Professional Vision,720 DULANEY VALLEY RD,Towson,MD,21204-5109,410-823-1343,setren@professionalvision.com,5,50,professionalvision.com,http://www.linkedin.com/in/frank-setren-21494948
+John,Lynch,Partner,Accurate Optical Co,31519 Winterplace Pkwy Ste 2,Salisbury,MD,21804-1894,410-749-1545,jlynch@accurateoptical.net,0,15,accurateoptical.net,
+Peter,Theodorous,Partner,Nittany Eye Associates Ltd,428 Windmere Dr,State College,PA,16801,814-238-8470,ptheodorous@nittanyeye.com,0,26,nittanyeye.com,
+Rebecca,Uhlig,Owner; Human Resources Executive,Hawthorne Vision Ctr,4704 SE Hawthorne Blvd,Portland,OR,97215-3250,503-235-6639,ruhlig@hawthornevision.com,1,10,hawthornevision.com,
+Brian D,Atkins,Owner,Doctors Of Optometry,2765 S Veterans Pkwy,Springfield,IL,62704-6402,217-787-6276,atkinsb@lenscrafters.com,1330,25000,lenscrafters.com,
+Dennis M,Brtva,Owner,Doctors Of Optometry,801 W Lake Ave,Peoria,IL,61614-5951,309-686-0763,d_brtva@lenscrafters.com,1330,25000,lenscrafters.com,
+Steven,Pinard,Cheif Operations Officer,Doctors Of Optometry,4403 Black Horse Pike # 129,Mays Landing,NJ,08330-3113,609-484-0060,stevenp@lenscrafters.com,1330,25000,lenscrafters.com,http://www.linkedin.com/in/steven-pinard-77aa92b
+Jeff,Schwers,Optometrist,Eye 2 Eye,440 E State St Ste 140,Eagle,ID,83616,208-939-7000,vision@eye2eyeidaho.com,0,4,eye2eyeidaho.com,
+Chad,Albright,Doctor,Vistar Eye Center,426 W Main St,Salem,VA,24153-3610,540-389-8639,calbright@vistareye.com,1,15,vistareye.com,http://www.linkedin.com/in/chad-albright-747b1746
+James,Bieber,Owner,Bieber & Fillmore,2098 Tremont Ctr,Columbus,OH,43221-3108,614-486-5205,jbieber@nweyes.com,5,10,nweyes.com,
+Thomas,Hobbs,Owner,Insight Eyecare,602 N Maguire St,Warrensburg,MO,64093-1420,660-747-7300,thobbs@insighteyecare.com,5,50,insighteyecare.com,
+William,Stern,Owner,Visionhealth Eyecare Center,153 WOODLAWN DR,Shawano,WI,54166-2233,715-524-2553,wstern@sternvision.com,5,15,sternvision.com,
+Patti,Leonard,Medical Doctor,Eye Care PROFESSIONALS-Ny,130 Empire Dr,Buffalo,NY,14224-1320,716-656-2011,pleonard@eyecarepros.com,3,7,eyecarepros.com,
+John,Skadin,Chief Financial Officer Vice-President Finance Vice President Finance,Saint Joseph's Hospital Of Marshfield; Inc,611 Saint Joseph Avenue,Marshfield,WI,54449,715-387-1713,john.skadin@mfldclin.edu,664,5696,mfldclin.edu,
+Grant,Smith,Owner,Visionsmith,4190 Vinewood Ln N Ste 109,Minneapolis,MN,55442-1771,763-559-7561,grant@visionsmith.com,0,15,visionsmith.com,
+Ronald,Martin,Owner; Human Resources Executive,Vision Health Optometry Ctr,1440 Medical Center Dr,Rohnert Park,CA,94928-2924,707-795-9565,rmartin@vision-health.com,0,15,vision-health.com,
+Jeffrey,Dannenberg,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,jdannenberg@kdklaw.com,0,3,kdklaw.com,http://www.linkedin.com/in/jdannenberg
+Beth,Triebel,Partner,Vision Park Family Eye Care,2699 86th St,Des Moines,IA,50322,515-270-2490,btriebel@vision-park.com,5,50,vision-park.com,http://www.linkedin.com/in/beth-triebel-71b82930
+David,Edinger,Partner,The Eye Center of North Florida,2500 Martin Luther King Jr Blvd,Panama City,FL,32405-4412,850-784-3937,dedinger@eyecarenow.com,5,6,eyecarenow.com,
+Eric,Henrickson,Managing Director,Tlc Vision Corp,2361 CAMPUS DRIVE STE 101,IRVINE,CA,92612,800-852-1033,ehenrickson@sccapitalpartnersllc.com,5,15,sccapitalpartnersllc.com,http://www.linkedin.com/in/ericdhenrickson
+David,DeGeorge,Senior Director,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,DDeGeorge@visionsource.com,30,5,visionsource.com,http://www.linkedin.com/in/david-degeorge-051320a
+Rhonda,Robinson,Partner,Ossip Optometry,6985 W 38th St Ste 100,Indianapolis,IN,46254-3918,317-243-0028,rrobinson@ossip.com,5,50,ossip.com,http://www.linkedin.com/in/rhonda-robinson-229668b
+John,Fiore,Principal,Maverick Construction and Management Services,PO Box 60700,King of Prussia,PA,19406-0700,610-783-6202,jfiore@maverick-cm.com,5,15,maverick-cm.com,
+Paul,Woehrle,Senior Director Development And Government Relatio,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,paul.woehrle@nws.edu,0,62,rdeyes.com,
+Carol,Barron,Optometrist,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,cbarron@nsvc.com,5,15,nsvc.com,http://www.linkedin.com/in/carol-barron-02492721
+Carrie,Koenig,Optometrist,McFarland Clinic; P.C.,718 Story St,Boone,IA,50036,515-432-2020,ckoenig@mcfarlandclinic.com,30,200,mcfarlandclinic.com,http://www.linkedin.com/in/carrie-koenig-72a53322
+Michael,Grace,Owner,Grace Eye Clinic,1045 W Pioneer Pkwy,Grand Prairie,TX,75051,972-641-5606,michael@michaelgrace.com,0,249,michaelgrace.com,http://www.linkedin.com/in/michael-grace-6611572a
+Cara,Frasco,Partner,Middleton Eyecare,315 N Breiel Blvd,Middletown,OH,45042,513-424-0339,cfrasco@middletowneyecare.com,0,7,middletowneyecare.com,http://www.linkedin.com/in/cara-frasco-28518181
+Scott,Czarnecki,Information Technology,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1692,scottc@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/scott-czarnecki-5689b43
+Xavier,Danthinne,President,Od 260; Inc,624 Hill View Dr,Boise,ID,83712-8119,208-345-7369,xdanthin@od260.com,0,1,od260.com,
+Charles,Li,President,Virginia Optoelectronics; Inc.,1405 Ashford CT,Blacksburg,VA,24060,540-449-9658,charles.li@vaopto.com,0,0,vaopto.com,http://www.linkedin.com/in/charles-li-ba056111
+Jeffery,Snow,President,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-0107,jsnow@spokaneeye.com,75,500,spokaneeye.com,
+Paul,Ford,Chief Executive Officer,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,312-252-1313,paul@totalattorneys.com,1,15,infra-strategy.com,http://www.linkedin.com/in/paul-ford-a5398a55
+Andrew,Holzman,Surgeon and Medical Director,Tlc Vision Corp,HORIZON LASER VISION CENTER & PARADISE VALLEY EYE SPECIALISTS 4845 E. THUNDERBIRD ROAD SUITE 1,SCOTTSDALE,AZ,85254,602-467-4966,andrew.holzman@tlcvision.com,287,1100,tlcvision.com,http://www.linkedin.com/in/dr-andy-holzman-38a93a11
+Bruce,Goodman,Owner,My Eye Dr,3309 Foresthill Rd,District Heights,MD,20747,301-423-3282,bgoodman@myeyedr.com,5,50,myeyedr.com,
+Wendell,Alford,Chief Financial Officer,Madison Eye Care Assoc,900 Johnson St,Tallulah,LA,71282-4537,318-574-2374,walford@madisoneyecare.com,0,15,madisoneyecare.com,
+Andrea,Khur,President,OptiCare Managed Vision; Inc,87 Grandview Ave,Waterbury,CT,06708-2514,203-574-2020,andrea.khur@opticare.com,150,500,opticare.net,
+Paul,Reynolds,Finance/information Technology Liason,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,paul.reynolds@tlcvision.com,288,1100,tlcvision.com,
+Mark,Wallner,Vice President of Sales and Marketing ; Sales,Vision Insurance Plan of America ; Inc.,6737 W. Washington St. Suite 2202 P.O. Box 44077,Milwaukee,WI,53214-7077,414-475-1875,mwallner@visionplans.com,5,4,visionplans.com,http://www.linkedin.com/in/mark-wallner-b634ab2
+Allyson,Mertins,Optometrists,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,amertins@mcdonaldeye.com,0,25,mcdonaldeye.com,
+Bobby,Decker,Optometrists,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,bdecker@mcdonaldeye.com,0,25,mcdonaldeye.com,
+Fred,Dickson,Information Technology Director,Marshfield Clinic,Marshfield Clinic Marshfield Center 1000 N Oak Ave,Marshfield,WI,54449-5702,715-387-5511,fdickson@mfldclin.edu,664,5696,mfldclin.edu,
+Jason,Lowman,General/Technical,Callahan Eye Foundation Hosp,1720 University Blvd,Birmingham,AL,35233,205-325-8100,jlowman@uabmc.edu,30,200,uabmc.edu,http://www.linkedin.com/in/jason-lowman-a0386362
+Kevin,Lewis,President,Gordon; Michael D. O.D.; P.A.,234 W Greenway St,Derby,KS,67037,316-788-0384,kevin.lewis@edwardjones.com,3859,31400,edwardjones.com,
+Jordan,Brown,Optometrist,Salem Eye Clinic; LLC,400 N Broadway Ave,Salem,IL,62881,618-548-2554,jordan@salemeyeclinic.com,0,0,salemeyeclinic.com,
+Pat,Granados,Laser Vision Advisor,International Eye Care,926 N Wilcrest Dr,Houston,TX,77079,713-984-9777,patg@texaslasik.com,1,8,texaslasik.com,http://www.linkedin.com/in/patricia-granados-0883859
+Tesha,Peel,Advertising Manager,Clarkson Eyecare Center Inc,217 Clarkson Rd,Ballwin,MO,63011,636-227-2600,tpeel@clarksoneyecare.com,30,200,clarksoneyecare.com,http://www.linkedin.com/in/tesha-peel-8a35b912
+Wes,Michael,Telecommunications Executive,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920-405-1414,wmichael@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/wes-michael-29802413
+Kenneth,Zade,Director-Information Services,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4700,kenz@prevea.com,75,500,prevea.com,
+Shawn,Clark,Information Technology Manager,Bieber & Fillmore,10330 Meridian Ave N,Seattle,WA,98133-9451,614-486-5205,sclark@nweyes.com,5,10,nweyes.com,
+Steven,De Groff,Owner; Human Resources Executive,Family Eye Clinic,150 Forest Park Dr,Berne,IN,46711-1745,260-589-3197,sgroff@drdegroff.com,0,15,drdegroff.com,
+Richard,Bruski,Fleet Manager,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,bruskir@althoffind.com,5,7,cohensfashionoptical.com,
+Stacia,Hahn,Human Resources Executive,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,shahm@althoffind.com,5,7,cohensfashionoptical.com,
+Bruce,Mirkin,Owner,Accent On Eyes,28 S Park Avenue,Rockville Centre,NY,11570,516-766-0222,bruce@accentoneyes.net,5,50,accentoneyes.net,http://www.linkedin.com/in/bruce-mirkin-b626323b
+Stephen,Jackson,Senior Network And Pc Support Analyst,Dean McGee A Eye Institute,608 Stanton L Young Blvd,Oklahoma City,OK,73104,405-271-6060,stephen-jackson@dmei.org,30,200,dmei.org,http://www.linkedin.com/in/stephen-jackson-23615733
+Noah,Eger,Optometrist,Mark W Eger Od PC,1501 State Ave,Coraopolis,PA,15108,412-264-8830,yoursight@egereye.com,0,0,egereye.com,http://www.linkedin.com/in/drnoah-eger-11215820
+Bob,Hannon,Vice President Customer Service,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,bob@infra-strategy.com,1,15,totalattorneys.com,http://www.linkedin.com/in/bobhannon
+Brad,Baggarly,Network Manager,Clairmont Optometry Group,318 N Indian Hill Blvd,Claremont,CA,91711,909-625-7861,drbrad@claremontoptometry.com,0,12,claremontoptometry.com,
+Lana,Ivy,Vice President Development,Dean McGee A Eye Institute,608 Stanton L Young Blvd,Oklahoma City,OK,73104,405-271-6060,lana-ivy@dmei.org,30,200,dmei.org,
+Rosemarie,Hatton,Manager Finance Executive Sales Executive,Lenscrafters Inc,2500 W Moreland Rd,Willow Grove,PA,19090,215-784-9160,rhatton@lenscrafters.com,1330,25000,lenscrafters.com,
+Charles,Mcdonald,Owner,Accurate Optical Company Inc,Ocean City Square 11805 Coastal Highway Suite G,Ocean City,MD,21842,410-643-3355,cmcdonald@accurateoptical.net,0,15,accurateoptical.net,
+Gregory,Kraupa,Co-owner,Optometric Eye Care Centers P.,1202 Moore Lake Dr E,Minneapolis,MN,55432,,greg.kraupa@eyecarecenters.net,5,3,drsciortino.com,http://www.linkedin.com/in/greg-kraupa-b8836b11
+Tim,Ryan,Vice President,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,tim@infra-strategy.com,1,15,totalattorneys.com,http://www.linkedin.com/in/tim-ryan-8893339
+Brett,Hagen,Optometrist,Garland Vision Source Inc,521 W Garland Ave,Spokane,WA,99205,509-327-9505,bhagen@garlandvisionsource.com,0,9,garlandvisionsource.com,http://www.linkedin.com/in/brett-hagen-47ab0446
+Edmund,Scanlan,Chief Executive Officer,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,312-252-1313,ed@infra-strategy.com,1,15,totalattorneys.com,
+Kate,Battle,Vendor,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,877-349-1307,kbattle@totalattorneys.com,1,15,infra-strategy.com,http://www.linkedin.com/in/ktbattle
+Lenore,Katz,Owner,Cohen's Fashion Optical,545 5th Ave # 1,New York,NY,10017-3621,212-697-0915,KatzL@cohensfashionoptical.com,5,8,cohensfashionoptical.com,
+Tony,Powers,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,702-804-5556,tonypowers@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,http://www.linkedin.com/in/tony-powers-93a88410
+Vincent,Ibarra,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,801-266-2010,vibarra@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Karen,Beling,Optometrist,South River Eye Care,2979 Solomons Island Rd,Edgewater,MD,21037,410-956-2828,drbeling@southrivereyecare.com,5,1,southrivereyecare.com,
+Daniel,Markley,Optometrist,Grand Blanc Vision Clinic PC,12606 Holly Rd,Grand Blanc,MI,48439,810-694-3652,julie@grandblancvision.com,0,0,grandblancvision.com,
+Debra,Hunt,Human Resources Executive,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,dhunt@southerneyecenter.com,5,5,southerneyecenter.com,
+William,Od,optometrist,Family Eyecare Specialist,420 E Elm St,Caldwell,ID,83605-4846,208-585-3445,drblack@familyeyes.com,0,0,familyeyes.com,
+Rick,Lohr,Finance Executive,Michigan Eyecare Institute,29877 Telegraph Rd,Southfield,MI,48034,248-352-2806,rlohr@micheyecare.com,4,3,micheyecare.com,
+Wendy,Greene,Accounting and Human Resources Coordin...,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,wgreene@southerneyecenter.com,5,5,southerneyecenter.com,
+Paul,Garland,Partner,The Eye Center of North Florida,2500 Martin Luther King Jr Blvd,Panama City,FL,32405-4412,850-784-3937,pgarland@eyecarenow.com,5,6,eyecarenow.com,http://www.linkedin.com/in/paul-garland-984a0773
+Megan,Bauries,Allied Health Professional,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,mbauries@mcdonaldeye.com,0,0,mcdonaldeye.com,
+Alan,Johnson,Manager,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,ajohnson@spokaneeye.com,75,500,spokaneeye.com,
+Bruce,Grene,Branch Manager,Grene Vision Group,803 Main St,Winfield,KS,67156-2834,620-221-2020,bgrene@grenevisiongroup.com,30,4,grenevisiongroup.com,http://www.linkedin.com/in/bruce-grene-08733a30
+Bryce,Taylor,President,Oregon Board of Optometry,PO Box 13967,Salem,OR,97309-1967,503-585-9999,btaylor@oregonpallet.com,1,4,oregonpallet.com,http://www.linkedin.com/in/bryce-taylor-897a2011
+Christopher,Bergman,Director,Omaha Eye Institute,11606 Nicholas St Ste 200,Omaha,NE,68154-4486,402-493-2020,cbergman@omahaeye.com,5,3,omahaeye.com,http://www.linkedin.com/in/christopher-bergman-91457415
+Joy,Woodke,Office Manager,The Eye Center,1550 OAK ST STE 7,Eugene,OR,97401-7701,541-687-1927,joy.woodke@oregoneyecenter.com,0,3,oregoneyecenter.com,
+Olivia,Terina,Manager,Premier Eye Care Pa,11111 Res,Austin,TX,78759,512-338-5222,oterina@premiereye.com,0,15,premiereye.com,
+Sean,Phibbs,Owner,Emerald Eyes,701 Sea Girt Ave,Sea Girt,NJ,08750-2803,732-974-3937,sphibbs@emeraldeyes.com,5,6,emeraldeyes.com,
+Ralph,Hyver,General Manager,Scotthyver Vision Care; Inc,2901 Tasman Dr Ste 208,Santa Clara,CA,95054,408-486-0898,rhyver@scotthyver.com,0,10,scotthyver.com,http://www.linkedin.com/in/lauren-hyver-8b959866
+Chelsey,Lambert,Consultant,Total Attorneys; Inc.,25 East Washington St.,Chicago,IL,60491,312-753-6947,chelsey@totalattorneys.com,1,15,totalattorneys.com,http://www.linkedin.com/in/chelseylambert
+Cindy,Durand,Manager of the Marketing and Communica...,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4700,cindyd@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/cindy-durand-b88674b
+Emmanuel,Kintu,Executive Director,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-791-6315,ekintu@kphc.org,5,10,kphc.org,http://www.linkedin.com/in/emmanuel-kintu-9743242b
+Irene,Berg,Telecommunications Executive,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-416-7600,iberg@nweyeclinic.com,0,15,nweyeclinic.com,http://www.linkedin.com/in/irene-berg-ba-facmpe-590b115
+Lori,Mowbray,Doctor,Mn Vision Therapy Ctr,7250 France Ave S,Minneapolis,MN,55435-4305,952-844-0844,lmowbray@minnesotavisiontherapy.com,2,24,minnesotavisiontherapy.com,http://www.linkedin.com/in/lori-mowbray-a1679513
+Tom,Carr,Data Processing Executive Executive Of...,OptiCare Managed Vision; Inc,87 Grandview Ave,Waterbury,CT,06708-2514,203-574-2020,tcarr@opticare.com,150,500,opticare.net,
+Ray,Sansbury,Chief Executive Officer,Sansbury Eye Ctr,7588 Woodrow St,Irmo,SC,29063-2874,803-781-2123,ray@sansbury.com,5,50,sansbury.com,
+Michael,Moore,Owner,Moore Eyecare,2600 MARTIN WAY E STE C,Olympia,WA,98506-4974,360-357-7899,mmoore@mooreeyecare.net,0,15,mooreeyecare.net,
+Rita,Wallace,Medical Doctor,Murrayhill Eye Care,14667 SW Teal Blvd,Beaverton,OR,97007-6194,503-579-2020,rita.wallace@murrayhilleyecare.com,0,15,murrayhilleyecare.com,
+Bryan,Crockett,Physician,Accurate Optical Company; Inc,31519 Winterplace Pkwy,Salisbury,MD,21804,410-749-1545,bcrockett@accurateoptical.net,0,15,accurateoptical.net,
+Jeffery,Ahrns,Medical Doctor,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,jefferyahrns@primaryeyecare.org,0,0,primaryeyecare.org,
+John,Beigel,Optometrist,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,jbeigel@primaryeyecare.org,0,0,primaryeyecare.org,http://www.linkedin.com/in/john-beigel-b60a5b12
+Shelley,Vanskiver,Office Manager,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,svanskiver@primaryeyecare.org,0,0,primaryeyecare.org,
+Charles,Woody,Medical Doctor,Vision Center Pelham PA,317 The Pkwy,Greer,SC,29650,864-627-0634,cwoody@pelhamvisioncenter.com,0,15,pelhamvisioncenter.com,
+Heather,Kolessar,Low Vision Consultant,Bennett; H W & Association Optometrist Co,2000 Green Rd Ste 200,Ann Arbor,MI,48105,734-930-2373,hkolessar@bennettoptometry.com,0,15,bennettoptometry.com,
+David,Park,Business Manager,Park Optometry Inc,1939 Grand Ave,San Diego,CA,92109,858-272-2211,dpark@parkoptometry.com,0,0,parkoptometry.com,
+Stephen,Wexler,Medical Doctor,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,stephen.wexler@tlcvision.com,288,1100,tlcvision.com,http://www.linkedin.com/in/stephen-wexler-a2245215
+Bobbie,Richey,Sales Executive,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,brichey@pshcs.com,5,50,pshcs.com,
+Carole,Kehl,Client Service Representative,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,ckehl@pshcs.com,5,50,pshcs.com,http://www.linkedin.com/in/carole-kehl-83a442b1
+Amber,Robins,Patient Counselor,Scotthyver Vision Care,2171 Junipero Serra Blvd # 170,Daly City,CA,94014,650-994-1769,amber@scotthyver.com,1,15,scotthyver.com,
+Diane,Dewitt,Partner,Clovis Vision Associates,1217 Pile St,Clovis,NM,88101,575-763-5522,ddewitt@clovisvision.com,0,0,clovisvision.com,
+Rick,Haley,Director Of Client Relations,Loden Vision Centers,907 Rivergate Pkwy,Goodlettsville,TN,37072,615-859-3937,rhaley@lodenvision.com,0,0,lodenvision.com,
+Andrea,Macabeo,Assistant Director,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-845-0686,amacabeo@kphc.org,5,10,kphc.org,
+Martha,Burton,Business Manager,Stanislaus Vision Associates Optmetric Group Inc,1700 McHenry Ave Ste 77,Modesto,CA,95350,209-524-4626,martha.burton@stanislausvision.com,0,0,stanislausvision.com,
+Eric,Randle,Optometrist,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6621,eric.randle@tlcvision.com,288,1100,tlcvision.com,
+Rick,Peterson,Principle,Today's Vision - South Towne; P.C.,4970 W Hwy 290 Ste 410,Austin,TX,78735,512-899-2020,rpeterson@todaysvision.com,5,50,todaysvision.com,
+Thomas,Barreto,Owner,Thomas M Barreto Od,2300 Ne Broadway St,Portland,OR,97232,503-284-2300,tbarreto@eyesonbroadway.com,5,3,eyesonbroadway.com,
+Trish,Stauffer,Business Manager,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,757-425-5550,tstauffer@beacheyecare.com,0,50,beacheyecare.com,
+Michael,Bennett,Medical Doctor,Lifetime Eyecare,9309 Glacier Hwy Ste 103a,Juneau,AK,99801-9300,907-789-3175,michael.bennett@lifetimeeyecare.com,5,50,lifetime-eyecare.com,
+Angie,Ldo,Paraoptometric Abo Certified,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,angie@madisoneyecare.com,0,15,madisoneyecare.com,
+Mara,Koson,Patient Rlations Specialist,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,mara@madisoneyecare.com,0,15,madisoneyecare.com,
+Stephen,Gorove,Principle,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6621,stephen.gorove@tlcvision.com,288,1100,tlcvision.com,
+Linda,Rhodes,O D F A A O,West Houston Eye Associates,10260 Westheimer Rd # 550,Houston,TX,77042,713-977-8464,lrhodes@westhoustoneye.com,0,0,westhoustoneye.com,
+Anderson,David,Manager,Anderson David R OD,2807 N Main St,Tarboro,NC,27886,252-823-8295,anderson@dmajic.com,0,0,dmajic.com,
+Bing,James,Doctor Of Medicine,Bing James D & Bing Lois B OD,7054 W 130th St,Cleveland,OH,44130,440-845-5210,bjames@clarionnet.com,150,50,clarionnet.com,
+Adams,Rick,Manager,Eyecarecenter O D PA,3044 Sunset Ave,Rocky Mount,NC,27804,252-443-7011,arick@opticare.net,150,500,opticare.net,
+Baxter,Brian,Manager,Connie James Eye Care,2126 Abbott Martin Rd Ste 113,Nashville,TN,37215,615-269-3500,bbrian@lenscrafters.com,1330,600,lenscrafters.com,
+Chris,Canells,Manager,Lenscrafters,100 Cambridgeside Pl Ofc,Cambridge,MA,2141,617-494-4724,ccanells@lenscrafters.com,1330,25000,lenscrafters.com,
+David,Butler,Manager,David L Fitzgerald OD PA,5167 Hwy 70 W Ste 90,Morehead City,NC,28557,252-727-5290,dbutler@sears.com,36099,247000,sears.com,
+Frank,Lam,Owner,LAM Frank Y OD,705 Main St,Klamath Falls,OR,97601,541-850-5253,flam@franklamb.com,0,4,franklamb.com,
+Fred,Wallace,Executive Director,State of Alabama,1431 2nd Ave N,Bessemer,AL,35020,205-481-9993,fred.wallace@optometry.alabama.gov,141,15,EYE-AND-VISION.COM,
+Jacob,Kristin,Manager,Precision Appraisal,16300 Mill Creek Blvd Ste 118,Bothell,WA,98012,425-743-3996,jacob.kristin@wellsfargoefs.com,53593,159800,wellsfargoefs.com,
+Janna,Nelson,Manager,Edmonds Ann Slocum OD,9730 SW Washington Square Rd,Portland,OR,97223,503-624-0666,jnelson@lenscrafters.com,1330,25000,lenscrafters.com,
+Kimball,Leigh,Manager,Texas State Optical Silsbee,125 N 5th St,Silsbee,TX,77656,409-385-5262,kleigh@techsupt.com,0,0,techsupt.com,
+Mike,Akawishi,Manager,Eyexam 2000 of California Inc,2200 Hilltop Mall Rd,San Pablo,CA,94806,510-223-4441,makawishi@taubman.com,472,509,taubman.com,
+Marilyn,Alejandro,Manager,Mclintick Dr,2628 Tamiami Trl N,Naples,FL,34103,239-649-1650,malejandro@lenscrafters.com,1330,25000,lenscrafters.com,
+Mike,Darling,Manager,Lens Crafters,1298 Fox Valley Ctr,Aurora,IL,60504,630-851-0263,mdarling@lenscrafters.com,1330,25000,lenscrafters.com,
+Manny,Seoane,Manager,Lange Eye Care and Associates,3101 SW College Rd Ste 101,Ocala,FL,34474,352-237-3768,mseoane@lenscrafters.com,1330,25000,lenscrafters.com,
+Ruby,Childreff,Manager,The Elisabeth Store,2801 W Big Beaver Rd,Troy,MI,48084,248-643-6220,rchildreff@kcole.com,543,900,kcole.com,
+Theresa,Acosta,Manager,Eye Exam of CA E059,500 Southland Mall,Hayward,CA,94545,510-887-1887,tacosta@lenscrafters.com,1330,600,lenscrafters.com,
+Taylor,Craig,Manager,Johansen Lawrence OD,1000 W Northland Ave,Appleton,WI,54914,920-731-4511,taylor@theshop.com,88,28400,theshop.com,
+R,Sabherwal,Principal,Lenscrafters Inc,200 Millcreek Plz,Erie,PA,16565,814-868-7502,rsabherwal@lenscrafters.com,1330,25000,lenscrafters.com,
+Tonya,Lyons,Manager,Lenox Square,3393 Peachtree Rd NE Ste 3011,Atlanta,GA,30326,404-504-2611,tonya@godiva.com,825,24000,godiva.com,
+Sharon,Meunier,Manager,Eye Care Associates,4324 Veterans Memorial Blvd Ste 102,Metairie,LA,70006,504-455-9825,smeunier@jamesyoung.net,1,8003,jamesyoung.net,
+Susan,Gailmard,Treasurer,Gailmard Eye & Laser Center,630 Ridge Rd,Munster,IN,46321,219-836-1738,susan@gailmard.com,5,50,gailmard.com,
+Valerie,Byer,Manager,Lenscrafters Inc,4400 Ashford Dunwoody Rd NE,Atlanta,GA,30346,770-673-0180,vbyer@lenscrafters.com,1330,25000,lenscrafters.com,
+Annette,Berry,Manager,Lenscrafters Inc,670 Northridge Shopping Ctr # F8,Salinas,CA,93906,831-443-6090,aberry@lenscrafters.com,1330,25000,lenscrafters.com,
+Andrew,Calvin,Manager,Preimer Eyecare of San,3201 Mission St,San Francisco,CA,94110,415-648-3600,acalvin@premiereyecare.net,4,4,premiereyecare.net,
+Alena,Hinderliter,Manager,Lenscrafters Inc,800 N Green River Rd,Evansville,IN,47715,812-473-2546,ahinderliter@lenscrafters.com,1330,25000,lenscrafters.com,
+Alan,Majernick,Manager,Lenscrafters Inc,5707 Christie Ave,Emeryville,CA,94608,619-299-3113,amajernick@lenscrafters.com,1330,25000,lenscrafters.com,
+Annette,Winston,Manager,Winston Winston and Winston PC,8609 Kingston Pike Ste 200,Knoxville,TN,37923,865-693-3441,annette@winstonvision.com,0,0,winstonvision.com,
+Anne,Phelps,General/Technical,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,aphelps@ronreed.com,2,1,ronreed.com,
+Barb,Barbsobol,Manager,Lenscrafters Inc,3177 Westgate,Cleveland,OH,44126,440-356-2610,bbarbsobol@lenscrafters.com,1330,25000,lenscrafters.com,
+Brenda,Heald,Owner,Lenscrafters Inc,4850 S 74th St,Milwaukee,WI,53220,414-282-3200,bheald@lenscrafters.com,1330,25000,lenscrafters.com,
+Brett,McDonough,Partner,Hometown Threads,2020 Gunbarrel Rd,Chattanooga,TN,37421,423-648-2000,brett.mcdonough@dcsg.com,2625,9100,dcsg.com,
+Charles,Ellermeyer,Doctor Of Optometry,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,cellermeyer@ronreed.com,2,1,ronreed.com,
+Darren,Jacobs,Manager,Hometown Threads,2020 Gunbarrel Rd,Chattanooga,TN,37421,423-648-2000,darren.jacobs@dcsg.com,2625,9100,dcsg.com,
+David,Brew,Manager,Lenscrafters Inc,53 Colma Blvd # F2,Daly City,CA,94014,650-992-2700,dbrew@lenscrafters.com,1330,25000,lenscrafters.com,
+Debra,Hawari,Executive Assistant,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903-569-5432,debra@mineolaeyecare.com,0,6,mineolaeyecare.com,
+Donna,Hull,Manager,Shack Michael H OD Dr & Associates,1280 Bison Ave Ste B4,Newport Beach,CA,92660,949-637-4500,donnah@petco.com,1477,12900,petco.com,
+Edward,Nolan,Director,New Vision Home Care Corp,2266 Hampden Pl,Bronx,NY,10468,718-295-7760,enolan@invacare.com,1756,6100,invacare.com,
+Fred,Sill,Manager,Lenscrafters Inc,24 Kane St # Wh,West Hartford,CT,6119,860-233-8548,fsill@lenscrafters.com,1330,25000,lenscrafters.com,
+George,Bruce,Owner,Prewandowski Susan P,70 Huttleston Ave,Fairhaven,MA,2719,508-994-2020,gbruce@stevensantos.com,0,0,stevensantos.com,
+Glenn,Davies,Doctor Of Optometry,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,gdavies@ronreed.com,2,1,ronreed.com,
+Huelsman,Keith,Manager,Reynolds Mark MD,4301 W Franklin St,Bellbrook,OH,45305,937-848-9858,hkeith@markreynolds.net,2766,3,markreynolds.net,
+Herb,Shultz,Manager,Herb J Shultz,2400 Southeast Blvd Ste A,Salem,OH,44460,330-332-4501,hshultz@prudentloans.com,2,200,prudentloans.com,
+Jeffrey,Hooton,Doctor Of Optometry,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903-569-5432,jeffrey@mineolaeyecare.com,0,6,mineolaeyecare.com,
+Justin,Henderson,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,justin.henderson@catocorp.com,774,9600,catocorp.com,
+Jake,Weingert,Manager,Lenscrafters Inc,2501 Mount Holly Rd Fl 2,Burlington,NJ,8016,609-386-8797,jweingert@lenscrafters.com,1330,25000,lenscrafters.com,
+Kary,Keifer,Manager,Lenscrafters Inc,800 N Green River Rd,Evansville,IN,47715,812-473-2546,kkeifer@lenscrafters.com,1330,25000,lenscrafters.com,
+Kristie,McManus,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,kristie.mcmanus@catocorp.com,774,9600,catocorp.com,
+Lenore,Katz,Manager,Cohen's Fashion Optical,545 5th Ave # 1,New York,NY,10017-3621,212-697-0915,lenorekatz@cohensfashionoptical.com,5,8,cohensfashionoptical.com,
+Linda,Messer,Manager,Lenscrafters Inc,D460 Wausau Ctr # D,Wausau,WI,54403,715-842-3631,lmesser@lenscrafters.com,1330,25000,lenscrafters.com,
+Lorraine,Ross,Manager,Salado Medical Clinic,213 Mill Creek Dr Ste 180,Salado,TX,76571,254-947-2225,lorrainer@solanaranch.com,1000,5000,solanaranch.com,
+Mary,Baglin,Manager,Opticare Health Systems Inc,17B Governor St,Ridgefield,CT,6877,203-438-5005,mbaglin@opticare.net,150,500,opticare.net,
+PEGGY,RINEHART,Owner,CENTRAL PHOENIX EYECARE,5727 N 7TH ST STE 105,PHOENIX,AZ,85014-5815,602-265-8597,peggy@cpe.phxcoxmail.com,0,3,CPE.PHXCOXMAIL.COM,
+Pina,Lutz,Manager,Steven P Lutz,324 Briarwood Cir,Ann Arbor,MI,48108,734-994-1444,plutz@lenscrafters.com,1330,600,lenscrafters.com,
+Robert,Brown,Owner,Anderson Brown Eyecare,2600 Edgewood Rd SW Ste 376,Cedar Rapids,IA,52404,319-390-4144,rbrown@lenscrafters.com,1330,25000,lenscrafters.com,
+Robert,Hanlon,Manager,Shultz Herb J,2400 Southeast Blvd Ste A,Salem,OH,44460,330-332-4501,rhanlon@prudentloans.com,2,200,prudentloans.com,
+Robert,Mahr,Partner,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,rmahr@spokaneeye.com,75,500,spokaneeye.com,
+Robin,Hutson,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,robin.hutson@catocorp.com,774,9600,catocorp.com,
+Rigo,Vargas,Sales Executive,Lenscrafters Inc,2060 Southlake Mall # 250,Merrillville,IN,46410,219-736-0093,rvargas@lenscrafters.com,1330,25000,lenscrafters.com,
+Richard,Winnick,Owner,Richard E Winnick O D,7200 W Alameda Ave,Denver,CO,80226,303-936-4395,rwinnick@lenscrafters.com,1330,25000,lenscrafters.com,
+Sandy,Spears,Manager,Mc Lean Immediate Care Inc,1340 Old Chain Bridge Rd Ste 101,Mc Lean,VA,22101,703-893-2273,sandy.spears@immediatecare.net,0,0,immediatecare.net,
+Sharon,Renier,Manager,Gary L Renier OD Ltd,101 10th St N Ste 120,Fargo,ND,58102,701-293-9835,sharonr@flintcom.com,5,50,flintcom.com,
+Tony,Torrjon,Manager,Connie James Eye Care,2126 Abbott Martin Rd Ste 113,Nashville,TN,37215,615-269-3500,ttorrjon@lenscrafters.com,1330,600,lenscrafters.com,
+Vint,Facchiano,Partner,Facchiano Eye Care,102 W Towne Mall # 44C,Madison,WI,53719,608-829-2440,vfacchiano@lenscrafters.com,1330,25000,lenscrafters.com,
+Wittrock,Kristina,Manager,The Elisabeth Store,2801 W Big Beaver Rd,Troy,MI,48084,248-643-6220,wkristina@kcole.com,543,900,kcole.com,
+Garth,Rotramel,Personnel Director,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,grotramel@mcdonaldeye.com,0,0,mcdonaldeye.com,
+Andrea,Lipscomb,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,andrea@weavereye.com,5,50,Weavereye.com,http://www.linkedin.com/indrea-lipscomb-039a0992
+Bonnie,Schmalz,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,bonnie@weavereye.com,5,50,Weavereye.com,
+Debby,Morrison,Office Manager,Allegheny West Eye Care,236 W Allegheny Rd,Imperial,PA,15126-9775,724-695-3371,dmorrison@alleghenywesteyecare.com,0,15,alleghenywesteyecare.com,
+Emily,Simmons,Registered Nurse Advanced Nursing Coordinator,University of Alabama Birmingham,2259 County Road 12,Odenville,AL,35120-6657,205-629-5809,esimmons@uabmc.edu,30,200,uabmc.edu,
+Stacey,Rudisill,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,stacey@weavereye.com,5,50,Weavereye.com,
+Jennifer,Ross,Paraoptometric Section President,Insight Eyecare,602 N Maguire St,Warrensburg,MO,64093-1420,573-635-6151,jross@insighteyecare.com,5,50,insighteyecare.com,
+Allen,Smith,Medical Doctor,Lifetime Eyecare,597 Baldwin St 4,Jenison,MI,49428,616-457-0760,allen@lifetimeeyecare.com,5,50,lifetimeeyecare.com,
+Ava,Ashby,Finance Executive,Mann Eye Institute,1424 E Front St,Tyler,TX,75702-8501,281-446-7900,avaashby@manneye.com,30,200,manneye.com,
+Brian,Koller,Data Analysis Specialist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-405-1476,briank@prevea.com,75,500,prevea.com,
+Carrie,Bunnell,Vice President of Finance,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-383-4130,cbunnell@nweyeclinic.com,0,15,nweyeclinic.com,
+Clayton,Chan,Psychiatrist,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,cchan@kphc.org,5,10,kphc.org,
+Curtis,Walker,Executive Director,Mn Vision Therapy Ctr,7250 France Ave S Ste 415,Minneapolis,MN,55435-4314,952-844-0844,curtiswalker@minnesotavisiontherapy.com,2,24,minnesotavisiontherapy.com,
+Chad,Young,Ophthalmologist,Carter Eye Center,7502 Greenville Ave,Dallas,TX,75231-3832,214-750-1962,cyoung@cartereyecenter.com,0,40,cartereyecenter.com,
+Daniel,Johnson,Principal,Prevea Health,N3972 Columbia Ave,Freedom,WI,54130-7570,920-788-3329,daniel.johnson@prevea.com,75,500,prevea.com,
+David,Goetz,Physician,Greenville Hospital System,9 Doctors Dr,Greenville,SC,29605,864-797-7060,dgoetz@ghs.org,789,7500,ghs.org,
+David,Holliday,Partner,Vision Source,1928 Harper Rd Null,Beckley,WV,25801-2612,304-252-1299,dholliday@visionsource.com,30,5,visionsource.com,
+Don,Napier,Director of Engineer,Total Attorneys; Inc.,3751 Kinsley Pl,Winter Park,FL,32792-6254,312-753-6930,don@totalattorneys.com,1,15,totalattorneys.com,
+Daniel,Saltman,Medical Doctor,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-845-0686,dsaltman@kphc.org,5,10,kphc.org,
+Ellen,Sofio,Internal Medicine,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,esofio@kphc.org,5,10,kphc.org,
+Fred,Walbrun,Owner,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,fred.walbrun@prevea.com,75,500,prevea.com,
+Gary,Lewis,Business Office Director,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4751,garyl@prevea.com,75,500,prevea.com,
+Glenn,Winslow,Doctor of Medicine,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,glenn.winslow@gfclinic.com,30,200,gfclinic.com,
+Glenn,Rediger,Internal Medicine,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,grediger@kphc.org,5,10,kphc.org,
+Gregg,Pike,Doctor of Medicine,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,gregg.pike@gfclinic.com,30,200,gfclinic.com,
+Holly,Benson,Vice President Information Technology,Lasik Vision Institute,3851 E Thomas Rd,Phoenix,AZ,85018-7534,602-267-7577,hbenson@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,
+Henry,Maya,Manufacturing Supervisor,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,480-892-7602,henry.maya@paragoncrt.com,5,15,paragoncrt.com,
+Holly,Andersen,Medical Doctor,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,hollyandersen@mcdonaldeye.com,0,0,mcdonaldeye.com,
+James,Whittle,Physician,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,james.whittle@gfclinic.com,30,200,gfclinic.com,
+James,Clemens,Ear Nose and Throat Specialist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,jamesc@prevea.com,75,500,prevea.com,
+Jane,Dorsey,Eyewear Consultant,Madison Eye Care Assoc,17520 Madison Ave,Lakewood,OH,44107-3535,216-228-3343,jane@madisoneyecare.com,0,15,madisoneyecare.com,
+Janelle,Klubertanz,Registered Nurse With Plastic Surgery ...,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,janellek@prevea.com,75,500,prevea.com,
+Joan,Handeland,Pediatrician,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-833-9896,joanh@prevea.com,75,500,prevea.com,
+Joseph,Supple,Doctor of Medicine,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6551,joseph.supple@tlcvision.com,288,1100,tlcvision.com,
+Judy,Fogarty,Cadence Application Coordinator,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1859,judyfo@prevea.com,75,500,prevea.com,
+Julie,Kopp,Refractive Surgery Coordinator,Mann Eye Institute,2600 Via Fortuna Ste 400,Austin,TX,78746-7992,512-327-4123 x2207,julie.kopp@manneye.com,30,200,manneye.com,
+Joel,Viders,Vice President,Pearle Vision,389 5th Ave Ste 900,New York,NY,10016,212-889-7410 x1,jviders@pearl.com,5,15,pearl.com,
+Kent,Karren,Medical Doctor,The Eye Center,1550 Oak St,Eugene,OR,97401-7701,541-683-2020,kent@oregoneyecenter.com,0,15,oregoneyecenter.com,
+Kevin,Rosteing,Physician Champion,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1940 x8063,kevinr@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/kevin-rosteing-88667313
+Keith,Robinson,Partner,Vision Center,710 US Highway 51 Byp W,Dyersburg,TN,38024-1950,731-286-2744,krobinson@visioncenterpc.com,30,15,visioncenterpc.com,
+Larry,Peek,Chief Financial Officer,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806-355-5633,larry.peek@broomeoptical.com,3,15,paneye.com,
+Laura,Warren,Medical Doctor,Gaddie Eye Centers,7635 Shelbyville Rd,La Grange,KY,40222-5409,502-423-8500,laurawarren@gaddieeye.com,0,15,gaddieeye.com,
+Lori,Harris,Optician,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,lorih@prevea.com,75,500,prevea.com,
+Mark,Blecher,Board Certified Ophthalmologist,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,301-571-2094,mark.blecher@tlcvision.com,287,1100,tlcvision.com,
+Michelle,Kenzie,Medical Doctor,Coastal Eye Assoc,3 Malphrus Rd,Bluffton,SC,29910-6635,843-837-4545,michellem@coastaleyeassociates.com,1,15,coastaleyeassociates.com,
+Myron,Marlett,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1100,myron.marlett@prevea.com,75,500,prevea.com,
+Patricia,Cantagallo,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,patricia.cantagallo@prevea.com,75,500,prevea.com,
+Rich,Freeman,Treasurer,Bieber,8401 Golden Valley Rd Ste 330,Minneapolis,MN,55427-4687,763-416-7600,rfreeman@nweyes.com,5,10,nweyes.com,
+Sarah,Mirocha,Endocrinologist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,sarahm@prevea.com,75,500,prevea.com,
+Susan,Gauldin,Office Manager,Vistar Eye Center,707 S Jefferson St,Roanoke,VA,24016-5100,540-344-4000,sgauldin@vistareye.com,1,15,vistareye.com,
+Sharon,Natzke,General Medical,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,sharon.natzke@prevea.com,75,500,prevea.com,
+Sue,Luebke,Occupational Therapy Assistant,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,suel@prevea.com,75,500,prevea.com,
+Suzanne,Dinsmore,Physician,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,503-364-2181,suzanne@childhoodhealth.com,2,1,childhoodhealth.com,
+Tanya,Gorder,Optometrist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,tanyag@prevea.com,75,500,prevea.com,
+Timothy,Kennedy,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1100,timothy.kennedy@prevea.com,75,500,prevea.com,
+W,Jones,Partner,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,wjones@spokaneeye.com,75,500,spokaneeye.com,
+Ellen,Colquhoun,Acting Director of Member Services and Communications,Optometrists,3785 North Oracle Road,Tucson,AZ,85705-3263,520-887-2793,Ellen.Colquhoun@college-optometrists.org,150,500,college-optometrists.org,http://www.linkedin.com/in/ellen-colquhoun-84107477
+John,Ross,Owner,Ross Eye Care,1911 W Parker Rd,Jonesboro,AR,72404-8465,870-910-5493,john_ross@rosseyecare.com,0,0,rosseyecare.com,
+Aaron,Mancuso,Owner,Century Vision Center Chartered,2461 W Horizon Ridge Pkwy #100,Henderson,NV,89052,702-636-2020,aaron.mancuso@clearvisioneyecenters.com,5,7,clearvisioneyecenters.com,
+Dan,Tran,Owner,Tlc Vision Corp,3501 JAMBOREE RD STE 200,NEWPORT BEACH,CA,92660,800-852-1033,dan.tran@tlcvision.com,287,1100,tlcvision.com,
+John,Swanson,Clinical Director,Tlc Vision Corp,2001 ROSEBUD DR STE A,Billings,MT,59102-6360,800-852-1033,john.swanson@tlcvision.com,287,1100,tlcvision.com,
+Mary Ann,Cox,Owner,Vision Source,7063 Highway 6 N,Houston,TX,77095-2505,281-859-8000,mcox@visionsource.com,30,5,visionsource.com,
+Neal,Malashock,Owner,Malbar Vision Ctr,409 N 78th St,Omaha,NE,68114-3638,402-391-6600,nealm@malbar.com,5,15,malbar.com,
+Claire,Price,Partner,Eye Group,3000 Rogers Ave,Fort Smith,AR,72901-4232,479-782-8892,claire@theeyegroup.com,1,3,eyegroup.com,
+Donald,Hood,Ophthalmologist,Vision Insurance Plan of America; Inc,1550 S Potomac St,Aurora,CO,80012,303-369-1020,dhood@visionplans.com,5,4,visionplans.com,
+Greg,Kline,Sales Executive,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,304-645-2774,greg.kline@paragoncrt.com,5,15,paragoncrt.com,
+Mary,Winter,Vice President Marketing,Abba Eyecare,6110 Martinez St,Colorado Springs,CO,80913-2048,719-576-5151,mary.winter@abbaeyecare.com,0,0,abbaeyecare.com,
+Mary,Pearsall,Owner,Cohen's Fashion Optical,8000 W Broward Blvd,Ft Lauderdale,FL,33388-0001,954-423-9270,marypearsall@cohensfashionoptical.com,5,8,cohensfashionoptical.com,
+Norma,Santoyo,Human Resources Executive,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,304-645-2774,norma.santoyo@paragoncrt.com,5,15,paragoncrt.com,
+Sara,Wines,Optician,Abba Eyecare,5136 Community Ctr Dr,U S A F Academy,CO,80840-3099,719-472-0524,sara@abbaeyecare.com,0,0,abbaeyecare.com,
+Wanda,Burnett,Chief Financial Officer,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,wburnett@mcdonaldeye.com,0,0,mcdonaldeye.com,
+Amy,Johnson,Training Director,Spivack Vision Center,6881 S Yosemite St,Englewood,CO,80112-1406,303-393-8378,ajohnson@spivack.com,2,20,spivack.com,http://www.linkedin.com/illisonkuthy
+Allan,Torstenson,Principal,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,allan.torstenson@stpaul.gov,1,60,stpaul.gov,
+Barry,Eiden,Principal,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,barry@nsvc.com,5,15,nsvc.com,
+Barb,Cartorell,Director,Synergy Healthcare West Bend Clinic,1700 W PARADISE DR,West Bend,WI,53095-9795,262-334-3451,bcartorell@wbclinic.com,75,3,wbclinic.com,
+Brad,Britton,Manager,Tlc Vision Corp,4141 NW EXPRESSWAY STE 140,Oklahoma City,OK,73116-1675,405-842-6060,brad.britton@tlcvision.com,1,10,optistock.com,
+Bruce,Beesen,Director,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,bruce.beese@stpaul.gov,1,60,stpaul.gov,
+Cindy,Ashley,Manager,Coastal Eye Assoc,3 Malphrus Rd,Bluffton,SC,29910-6635,843-837-4545,cindy-ashley@coastaleyeassociates.com,1,15,coastaleyeassociates.com,
+David,Braswell,President,The Eye Care Center,819 TIFFANY BLVD,Rocky Mount,NC,27804-1812,252-972-2020,dbraswell@eyecarecenter.com,1,14,eyecarecenter.com,
+David,Brent,Owner,Premier Eye Care Pa,11111 Res,Austin,TX,78759,512-338-5222,dbrent@premiereye.com,0,15,premiereye.com,
+David,Owen,Owner,Eyear 1 Hour Optical Inc.,5506 Brainerd Rd,Chattanooga,TN,37411-5365,423-894-2484,dowen@eyearoptical.com,25,7,eyearoptical.com,
+Edith,Bowman,Principal,Colorado Vision Center,1027 W. Horsetooth Rd.,Fort Collins,CO,80526-5981,970-206-0100,edith@cdhs.state.co.us,5,3,cdhs.state.co.us,
+Elda,Morrow,Director of Marketing,Community Eye Care,2359 Perimeter Pointe Pkwy,Charlotte,NC,28208-6833,704-426-6055,emorrow@communityeyecare.net,0,15,communityeyecare.net,
+Frances,Clark,Training Director,Spivack Vision Center,6881 S Yosemite St,Englewood,CO,80112-1406,303-393-8378,fclark@spivack.com,2,20,spivack.com,
+Gene,Durhurm,Owner,Eyear 1 Hour Optical Inc.,5506 Brainerd Rd,Chattanooga,TN,37411-5365,423-894-2561,genedurhurm@eyearoptical.com,25,7,eyearoptical.com,
+Julie,Atkins,Manager,Vision Design,5919A Maple Ave,Dallas,TX,75235-6505,214-292-0456,jatkins@visiondesigninc.com,1,8,visiondesigninc.com,http://www.linkedin.com/in/julie-atkins-4623b520
+John,Decarlo,Owner,Stamford Vision Care Llc,526 Newfield Ave,Stamford,CT,6905,203-327-1511,jdecarlo@stamfordvisioncare.com,0,6,stamfordvisioncare.com,
+Jim,Giebel,Manager,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,jim.giebel@stpaul.gov,1,60,stpaul.gov,
+Joe,Pretorius,Manager,MIDWEST EYE CONSULTANTS PC,835 N CASS ST,Wabash,IN,46992-1613,260-569-9550,jpretorius@mwec-pc.com,0,3,mwec-pc.com,
+John,Wachter,Finance Manager,Eye Associates Of Pinellas,9375 66TH ST N,Pinellas Park,FL,33782-4418,727-541-4469,jwachter@eyeassociatesofpinellas.com,4,30,eyeassociatesofpinellas.com,
+Keira,West,Principal,Visualeyes,6049 HARRIS PKWY,Fort Worth,TX,76132-4103,817-294-2800,keira@visualeyeswest.com,0,4,visualeyeswest.com,
+Kelly,Taylor,Manager,The Eye Care Center,315A WESTERN BLVD,Jacksonville,NC,28546-6338,910-353-1011,ktaylor@eyecarecenter.com,1,8,theeyecarecenter.com,http://www.linkedin.com/in/kelly-taylor-16a24a6a
+Larry,Patterson,Systems Analyst,Eye Center of Tennessee LLC,15 IRIS LN,Crossville,TN,38555-7528,931-456-2728,larryp@ecotn.com,3,25,ecotn.com,
+Mark,Gruhn,Manager,Cochise Eye & Laser PC,4116 Avenida Cochise Ste A,Sierra Vista,AZ,85635,520-452-1125,mark.gruhn@cochiseeye.com,3,25,cochiseeye.com,
+Mary,Gregory,Executive,Uptown Eye Care,560 CEDAR ST,Monticello,MN,55362-8403,763-271-2020,mgregory@uptowneyecare.com,2,16,uptowneyecare.com,
+Michelle,Babe,Marketing Manager,Omaha Eye Institute,11606 Nicholas St Ste 200,Omaha,NE,68154-4486,402-493-2020,michelle.babe@omahaeye.com,5,3,omahaeye.com,
+Mark,Jeppesen,Principal,Wolfe Eye Clinic,2020 3RD AVE NW STE B,Waverly,IA,50677-2065,319-352-3490,mjeppesen@wolfeclinic.com,0,4,wolfeclinic.com,http://www.linkedin.com/in/mark-jeppesen-7209a7a
+Melba,Kipp,Manager,Eye Center of North Florida,1400 MAIN ST,Chipley,FL,32428-6943,850-638-7333,mkipp@eyecarenow.com,5,5,eyecarenow.com,
+Ruth,Arberman,Director,State University of New York,100 E 24th St,New York,NY,10010,212-780-5065,Ruth@noc.Sunysb.Edu,80,1500,noc.Sunysb.Edu,
+Vicky,Harmel,Principal,Dakota Eye Institute,201 7TH ST SW STE 2,Rugby,ND,58368-2100,701-776-5242,vharmel@dakotaeye.com,4,3,dakotaeye.com,
+David,Cockrell,Optometrist,Cockrell Eye Care Center,1711 W 6th Ave,Stillwater,OK,74074,405-372-1715,dac@cockrelleyecare.com,5,50,cockrelleyecare.com,http://www.linkedin.com/in/david-cockrell-070a0314
+Denise,Hanson,Optometrist,Fergus Falls Vision Care PA,810 N Baird Ave,Fergus Falls,MN,56537,218-736-5609,dmh@ffvision.com,5,50,ffvision.com,http://www.linkedin.com/in/denise-hanson-17b512b
+Blaine,Littlefield,Optometrist,Littlefield and Broderick Optometrists; PA,82 Maine St,Brunswick,ME,4011,207-729-8474,betty@maineoptometry.com,0,11,maineoptometry.com,http://www.linkedin.com/in/betty-dubois-a2024640
+Stan,McHam,President,Lenscrafters Inc,5400 Brodie Ln Ste 350,Austin,TX,78745,512-892-5500,smcham@officemax.com,13270,41000,officemax.com,
+Howard,Hamilton,Owner,Palo Cedro Hardware,9372 Deschutes Rd,Palo Cedro,CA,96073,530-547-5451,hhamilton@farmersinsurance.com,30,18000,farmersinsurance.com,
+Alan,Bacho,optometrist,Optic 1,2401 Route 130 S,Cinnaminson,NJ,08077-3020,856-786-1616,eyes@optic-one.com,5,50,optic-one.com,http://www.linkedin.com/ilan-bacho-8973371a
+Farzad,Yaghouti,President and Chief Executive Officer,Global Laser Vision,6950 Friars Rd Ste 110,San Diego,CA,92108-5107,619-243-2444,fymd@globallaservision.com,30,50,globallaservision.com,http://www.linkedin.com/in/farzadyaghoti
+Thomas,Huffer,Medical Director of Quality,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4700,thomash@prevea.com,75,500,prevea.com,
+Aimie,Palaza,Patient Advocate,The Lambert Nielsen Eye Center Inc,100 Congress St Ste 100,Quincy,MA,2169,617-471-5665,apalaza@golasik.net,0,3,golasik.net,
+Karl,Hormann,Owner,Karl E Hormann III,1171 Edgebrook Dr,Houston,TX,77034,713-941-1113,khormann@see-n-focus-optical.com,0,8,see-n-focus-optical.com,
+Frank,Puckett,Owner Human Resources Executive,Chapel Hills Vision Clinic,595 Chapel Hills Dr # 103,Colorado Springs,CO,80920,719-599-5083,fpuckett@monumentvision.com,0,18,monumentvision.com,
+Dan,Fortenbacher,Optometrist,Family Vision Associates PC,2904 Division St,Saint Joseph,MI,49085,269-983-2020,wow@wowvision.net,0,3,familyvisionassociates.com,http://www.linkedin.com/in/dan-fortenbacher-34484724
+Linda,Ogura,Finance Executive,Vision Service Corporation,6614 Logan Dr,Evansville,IN,47715,812-477-6700,logura@eyemart.com,5,5,eyemart.com,
+Kara,Heying,Owner Human Resources Executive,Cedar Rapids Eye Care,4207 Glass Rd Ne,Cedar Rapids,IA,52402,319-366-4455,kheying@creyecare.com,0,7,creyecare.com,
+Cathy,Jolley,Owner,Lenscrafters Inc,1251 US Highway 31 N,Greenwood,IN,46142,317-888-6066,cjolley@lenscrafters.com,1330,25000,lenscrafters.com,http://www.linkedin.com/in/cathy-jolley-78393a23
+Jo,Suzuki,Partner,Suzuki Jo Anne OD,1111 Kennedy Pl Ste 6,Davis,CA,95616,530-753-2020,jsuzuki@veridianenv.com,30,50,veridianenv.com,
+P,Janda,Doctor Of Medicine,Eye Exam of CA E059,500 Southland Mall,Hayward,CA,94545,510-887-1887,pjanda@lenscrafters.com,1330,600,lenscrafters.com,
+Richard,Iosue,Chief Executive Officer,Eye Exam,1233 W Rancho Vista Blvd Ste 737,Palmdale,CA,93551,661-575-9099,riosue@lenscrafters.com,1330,25000,lenscrafters.com,
+Jeff,Miller,Owner,Cockrell Eye Care,1711 W 6th Ave,Stillwater,OK,74074,405-372-1715,jmiller@cockrelleyecare.com,5,50,cockrelleyecare.com,
+Robert,Davison,Partner,Howard I Krausz MD PHD,645 E Elder St,Fallbrook,CA,92028,760-731-9020,robert@christopherdavis.net,0,4,christopherdavis.net,
+Carol,Johnson,Chief Information Officer,Bieber,1805 E Division St,Mount Vernon,WA,98274-4632,360-428-2020,cjohnson@nweyes.com,5,10,nweyes.com,
+Chong,Lee,Senior Business Analyst,World Vision US,1927 S 375th St,Federal Way,WA,98003-7567,253-815-2645,clee@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/chong-lee-a7ba3810
+Darlene,Guy,Edp Network Specialist,City of St. Paul MN,350 Saint Peter St Unit 310,Saint Paul,MN,55102-1405,651-222-7817,darlene.guy@stpaul.gov,1,60,stpaul.gov,
+Heidi,Johnson,Owner,Superior Eye Health Ctr,1300 W RIDGE ST,Marquette,MI,49855-3194,906-228-4401,hjohnson@superioreye.com,5,50,superioreye.com,http://www.linkedin.com/in/heidi-johnson-73272327
+Bjorn,Dahlberg,Chief Executive Officer,Southern Eye Ctr,3542 Highway 1 S,Donaldsonville,LA,70346-9701,949-263-8998,b.dahlberg@hilevel.com,5,5,southerneyecenter.com,http://www.linkedin.com/in/bjorn-dahlberg-03aa296
+Bill,Kenefick,Affiliate Sales Associate,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,bkenefick@totalattorneys.com,1,15,totalattorneys.com,http://www.linkedin.com/in/bill-kenefick-0824653
+Joel,Newton,Information Technology Manager,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,joel@totalattorneys.com,1,15,totalattorneys.com,http://www.linkedin.com/in/joelnewton1
+Terry,Leach,Owner,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,tleach@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/dr-terry-leach-5090816
+Amy,Wilson,Medical Records,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,amy.wilson@tlcvision.com,288,1100,tlcvision.com,http://www.linkedin.com/imy-wilson-92485ab
+Louis,Chow,Owner,College Optical Express,4000 Central Florida Blvd,Orlando,FL,32816,407-823-8848,chow@mail.ucf.edu,231,20,mail.ucf.edu,http://www.linkedin.com/in/lee-chow-73190014
+David,Kincaid,President,David M Kincaid OD Inc,1000 W 29th St Ste 302,South Sioux City,NE,68776,402-494-5533,dkincaid@kincaidpe.com,0,0,kincaidpe.com,http://www.linkedin.com/in/david-kincaid-aa082a50
+Shirley,Pendergast,Office Manager,Northwest Eye Clinic,6060 Clearwater Dr Ste 150,Hopkins,MN,55343-9490,763-383-4110,spendergast@nweyeclinic.com,6,15,nweyeclinic.com,http://www.linkedin.com/in/shirley-pendergast-90a9471a
+Bret,Libigs,Manager of Business Development,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,312-496-6150,bret@totalattorneys.com,1,15,infra-strategy.com,http://www.linkedin.com/in/bret-libigs-3175b916
+Heath,Bullard,Medical Doctor,Cleburne Eye Clinic,110 W Henderson St,Cleburne,TX,76033,817-645-2411,heath@cleburneeyeclinic.com,5,50,cleburneeyeclinic.com,http://www.linkedin.com/in/heath-bullard-030a8942
+Joel,Newton,Information Technology Manager,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,312-753-6936,joel@infra-strategy.com,1,15,totalattorneys.com,http://www.linkedin.com/in/joelnewton1
+Pete,McMahon,Physical Therapy,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4750 x4313,petem@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/pete-mcmahon-39883b12
+Susan,Schmidt,Account Manager,World Vision US,PO Box 9716 DEPT. W,Federal Way,WA,98063-9716,858-558-6890,sschmidt@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/susaneschmidt
+Albert,Lucero,Secretary,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,ajlucero@eyenm.com,3,9,eyenm.com,http://www.linkedin.com/ilbert-lucero-150b818
+Andrew,Morgenstern,Clinical Director,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,,andrew.morgenstern@tlcvision.com,287,1100,tlcvision.com,http://www.linkedin.com/indrewmorgenstern
+Dean,Hazelton,Board Member,World Vision US,PO Box 26436,Colorado Springs,CO,80936-6436,253-815-2065,dhazelto@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/dean-hazelton-6b945328
+Robert,Layman,Optometrist,Pinnacle Eye Group,3723 King Rd Ste 100,Toledo,OH,43617,419-843-2020,lambertville@pinnacleeyegroup.com,0,2,pinnacleeyegroup.com,http://www.linkedin.com/in/pinnacle-eye-group-3a346a32
+Lyn,Oxley,Optometrist,Optometry Associates PC,300 Durden St,Vidalia,GA,30474,912-537-4447,dr@oxley.com,0,5,oxley.com,http://www.linkedin.com/in/lyn-oxley-8b53a816
+Mark,Wahlmeier,Optometrist,Vision Source of Colby,1005 S Range Ave Ste 1,Colby,KS,67701,785-462-8231,drmark@eyeclinic.com,0,12,eyeclinic.com,http://www.linkedin.com/in/mark-wahlmeier-96b02634
+Douglas,Johnson,Optometrist,Family Eye Care Association; P.C.,101 W Main St,Greenville,IL,62246,618-664-0636,wecare@familyeyecareassociation.com,0,3,familyeyecareassociation.com,http://www.linkedin.com/in/doug-johnson-50550046
+Connie,Winner,Clinical Research Manager,Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405,406-771-3491,connie.winner@gfclinic.com,30,200,gfclinic.com,http://www.linkedin.com/in/connie-winner-95698b8
+Jeffrey,Allgeier,Optometrist,Corinne Odineal Od,3133 Prfcaional Dr Ste 14,Auburn,CA,95603,530-888-6486,dra@auburnfamilyoptometry.com,0,12,auburnfamilyoptometry.com,http://www.linkedin.com/in/jeff-allgeier-3a68b230
+Elise,Brisco,Doctor,Hollywood Vision Ctr,955 CARRILLO DR STE 105,Los Angeles,CA,90048-5400,310-854-0900,drbrisco@hollywoodvision.com,1,4,hollywoodvision.com,http://www.linkedin.com/in/elise-brisco-44903715
+Dean,Salisbury,Senior Director,World Vision US,11000 E 40th Ave,Denver,CO,80239-3226,720-374-0658 x7412,dsalisbu@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/dean-salisbury-b0a00a15
+Todd,Smith,Account Executive,World Vision US,210 Overlook Dr,Sewickley,PA,15143-2306,412-749-1800,tosmith@worldvision.org,679,829,worldvision.org,http://www.linkedin.com/in/todd-smith-4a79746
+Eustacia,Imler,Medical Doctor,Ossip Optometry,5948 N College Ave,Indianapolis,IN,46220-2554,317-773-2300,eimler@ossip.com,5,50,ossip.com,http://www.linkedin.com/in/eustacia-imler-5b2353b
+Donald,Guido,Owner,LA Verne Optometry,2248 D St,La Verne,CA,91750-5403,909-593-3519,dguido@laverneoptometry.com,5,5,laverneoptometry.com,http://www.linkedin.com/in/donald-donald-j-guido-6a957940
+Glenn,Carli,Optometrist,Advanced Eyecare Center,3237 Riverside Dr Ste A,Green Bay,WI,54301,920-336-2020,drann@advancedeyecarecenter.com,5,19,advancedeyecarecenter.com,http://www.linkedin.com/inn-meier-carli-0b256218
+Stan,Daskalov,Information Technology Netword Admin,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,sdaskalov@pshcs.com,5,50,pshcs.com,http://www.linkedin.com/in/stan-daskalov-a7a69116
+Walter,Collins,Business Manager,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,wcollins@wingeyecare.com,75,500,wingeyecare.com,http://www.linkedin.com/in/walt-collins-13276b44
+Ivan,Ireland,Board Certified Ophthalmologist,Lasik Vision Institute,3801 S Congress Ave,Palm Springs,FL,33461-4140,561-965-0981,iireland@lasikvisioninstitute.com,30,50,lasikvisioninstitute.com,http://www.linkedin.com/in/ivan-ireland-b5135726
+Maurice,Lynch,Ophthalmologist,Carter Eye Center,7502 Greenville Ave,Dallas,TX,75231-3832,214-696-2020,mlynch@cartereyecenter.com,0,40,cartereyecenter.com,http://www.linkedin.com/in/maurice-lynch-bbb3907
+Tony,Pedraza,Controller,Bieber & Fillmore,10330 Meridian Ave N,Seattle,WA,98133-9451,614-486-5205,tpedraza@nweyes.com,5,10,nweyes.com,http://www.linkedin.com/in/tony-pedraza-11644b20
+Vadim,Lisserman,Information Technology Professional,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,877-349-1307,vadim@totalattorneys.com,1,15,totalattorneys.com,http://www.linkedin.com/in/vadim-lisserman-6270674
+Deborah,McBride,Doctor Of Optometry,Silicon Valley Eye Care,770 Scott Blvd,Santa Clara,CA,95050,408-296-0511,jcalmere@sve.com,0,3,sve.com,http://www.linkedin.com/in/deborah-mcbride-122b6b34
+Walter,Frazier,Owner,Lenscrafters Inc,2060 Southlake Mall # 250,Merrillville,IN,46410,219-736-0093,wfrazier@lenscrafters.com,1330,25000,lenscrafters.com,http://www.linkedin.com/in/walterfrazier
+Leigh,Scott,Information Technology Manager,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-431-1983,leighm@prevea.com,75,500,prevea.com,http://www.linkedin.com/in/leigh-messmann-80860521

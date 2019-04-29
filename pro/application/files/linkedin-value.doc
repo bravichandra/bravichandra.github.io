@@ -1,0 +1,85 @@
+<html><head><style type="text/css">body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}ul {margin-bottom:0;}#content {margin:0 auto;width:990px;overflow:hidden;}#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}table.output tr th {font-weight: bold;font-size:13px;}table.output tr td span {}table.output tr td.border {border-top:1px solid #000;}table.output tr td.border-bottom {border-bottom:1px solid #000;}h1 { font-size:16px;}p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}span.red, span.red-area, .red-area {color:red;}.qfsublist{display:none;}</style>	<style type="text/css">body, #content, table.output, table.output table {line-height: 18px;}</style>
+<title>LinkedIn Connection Accept Follow-Up - Value Focus</title>
+
+</head>
+
+<body>
+
+<div id="content">
+
+	
+
+	
+	
+	<h1 align="center">LinkedIn Connection Accept Follow-Up - Value Focus</h1>
+
+	<p class="topTxt"  >
+
+		web design services  for 
+
+		businesses
+	</p>
+
+    
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+
+		<tr><td class="border">&nbsp;</td></tr>
+				<tr><td><a href="https://salesscripter.com/pro/crm/compose/t102" title="Send this Email" style="margin-bottom: 8px;width: 40px;" class="buttonM bBlue">Send</a></td></tr>
+				<tr>
+
+			<td>
+
+		        <p><strong>Subject line:</strong> Thanks for connecting</p>		        
+		        
+		        <p>Hello <span class="dynamic_value">[Prospect First Name]</span>,</p>
+		        
+		        <p>Thank you for connecting, I came across your profile because I work a lot with
+					 <span class="red-area">[insert contact's title]</span>
+					and they are often interested in improving some of the following areas:
+				
+					<ul>
+														<li>
+									Improve the design, traffic, and conversion rates for their website								</li>
+															<li>
+									Clearly communicate what they have to offer through their website								</li>
+															<li>
+									Improve the user experience on their website								</li>
+															<li>
+									Improve website conversion rates								</li>
+															<li>
+									Increase website traffic								</li>
+															<li>
+									Improve search engine optimization (SEO)								</li>
+															<li>
+									Increase their ability to get exposure and traffic from prospects online								</li>
+															<li>
+									Generate more leads through their website								</li>
+															<li>
+									Increase the amount of revenue that they are able to generate through their website								</li>
+												</ul>
+				</p>
+		        
+		        <p>If any of those are areas that you are happen to be interested in, we might be able to have a productive conversation as those are the types of things that we help with. </p>
+				<p>Let me know if you want to put a brief conversation on the calendar. I would be very interested in learning more about what you all are doing.</p>
+		        <p>Look forward to possibly talking with you.</p>
+		        <p>
+		        	<span>Rory Browne</span>
+		            
+		        </p>
+		        <br />
+
+			</td>
+
+		</tr>
+
+		
+
+	</table>
+
+</div>	
+
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Copyright 2012-2018 SalesScripter, LLC  All Rights Reserved</div> 
+</div>
+</body>
+</html> 

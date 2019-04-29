@@ -1,0 +1,223 @@
+<html>
+<head>
+
+<style>
+
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+
+#content, table.output, table.output table {font-size:16px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+
+table.output tr td span {}
+
+table.output tr td.border {border-top:1px solid #000;}
+
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+.questions .output td.border-bottom {border-bottom: none !important;height: 20px;border-top: 1px solid #000;}
+
+
+
+h1 {font-size:16px;}
+
+p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+#content.questions li{line-height: 30px;}
+#content.questions .isbox li{line-height: 23px;}
+#content.questions .introduction div{line-height: 20px;}
+#content.questions .introduction div h4{margin:10px 0px;}
+#content.questions p{line-height: 30px;}
+
+
+.qfsublist{display:none;}
+
+
+
+</style><title>First Appointment Script</title>
+</head>
+<body>
+<div id="content" class="questions sales-templates">
+			<div class="main_content_sf" id="main_content_sf">
+				<h1 align="center">First Appointment Script</h1>
+	<p class="topTxt"  >
+		web design services  for 
+		businesses	</p>
+    	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+		<tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+		        <tr>
+			<td class="td-pad-b"><strong>Intro Questions</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<ul>
+					<li>How is your day going so far?</li>
+					<li>How long have you been working here?</li>
+					<li>What did you do before?</li>
+					<li>Where are you from?</li>
+					<li>What do you like most about what you do?</li>
+					<li>I know why I wanted to meet with you. Is there anything that motivate you to want to meet with me?</li>
+					<li>Is there anything in particular that you are hoping to get out of this time that we spend together?</li>
+				</ul>
+				<br/>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Pre-Qualifying Questions</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	                    			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_46490_10427">How do you feel about the current design and layout of your website?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46491_10427">Do you feel like your website is doing a good communicating everything you offer and how you can help?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46492_10427">Do you feel like your website visitors are able to easily find the information they are looking for or that you want them to see?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46493_10427">How important is it for you to improve your website conversion rates?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46494_10427">How much of a priority is it for you to increase the level of website traffic and visitors that you are getting?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46495_10427">How well are you doing from an SEO perspective (Search Engine Optimization)? Are you getting any organic search traffic?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46496_10427">How interested are you in exploring small changes you can make to your website that could increase exposure and traffic?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46497_10427">How important is it for you to find ways to increase the amount of leads that your website is producing?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_46498_10427">How motivated are you to find new ways to get more revenue out of your website traffic?</span>
+										</li>
+							</ul>
+													<br/>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Examples of Common Problems</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            		    
+                <ul>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40043_10427">Their website is not performing and producing the type of results that are needed</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40044_10427">It can be difficult to clearly communicate everything offered through a website</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40045_10427">There is room for improvement with the layout and design of the website</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40046_10427">The website conversion rate could be better</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40047_10427">There is a need to increase website traffic</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40048_10427">There is not enough traffic coming to the website through organic SEO (search engine optimization)</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40049_10427">It can be difficult to make the needed website changes that will increase exposure and traffic</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40050_10427">It can be difficult to get their website to generate enough leads</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_40051_10427">It can be difficult to find ways to get more revenue out of web traffic</span></li>
+                            </ul>
+         
+    <br />  
+			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Company and Product Info</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            					<strong>Product Details:</strong>
+				<ul>
+					<li>As I said, I am with <span>Strawberry Studios</span> and we provide web design services</li>
+					
+					<l	i>Our <span class="dynamic_value edit_area_old" id="">web design services</span>  [Product Description]</li>
+				</ul>
+				<br/>
+                <strong>Benefits:</strong>
+                                <p>Our web design services can help you to:</p>
+                                <ul>
+                	<li>Improve the design, traffic, and conversion rates for their website</li><li>Clearly communicate what they have to offer through their website</li><li>Improve the user experience on their website</li><li>Improve website conversion rates</li><li>Increase website traffic</li><li>Improve search engine optimization (SEO)</li><li>Increase their ability to get exposure and traffic from prospects online</li><li>Generate more leads through their website</li><li>Increase the amount of revenue that they are able to generate through their website</li>				</ul>
+                				<br/>
+				<strong>Differentiation:</strong>
+					
+						<p>Some ways that we differ from other options out there are:</p>
+                        <ul style="list-style:disk;">
+                        	<li><span class="dynamic_value edit_area_old" id=""></span>.</li>
+                            <li><span class="dynamic_value edit_area_old" id=""></span>.</li>
+                            <li><span class="dynamic_value edit_area" id=""></span>.</li>
+						</ul>
+				<br>
+				<strong>Name Drop: </strong>
+				<ul>
+				  <li> We worked with previous customer and provided Product X. </li> 
+				  <li> This helped them to initial improvement, which led to business improvement. </li>
+				</ul>
+				<br/>
+				<strong>Threats of Doing Nothing:</strong>
+				<p>Some things to be concerned with when not doing anything in this area are: </p>
+				<ul>
+																						<li><span class="dynamic_value edit_area" id="tpnd_40043_10427">Their website is not performing and producing the type of results that are needed</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40044_10427">It can be difficult to clearly communicate everything offered through a website</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40045_10427">There is room for improvement with the layout and design of the website</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40046_10427">The website conversion rate could be better</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40047_10427">There is a need to increase website traffic</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40048_10427">There is not enough traffic coming to the website through organic SEO (search engine optimization)</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40049_10427">It can be difficult to make the needed website changes that will increase exposure and traffic</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40050_10427">It can be difficult to get their website to generate enough leads</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_40051_10427">It can be difficult to find ways to get more revenue out of web traffic</span></li>
+																	</ul>
+				<br />
+				<strong>Company Facts:</strong>
+						<p>Other key details about us are that we: </p>
+							<ul style="list-style:disk;">
+								<li>Company fact 1.</li>
+                                <li>Company fact 2.</li>
+								<li>Company fact 3.</li>
+                            </ul>
+				<br>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Hard Qualifying Questions</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<strong>Need vs. Want Questions:</strong>
+			<ul>
+				<li>What happens if you do not do anything and do not make a purchase or make any changes?</li>
+				<li>What improvements will you see if move forward with this purchase?</li>
+				<li>Is there at date when this purchase needs to be made?</li>
+				<li>What happens if the purchase is not made by that date?</li>
+				<li>What is the time frame that the project needs to work along?</li>
+			</ul><br>
+			<strong>Availability of Funding Questions:</strong>
+			<ul>
+				<li>Is there a budget approved for this project?</li>
+				<li>What is the budget range that the project needs to fit in?</li>
+				<li>Have the funds been allocated to this purchase?</li>
+				<li>What budget (department) will this purchase be made under?</li>
+				<li>Are there other purchases that this funding may end being used for?</li>
+				<li>How does the project fit with other initiatives from a priority standpoint?</li>
+			</ul><br>
+			<strong>Decision Making Authority Questions:</strong>
+			<ul>
+				<li>What is the decision making process?</li>
+				<li>What parties will be involved in making the decision?</li>
+				<li>What functional areas (departments) will be impacted by the purchase?</li>
+				<li>Who is the ultimate decision maker?</li>
+				<li>Who is the person that will need to sign the agreement/contract?</li>
+			</ul><br>
+			<strong>Level of Competition Questions:</strong>
+			<ul>
+				<li>What other options are you considering?</li>
+	          	<li>How far along are you with talking with them?</li>
+	          	<li>How do you feel about their solution (product)?</li>
+	          	<li>What do you like about their solution (product)?</li>
+	          	<li>What do you not like about their solution (product)?</li>
+	          	<li>How does their solution (product) compare with what we have to offer?</li>
+	          	<li>Is there a reason why you would choose us over them?</li>
+	          	<li>If you had to make a decision today, which way would you lean?</li>
+	          	<li>What are the key factors that the decision to purchase will be based on?</li>
+			</ul><br/>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+        	</table>
+	<div align="center" style="margin-top:15px; font-size:12px; clear:both;">
+	Copyright 2012-2018 SalesScripter, LLC  All Rights Reserved
+</div>
+    </div>
+</div>
+</body>
+</html>

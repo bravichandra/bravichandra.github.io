@@ -1,0 +1,1 @@
+<br><br><br><div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/blog" target="_blank">www.salesscripter.com/blog</a><br />						Contact us at (713) 802-2026 / info@salesscripter.com<br />						Copyright 2012 SalesScripter, LLC  All Rights Reserved	</div>  </div></body></html> 

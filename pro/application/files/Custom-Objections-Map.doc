@@ -1,0 +1,488 @@
+<html><head><style type="text/css">body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}ul {margin-bottom:0;}#content {margin:0 auto;width:990px;overflow:hidden;}#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}table.output tr th {font-weight: bold;font-size:13px;}table.output tr td span {}table.output tr td.border {border-top:1px solid #000;}table.output tr td.border-bottom {border-bottom:1px solid #000;}h1 { font-size:16px;}p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}span.red, span.red-area, .red-area {color:red;}</style><title>CUSTOM OBJECTIONS MAP</title>
+</head>
+<body>
+<div id="content">
+		<h1 align="center">CUSTOM OBJECTIONS MAP</h1>	
+	<p class="topTxt"  >
+		Carpet Cleaning Service  for 
+		CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses	</p>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+		 <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+  <tr style="border-bottom:1px solid #000;">
+    <th style="width:20%;">Objection</th>
+    <th style="width:5%">&nbsp;</th>
+    <th style="width:75%;">Response</th>
+  </tr>
+  
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    
+    <tr>
+    <td><strong>I am busy right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Oh, OK. I can be very brief or I can call you back at another time.</p>
+		<p><span class="red-area">OR</span></p>
+		<p>Oh, OK. When is the best time for me to call you back?</p>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>What is this in regards to?</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Well, the purpose for my call is that: <span class="red-area">(Redirect to your value statement by answering with one of below) </span></p>
+    	<ul>
+    						<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value1</span>.
+					</li>
+                    					<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value2</span>.
+					</li>
+                    					<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value3</span>.
+					</li>
+                                        <li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd_14973_2613">technical value 1</span>.
+					</li>
+		</ul>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>Is this a sales call?</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Well, the purpose for my call is that: <span class="red-area">(Redirect to your value statement by answering with one of below) </span></p>
+    	<ul>
+    						<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value1</span>.
+					</li>
+                    					<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value2</span>.
+					</li>
+                    					<li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd__2613">Value3</span>.
+					</li>
+                                        <li>We help  
+						<span class="dynamic_value edit_area_old" id="">CEOs, Purchasing Managers, Office Managers, Businesses, Small Businesses</span> to  
+						<span class="dynamic_value edit_area" id="ccd_14973_2613">technical value 1</span>.
+					</li>
+    	</ul>
+                    <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>They are no longer here</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Oh, OK. Do you know who took their place?</p>
+		<p><span class="red-area">OR</span></p>
+        <p>Oh, OK. I have them down as the <span class="red-area">(insert title)</span>. Do you know who took that role?</p>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>I am not the right person</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Oh, OK. Do you know who the right person that I should connect with is?</p>
+		<p><span class="red-area">OR</span></p>
+		<p>Oh, OK. Can you point me in the right direction of who I should try to connect with?</p>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>I am not interested.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand. </p>
+			<p><span class="red-area">(OPTIONAL) </span> And I want you to know that we are not trying to sell anything at this point.</p>
+			<p><span class="red-area">(OPTIONAL) </span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p><span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			<p>If I could ask you real quick: </p>
+			
+			<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>I am not interested.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>Just send me some information.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>I can certainly do that. So that I know exactly what to send you, do you mind if I ask:</p>
+			<p class="red-area">(Redirect to any of the common pain points)</p>
+			
+			<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>We are not doing anything right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand. </p>
+			<p><span class="red-area">(OPTIONAL) </span> And I want you to know that we are not trying to sell anything at this point.</p>
+			<p><span class="red-area">(OPTIONAL) </span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p><span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			<p>If I could ask you real quick: </p>
+			
+			<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>We are not doing anything right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>We are not making any changes right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand. </p>
+			<p><span class="red-area">(OPTIONAL) </span> And I want you to know that we are not trying to sell anything at this point.</p>
+			<p><span class="red-area">(OPTIONAL) </span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p><span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			<p>If I could ask you real quick: </p>
+			
+			<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>We are not making any changes right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>I can't change anything right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand. </p>
+			<p><span class="red-area">(OPTIONAL) </span> And I want you to know that we are not trying to sell anything at this point.</p>
+			<p><span class="red-area">(OPTIONAL) </span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p><span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			<p>If I could ask you real quick: </p>
+			
+			        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>I can't change anything right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>We do not have any budget / money right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand. </p>
+
+			<p><span class="red-area">(OPTIONAL) </span> And I want you to know that we are not trying to sell anything at this point.</p>
+			<p><span class="red-area">(OPTIONAL) </span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p><span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			<p>If I could ask you real quick: </p>
+			
+			<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>We do not have any budget / money right now.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    <tr>
+    <td><strong>We already use someone for that.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 1: Direct Response</b></p>
+        		<p>Oh, I see. <span class="red-area">(Ask any or all of the following questions) </span></p>
+				<ul>
+					<li>How long have you been using them / with them / purchasing from them?</li>
+					<li>How is everything going?</li>
+					<li>What are some of the things you like about what they provide?</li>
+					<li>What are some things that you think could be better?</li>
+					<li>If you could change one thing about their product/service, what would it be?</li>
+					<li>When was the last time you considered other options in this area?</li>
+				</ul>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>We already use someone for that.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 2: Redirect to Pre-Qualifying Questions</b></p>
+        		<p>I understand.</p>
+            <p> <span class="red-area">(OPTIONAL )</span> And I want you to know that we are not trying to sell anything at this point. </p>
+			<p> <span class="red-area">(OPTIONAL)</span> I am not even really sure if what we have is a good fit for you. That is why I had a question or two, if you have a couple of minutes.</p>
+			<p> <span class="red-area">(Redirect to one of the qualifying questions)</span></p>
+			
+				<div style="margin-left: -24px;">			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_9615_2613">Do you find that whenever you have the carpeting cleaned, it tends to soil quicker?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9616_2613">Do you wish you were able to find a carpet cleaning provider that consistently produces a high quality result?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_9617_2613">Do you believe that you should receive the highest value for any investment?</span>
+										</li>
+							</ul>
+			</div>
+				
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      <tr>
+    <td><strong>We already use someone for that.</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    	        <p><b>Option 3: Redirect to Common Problems</b></p>
+        		<p>
+					I understand. Sometimes when we talk with other 
+						target audience					, we have noticed that they often express challenges with 
+					<span class="red-area">(or concerns around)</span>:
+				</p>
+				
+				<ul>
+																	
+							<li> Common Problem1 </li>
+						
+												
+							<li> Common Problem2 </li>
+						
+												
+							<li> Common Problem3 </li>
+						
+																		
+				</ul>
+				
+				<p>Can you relate to any of those?</p>
+				<span class="red-area">OR</span>
+				<p>Which one of those are you most concerned with?</p>
+				<br />        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    
+    <tr>
+    <td><strong>Please call back in ___ weeks/ months</strong><br/><br/></td>
+    <td>&nbsp;</td>
+    <td>
+    			<p>Sure, I definitely can. Just so I can update my notes correctly, is there something that will make that a better time for us to get back together?</p>
+        <p><span class="red-area">OR</span></p>
+        <p>Sure, I definitely can. But I want you to know, I am not reaching out to you to try to sign you up or sell you anything. More so, we are just looking to open the dialogue between our two companies and have an initial conversation.</p> 
+        <p>We would like to learn a little more about you and possibly share some information about us if it makes sense. That way, when you are ready to look at doing something, you can know who we are and how we can help.</p>        <br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+      
+    	</table>
+</div>
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/library " target="_blank">www.salesscripter.com/library </a><br />
+						Contact us at (713) 802-2026 / info@salesscripter.com<br />
+						Copyright 2012 - 2015 SalesScripter, LLC  All Rights Reserved
+</div> 
+</div>
+</body>
+</html>

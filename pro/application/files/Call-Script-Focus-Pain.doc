@@ -1,0 +1,226 @@
+<html>
+<head>
+
+<style type="text/css">
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#666;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {/*padding:5px;*/}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+h1 { font-size:16px;}
+p.topTxt {font-size: 13px;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+</style>
+
+<title>Call Script - Pain Focus</title>
+</head>
+<body>
+<div id="content">
+<h1 align="right" style="/*margin-right:100px;*/ /*opacity:0.4;*/">
+<img src="/home1/mhalper/public_html/salesscripter.com/beta/images/logo.jpg" />
+</h1><h1 align="center">Call Script &#45; Pain Focus</h1>
+<p class="topTxt"><strong>Description:</strong> This is a call script and that goes quickly to the subject of pain and tries to identify if the prospect is having any pain in the areas that these products can resolve.</p>    
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+  <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+  <tr style="border-bottom:1px solid #000;">
+    <td style="width:15%;"><strong>Objective:</strong></td>
+    <td style="width:5%">&nbsp;</td>
+    <td style="width:80%;">
+    Option A: 
+    <span class="dynamic_value edit_area" id="edit_2223_63139__close__tud">a brief 15 to 20 minute meeting</span><br/> 
+    Option B:  
+    <span class="dynamic_value edit_area" id="edit_2223_63141__close__tud">get email address and send email with information</span></td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td class="td-pad-b"><strong>Introduction to Gatekeeper</strong><br></td>
+    <td>&nbsp;</td>
+    <td>Hello, I am trying to connect with  <span class="red-area">[insert name or title]</span>.  Can you point me in the right direction?
+	</td>
+  </tr>
+   <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td class="td-pad-b"><strong>Introduction to contact</strong></td>
+    <td>&nbsp;</td>
+    <td>Hello  <span class="dynamic_value red-area">[Contact's Name]</span>, this is  <span>[Insert Name]</span> from  <span>[Insert Company]</span>, have I caught you in the middle of anything?<br>
+	</td>
+  </tr>
+  	<tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Value Statement</strong></td>
+    <td>&nbsp;</td>
+    <td>Purpose of my call is that &#45; <span class="red-area">(Choose one of below)</span>
+    <ul>
+    <li>We help  
+    <span class="dynamic_value edit_area" id="edit_2223_63132__users__tud">Small businesses</span> to  
+    <span class="dynamic_value edit_area" id="edit_2223_63133__summary__tud">[abc]</span>.</li>
+    <li>We help  <span class="dynamic_value edit_area" id="edit_2223_63134__summary__tud">[business value 1]</span>.</li>
+    <li>We help  
+    <span class="dynamic_value edit_area" id="edit_2223_63127__target__tud">[target department]</span> 
+    <span class="dynamic_value edit_area" id="edit_2223_63129__target__tud">[target title]</span>s to  
+    <span class="dynamic_value edit_area" id="edit_2223_63135__summary__tud">[personal value 1]</span>.</li>
+    <li>We provide  
+    <span class="dynamic_value edit_area" id="edit_2223_63131__users__tud">[my product]</span>.</li>
+    </ul>
+	<br></td>
+  </tr>
+      <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Disqualify Statement</strong></td>
+    <td>&nbsp;</td>
+    <td class="td-pad-b">I actually don't know if you need what our services provide so I just had a question or two. <span class="red-area">(pause or ask for agreement or availability)</span>  If you have a couple of minutes?
+	<br></td>
+  </tr>
+	      <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Common Pain Points</strong></td>
+    <td>&nbsp;</td>
+    <td>When we talk with other [insert prospect's title], we have noticed that they often express challenges with:<br/><span class="red-area">(Share any of the below pain examples)</span><br/>
+	    	<br>
+	    	    			    	<strong>Technical Pain</strong>
+		      <ul>
+		       																																																	<li><span class="dynamic_value edit_area" id="edit_3316_42162__tech_pain__tpd">[technical pain 1]</span></li>																																																																																																																											<li><span class="dynamic_value edit_area" id="edit_3316_42163__desc_tech_pain__tpd">[cause of technical pain 1]</span></li>																																																																																																																										 
+		      </ul>
+		      <br>
+		      <strong>Business Pain</strong>
+		      <ul>
+		       																																																																																																																																																																																				 
+		      </ul>
+		      <br>
+				<strong>Personal Pain</strong>
+			      <ul>
+			       																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				 
+			      </ul>
+	        <p>Are you concerned with any of those?</p><br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Soft Qualifying Questions</strong></td>
+    <td>&nbsp;</td>
+    <td><strong>Technical Questions:</strong>
+						<ul>
+																																																																		<li><span class="dynamic_value edit_area" id="edit_3316_42164__tech_qualify__tpd">[technical fghfghfghfgh gfhfghhqualifying question 1]</span></li>											<li><span class="dynamic_value edit_area" id="edit_3316_42165__desc_tech_qualify__tpd">[technical qualifying question 2]</span></li>																																																																																																																																																																																																																																																											
+																																											 
+						</ul>
+						<br>
+	<strong>Business Questions:</strong>
+
+						<ul>
+																																																																																																																																																																																																																																																																								
+																																													 
+						</ul>
+						<br>
+	<strong>Personal Questions:</strong>
+
+						<ul>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						 
+						</ul>
+						<br>
+	</td>
+  </tr>
+            <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Building Interest Points</strong></td>
+    <td>&nbsp;</td>
+    <td>Well, based on what you shared, it might productive for us to talk in more detail.  The reason why is<br/><span class="red-area">(Share any of the below as appropriate as you try to trigger interest)</span><br><br>
+			<strong>Company Details:</strong>
+			<ul>
+				<li>As I said, I am with <span>[Insert Company]</span> and we provide:
+	            <ul>
+	            <li>
+	            																							<span class="dynamic_value edit_area" id="edit_3316_42166__P_Q1__tpd">[Britannia],</span>
+																	</li>
+	            	<li><span class="dynamic_value edit_area" id="edit_2223_63131__users__tud">[my product]</span>.</li>
+	            </ul>
+	            </li>
+	            </ul>
+	            <ul>
+	            <li>Our products/services:</li>
+	            <ul>
+																								<li><span class="dynamic_value edit_area" id="edit_3316_42167__P_Q3__tpd">[product function]</span></li>
+										 
+	            </ul>
+			</ul>
+			<br>
+			<strong>Connect Pain with Value:</strong>
+				<ul>
+																												
+									<li>We help <span class="dynamic_value edit_area" id="edit_2223_63132__users__tud">Small businesses</span> to deal with
+									
+									<span class="dynamic_value edit_area" id="edit_3316_42162__tech_pain__tpd">[technical pain 1]</span> by helping to 
+									<span class="dynamic_value edit_area" id="edit_3316_42161__tech_value__tpd">[dfgsd]</span> and this can typically lead to 
+									<span class="dynamic_value edit_area" id="edit_3316_45283__bus_value__tpd">[business value 1]</span>.
+									</li>
+																	</ul>
+			<br>
+			<strong>ROI Statements:</strong>
+	        <ul>
+	               						       						       							<li>We have helped to  <span class="dynamic_value edit_area" id="edit_2646_9999__provided__tcd">[technical improvement]</span> and that led to <span class="dynamic_value edit_area" id="edit_2646_10000__when__tcd">[business improvement]</span>.</li>
+       						       					</ul>
+			<br>
+			<strong>Differentiation:</strong>
+				<ul><li>Some ways that we differ from other options out there are <span class="dynamic_value edit_area" id="edit_2223_63142__interestB1__tud">[differentiation point 1]</span>, <span class="dynamic_value edit_area" id="edit_2223_63143__interestB1__tud">[differentiation point 2]</span>, and <span class="dynamic_value edit_area" id="edit_2223_63144__interestB1__tud">[differentiation point 3]</span>
+				</li></ul>
+			<br>
+			<strong>Threats of Doing Nothing:</strong>
+				<ul><li>Some things to be concerned with when not doing anything in this area are <span class="dynamic_value edit_area" id="edit_2223_63145__interestB2__tud">[impact of doing nothing 1]</span>, <span class="dynamic_value edit_area" id="edit_2223_63146__interestB2__tud">[impact of doing nothing 1]</span>, and <span class="dynamic_value edit_area" id="edit_2223_63147__interestB2__tud">[impact of doing nothing 1]</span>
+				</li></ul>
+			<br>
+			<strong>Company Facts:</strong>
+			<ul>
+				<li>Other key details about us are that we <span class="dynamic_value edit_area" id="edit_2223_63136__interest__tud">[company fact 1]</span>, <span class="dynamic_value edit_area" id="edit_2223_63137__interest__tud">[company fact 2]</span>, and <span class="dynamic_value edit_area" id="edit_2223_63138__interest__tud">[company fact 3]</span>.</li>
+			</ul>
+			<br>
+	</td>
+  </tr>
+
+  
+      <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Scheduling the next discussion</strong></td>
+    <td>&nbsp;</td>
+    <td class="td-pad-b">But, since I have called you out of the blue, I do not want to take anymore of your time to talk right now.<br/>
+	            Do you have interest in talking more about this?<br/>
+	            If you have interest, a great next step would be for us to schedule a <span class="dynamic_value edit_area" id="edit_2223_63139__close__tud">a brief 15 to 20 minute meeting</span> where we can <span class="dynamic_value edit_area" id="edit_2223_63140__close__tud">discuss your goals and challenges and share any value and insight that we have to offer</span>.<br/>
+	            Are you available to put this on the calendar next Tuesday or Thursday morning? <br>
+	</td>
+  </tr>
+    
+      <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Name drop</strong></td>
+    <td>&nbsp;</td>
+    <td class="td-pad-b"><span class="red-area">(Share any of below at any time when talking to a prospect)</span><br>
+    
+           		       					    	<br><strong>Name Drop #1:</strong>
+	    	<br>We worked with <span class="dynamic_value edit_area" id="edit_2646_9997__customer__tcd">[past or current client]</span> and provided 
+	    	<span class="dynamic_value edit_area" id="edit_2646_9998__worked__tcd">[service provided]</span>.
+	    	<br/>This helped them to <span class="dynamic_value edit_area" id="edit_2646_9999__provided__tcd">[technical improvement]</span>, which led to 
+	    	<span class="dynamic_value edit_area" id="edit_2646_10000__when__tcd">[business improvement]</span>.
+	        <br>
+	        	 </td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+</table>
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/blog" target="_blank">www.salesscripter.com/blog</a><br />
+						Contact us at (713) 802-2026 / info@salesscripter.com<br />
+						Copyright 2012 SalesScripter, LLC  All Rights Reserved	
+</div>  
+      
+</div>
+
+
+</body>
+</html>
+ 

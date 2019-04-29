@@ -1,0 +1,24 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<style>
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}
+ul {margin-bottom:0;}
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+h1 {font-size:16px;}
+p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}
+span.red, span.red-area, .red-area {color:red;}
+</style><title>Call Script - Product 
+
+Focus</title>
+</head>
+<body>
+<div id="content" class="questions">
+			 <div class="main_content_sf" id="main_content_sf">
+			<h1 align="center">Notes</h1>    </div>
+</body>
+</html>

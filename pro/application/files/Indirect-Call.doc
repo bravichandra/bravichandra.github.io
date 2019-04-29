@@ -1,0 +1,264 @@
+<html>
+<head>
+
+<style type="text/css">
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#666;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+h1 { font-size:16px;}
+p.topTxt {font-size: 13px;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+</style>
+
+<title>Call Script � Qualify Focus</title>
+</head>
+
+<body>
+
+<div id="content">
+	<h1 align="right" style="/*margin-right:100px;*/ /*opacity:0.4;*/">
+<img src="/home1/mhalper/public_html/salesscripter.com/version2/images/logo.jpg" />
+</h1>	
+	<h1 align="center">Call Script &#45; Qualify Focus</h1>
+	<p class="topTxt"><strong>Description:</strong> This is an indirect cold call script and that refers to the fact that the script is designed to create a conversation versus going directly for the close.</p>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+		  <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+		  <tr style="border-bottom:1px solid #000;">
+		    <td style="width:15%;"><strong>Objective:</strong></td>
+		    <td style="width:5%">&nbsp;</td>
+		    <td style="width:80%;">Option A: <span class="dynamic_value edit_area" id="edit_2762_80262__close__tud">appointment or live transfer</span> <br/> Option B:  <span class="dynamic_value edit_area" id="edit_2762_80264__close__tud">get email address and send email with information</span></td>
+		  </tr>
+		  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+		  
+		  <tr>
+		    <td class="td-pad-b"><strong>Introduction to Gatekeeper</strong><br></td>
+		    <td>&nbsp;</td>
+		    <td>Hello, I am trying to connect with  <span class="red-area">[insert name or title]</span>.  Can you point me in the right direction?
+			</td>
+  		 </tr>
+  
+    	<tr><td colspan="3" class="border">&nbsp;</td></tr>
+	  <tr>
+	    <td class="td-pad-b"><strong>Introduction to contact</strong></td>
+	    <td>&nbsp;</td>
+	    <td>Hello  <span class="dynamic_value red-area">[Contact's Name]</span>, this is  <span>[Insert Name]</span> from  <span>[Insert Company]</span>, have I caught you in the middle of anything?<br>
+		</td>
+	  </tr>
+  
+      <tr><td colspan="3" class="border">&nbsp;</td></tr>
+	  <tr>
+	    <td><strong>Value Statement</strong></td>
+	    <td>&nbsp;</td>
+	    <td>Purpose of my call is that &#45; <span class="red-area">(Choose one of below)</span>
+	    <ul>
+	    <li>We help  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80258__users__tud">mortgage companies</span> to  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80259__summary__tud">bring their devices into compliance with new CFPB information security regulations</span>.
+	    </li>
+	   <li>We help  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80258__users__tud">mortgage companies</span> to  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80260__summary__tud">minimize the risk that occurs when data or devices are lost or stolen</span>.
+	    </li>
+	    <li>We help  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80253__target__tud">[target department]</span> 
+	    	<span class="dynamic_value edit_area" id="edit_2762_80255__target__tud">[target title]</span>s to  
+	    	<span class="dynamic_value edit_area" id="edit_2762_80261__summary__tud">improve and maintain their reputation</span>.
+	    </li>
+	    <li>We provide  
+	    <span class="dynamic_value edit_area" id="edit_2762_80257__users__tud">DeviceGuardian™</span>.</li>
+	    </ul>
+		<br></td>
+	  </tr>
+    <tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+	    <td><strong>Disqualify Statement</strong></td>
+	    <td>&nbsp;</td>
+	    <td class="td-pad-b">I actually don't know if you need what our services provide so I just had a question or two. <span class="red-area">(pause or ask for agreement or availability)</span>  If you have a couple of minutes?
+		<br></td>
+  	</tr>
+  	<tr><td colspan="3" class="border">&nbsp;</td></tr>
+    <tr>
+    <td><strong>Soft Qualifying Questions</strong></td>
+    <td>&nbsp;</td>
+    <td><strong>Technical Questions:</strong>
+						<ul>
+																																																							
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_953933__tech_qualify__tpd">How do you feel about your organization's level of knowledge and ability to stay CFPB compliant? Do you have an information security or a CFPB compliance officer? How many loan officers do you currently have? How important is it for you to get all of your devices compliant with CFPB information security regulations?</span></li>											<li><span class="dynamic_value edit_area" id="edit_4090_953936__desc_tech_qualify__tpd">[technical qualifying question 2]</span></li>																				
+										
+										
+										
+																				
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_953934__tech_qualify__tpd">Are you employees able to access file and documents from a variety of devices? </span></li>																				
+										
+										
+										
+																				
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_953935__tech_qualify__tpd">How do you feel about your ability to always stayprotected against hackers and identity theft?</span></li>																				
+										
+										
+										
+																				
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_953980__tech_qualify__tpd">Do your employees have someone to call when they have technical support issues?</span></li>																				
+										
+										
+										
+																				
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_954003__tech_qualify__tpd">Are you able to protect and delete company data on employee devices?</span></li>																				
+										
+										
+										
+																				
+										
+										
+																					<li><span class="dynamic_value edit_area" id="edit_4090_954026__tech_qualify__tpd">How often do your employees experience glitches and errors resulting from trying to integrate existing mortgage applications together?</span></li>																				
+										
+										
+										
+																																																																							 
+						</ul>
+						<br>
+						<strong>Business Questions:</strong>
+						<ul>
+																																																																																																																																																							<li><span class="dynamic_value edit_area" id="edit_4090_953955__bus_qualify__tpd">How concerned are you about the level of risk and cost when data and devices are lost or stolen?</span></li>																																																																																																																																													<li><span class="dynamic_value edit_area" id="edit_4090_953956__bus_qualify__tpd">Do you feel like staff productivity and response times are impacted by not being able to access files and documents from different devices?</span></li>																																																																																																																																																																																																																																																												<li><span class="dynamic_value edit_area" id="edit_4090_953958__bus_qualify__tpd">Do you feel that IT and support issues ever get in the way of providing high service levels</span></li>																																																																																																																														<li><span class="dynamic_value edit_area" id="edit_4090_953959__bus_qualify__tpd">How concerned are you about the costs that could arise when there is a data breach or a CFPB audit?</span></li>																																																																																																																														<li><span class="dynamic_value edit_area" id="edit_4090_953960__bus_qualify__tpd">How confident are you that you will pass a CFPB information security audit, if you don't mind if I ask?</span></li>																																																																																																																														<li><span class="dynamic_value edit_area" id="edit_4090_953961__bus_qualify__tpd">How do you feel about the level of disruption that IT related issues have on the business operation?</span></li>																																																																																																																														<li><span class="dynamic_value edit_area" id="edit_4090_953962__bus_qualify__tpd">What steps have you taken to prevent employees from taking your customers and stealing your data?</span></li>																																																																																																																														<li><span class="dynamic_value edit_area" id="edit_4090_953963__bus_qualify__tpd">Are problems with your existing mortgage applications having an impact on your business?</span></li>																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																										 
+						</ul>
+						<br>
+						<strong>Personal Questions:</strong>
+						<ul>
+																																																																									<li><span class="dynamic_value edit_area" id="edit_4090_953964__pers_qualify__tpd">[personal qualifying question1]</span></li>																																																													<li><span class="dynamic_value edit_area" id="edit_4090_953965__pers_qualify__tpd">[personal qualifying question2]</span></li>																																																<li><span class="dynamic_value edit_area" id="edit_4090_953966__pers_qualify__tpd">[personal qualifying question3]</span></li>																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																 
+						</ul>
+					<br>
+	</td>
+	</tr>
+        <tr><td colspan="3" class="border">&nbsp;</td></tr>
+	<tr>
+    <td><strong>Common Pain Points</strong></td>
+    <td>&nbsp;</td>
+    <td>Oh, OK. Well, as we talk with other <span class="dynamic_value red-area">[insert prospect's title]</span>, we have noticed that they often express challenges with:<br/><span class="red-area">(Share any of the below pain examples)</span><br/>
+	    	<br>
+	    	<strong>Technical Pain</strong>
+		      <ul>
+		       																																																	<li><span class="dynamic_value edit_area" id="edit_4090_953929__tech_pain__tpd">it can be complex to keep all devices compliant with CFPB information security regulations</span></li>																			<li><span class="dynamic_value edit_area" id="edit_4090_953930__tech_pain__tpd">employees are not able to access files and documents from different devices</span></li>																			<li><span class="dynamic_value edit_area" id="edit_4090_953931__tech_pain__tpd">it is difficult to always stay protected against hackers and identity theives</span></li>																			<li><span class="dynamic_value edit_area" id="edit_4090_953978__tech_pain__tpd">not having anyone to call when they have technical support issues</span></li>																			<li><span class="dynamic_value edit_area" id="edit_4090_954001__tech_pain__tpd">not having the ability to protect and delete company data on employee devices</span></li>																			<li><span class="dynamic_value edit_area" id="edit_4090_954024__tech_pain__tpd">experiencing glitches and errors resulting from trying to integrate existing mortgage applications together</span></li>																												<li><span class="dynamic_value edit_area" id="edit_4090_953932__desc_tech_pain__tpd">[cause of technical pain 1]</span></li>																																																																																				 
+		      </ul>
+		      <br>
+		      <strong>Business Pain</strong>
+		      <ul>
+		       																																									 
+		      </ul>
+		      <br>
+				<strong>Personal Pain</strong>
+			      <ul>
+			       																																																			 
+			      </ul>
+	        <p>Which one of those are you most concerned with?</p><br>
+	</td>
+  </tr>
+    <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Building Interest Points</strong></td>
+    <td>&nbsp;</td>
+    <td>Well, based on what you shared, it might productive for us to talk in more detail.  The reason why is<br/><span class="red-area">(Share any of the below as appropriate as you try to trigger interest)</span><br><br>
+			<strong>Company Details:</strong>
+			<ul>
+				<li>As I said, I am with <span>[Insert Company]</span> and we provide:</li>
+	            <ul>
+	            																							<span class="dynamic_value edit_area" id="edit_4090_953975__P_Q1__tpd">[my product],</span>
+												 
+	            	<li><span class="dynamic_value edit_area" id="edit_2762_80257__users__tud">DeviceGuardian™</span>.</li>
+	            </ul>
+	            </ul>
+	            <ul>
+	            <li>Our products/services:</li>
+	            <ul>
+	           																				<li><span class="dynamic_value edit_area" id="edit_4090_953976__P_Q3__tpd">[product function]</span></li>
+										 
+	            </ul>
+			</ul>
+			<br>
+			<strong>Connect Pain with Value:</strong>
+				<ul>
+																													<li>We help <span class="dynamic_value edit_area" id="edit_2762_80258__users__tud">mortgage companies</span> to deal with
+									<span class="dynamic_value edit_area" id="edit_4090_953929__tech_pain__tpd">it can be complex to keep all devices compliant with CFPB information security regulations</span> by helping to 
+									<span class="dynamic_value edit_area" id="edit_4090_953908__tech_value__tpd">bring their devices into compliance with new CFPB information security regulations</span> and this can typically lead to 
+									<span class="dynamic_value edit_area" id="edit_4090_953911__bus_value__tpd">minimize the risk that occurs when data or devices are lost or stolen</span>.
+									</li>
+																	</ul>
+			<br>
+			<strong>ROI Statements:</strong>
+	        <ul>
+	               						       						       							<li>We have helped to  <span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span> and that led to <span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.</li>
+       						       					</ul>
+			<br>
+			<strong>Differentiation:</strong>
+				<ul><li>Some ways that we differ from other options out there are <span class="dynamic_value edit_area" id="edit_2762_80265__interestB1__tud">Work from anywhere.  One log-in takes you to the cloud where all of your tools and files are located in one place.</span>, <span class="dynamic_value edit_area" id="edit_2762_80266__interestB1__tud">ABT's Cloud delivery ensures your work space is CFPB compliant</span>, and <span class="dynamic_value edit_area" id="edit_2762_80267__interestB1__tud">Business owners have total control over their employees.  Systems are never put in jeopardy due to personnel changes.</span>
+				</li></ul>
+			<br>
+			<strong>Threats of Doing Nothing:</strong>
+				<ul>				    <li>Some things to be concerned with when not doing anything in this area are <span class="" id="edit_2762___interestB2__tud"></span>, <span class="" id="edit_2762___interestB2__tud"></span>, and <span class="" id="edit_2762___interestB2__tud"></span>
+				    </li>				</ul>
+			<br>
+			<strong>Company Facts:</strong>
+			<ul>
+				<li>Other key details about us are that we <span class="" id="edit_2762___interest__tud"></span>, <span class="" id="edit_2762___interest__tud"></span>, and <span class="" id="edit_2762___interest__tud"></span>.</li>
+			</ul><br>
+	</td>
+  </tr>
+  <tr><td colspan="3" class="border">&nbsp;</td></tr>
+  <tr>
+    <td><strong>Scheduling the next discussion</strong></td>
+    <td>&nbsp;</td>
+    <td class="td-pad-b">But, since I have called you out of the blue, I do not want to take anymore of your time to talk right now.<br/>
+	            Do you have interest in talking more about this?<br/>
+	            If you have interest, a great next step would be for us to schedule a <span class="dynamic_value edit_area" id="edit_2762_80262__close__tud">appointment or live transfer</span> where we can <span class="dynamic_value edit_area" id="edit_2762_80263__close__tud">discuss this subject in more detail and share with you how we have helped other businesses like yours</span>.<br/>
+	            Are you available to put this on the calendar next Tuesday or Thursday morning? <br>
+	</td>
+	</tr>
+    <tr><td colspan="3" class="border">&nbsp;</td></tr>
+        <tr>
+		    <td><strong>Name drop</strong></td>
+		    <td>&nbsp;</td>
+		    <td class="td-pad-b"><span class="red-area">(Share any of below at any time when talking to a prospect)</span><br>
+			    			       				       									    	<br>
+					    	<strong>Name Drop #1:</strong>
+					    	<br>
+					    	We worked with 
+					    	<span class="dynamic_value edit_area" id="edit_1_1__customer__tcd">Chevron Credit Union</span> and provided 
+					    	<span class="dynamic_value edit_area" id="edit_1_2__worked__tcd">mortgage loan and origination software interfaces</span>.
+					    	<br>
+					    	This helped them to 
+					    	<span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span>, which led to 
+					    	<span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.
+					        <br>
+				        					 </td>
+ </tr>
+ <tr><td colspan="3" class="border">&nbsp;</td></tr>
+	</table>
+</div>
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/blog" target="_blank">www.salesscripter.com/blog</a><br />
+						Contact us at (713) 802-2026 / info@salesscripter.com<br />
+						Copyright 2012 SalesScripter, LLC  All Rights Reserved
+</div>
+</div>
+</body>
+</html>

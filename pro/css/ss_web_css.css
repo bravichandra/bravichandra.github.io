@@ -1,0 +1,99 @@
+/* The Modal (background) */
+.modal {
+    position: fixed; /* Stay in place */
+    z-index: 9; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #f1f1f1;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid #5d5c5c;
+    width: 80%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+#ss_logout{
+    float: right;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    display: none;
+}
+#btn_ssLogin{
+    color: #000000;
+    text-decoration: none;
+}
+#ss_email_template{width: 700px;}
+#frm_ssdropmenu ul li
+{
+    float: left;
+    line-height: 30px;
+}
+#frm_ssdropmenu ul li span
+{
+     color:#030303;
+     font-weight:500;
+     font-size:16px;
+     padding:0 30px 0px 10px;
+}
+#frm_ssdropmenu ul li select
+{
+    width: 180px;
+    padding: 4px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+#template_list
+{
+     color:#030303;
+     font-weight:500;
+     font-size:16px;
+     padding:0 30px 0px 10px;    
+}
+#template_list select
+{
+    width: 180px;
+    padding: 4px;
+    margin-left: 24px;
+    border-radius: 5px;   
+}
+#frm_ss_login
+{
+    color: #030303;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0 30px 0px 10px;
+}
+#frm_ss_login input
+{
+    width: 220px;
+    padding: 4px;
+    margin-left: 24px;
+    border-radius: 5px;
+    border:1px solid rgb(169, 169, 169);   
+}

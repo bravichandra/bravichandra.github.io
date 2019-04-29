@@ -1,0 +1,558 @@
+ First Name, Last Name, Title, Company, Address, City, State, ZIP, Contact Phone, Email, Domain, LinkedIn,Description
+Doug,Barnes,COO/CTO,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,DBarnesJR@eyemartexpress.com,eyemartexpress.com,http://www.linkedin.com/in/doug-barnes-9109aa75,Demo Contact Do not call
+Bob,Rogers,SVP of Lab Operations,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,BRogers@eyemartexpress.com,eyemartexpress.com,http://www.linkedin.com/in/bobrogers,Demo Contact Do not call
+Andy,Hawari,Optometrist,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903.569.5432,frontoffice@mineolaeyecare.com,mineolaeyecare.com,http://www.linkedin.com/indy-hawari-03a090a,Demo Contact Do not call
+Bryan,Pinciaro,SVP and Chief Marketing Officer (CMO),Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281.312.1111,BPinciaro@visionsource.com,visionsource.com,http://www.linkedin.com/in/bryan-pinciaro-2b70123,Demo Contact Do not call
+Chris,Neils,Exercise Physiologist; Cardiodiagnostics Department,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,ChrisN@prevea.com,prevea.com,http://www.linkedin.com/in/chris-neils-7629258,Demo Contact Do not call
+Connie,Albers,supervisor,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,ConnieA@prevea.com,prevea.com,http://www.linkedin.com/in/connie-albers-85100b45,Demo Contact Do not call
+Gary Y.,Chu,Vice President; Community Collaborations,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617.266.2030,chu@neco.edu,neco.edu,http://www.linkedin.com/in/gary-y-chu-b21a982,Demo Contact Do not call
+Leah,LeCamus,Sr. Executive Assistant; Operations Dept.,Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281.312.1111,LLeCamus@visionsource.com,visionsource.com,http://www.linkedin.com/in/leah-lecamus-90a08021,Demo Contact Do not call
+Neal,Nossaman,Owner/Optometrist,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806.355.5633,Neal.Nossaman@BroomeOptical.com,paneye.com,http://www.linkedin.com/in/neal-nossaman-177b3a45,Demo Contact Do not call
+Randall L.,Webster,Corporate Paralegal,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,RWebster@visionsource.com,visionsource.com,http://www.linkedin.com/in/randall-l-webster-1164287,Demo Contact Do not call
+Rich,Dahill,Director of Facilities Administration,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617.266.2030,dahillr@neco.edu,neco.edu,http://www.linkedin.com/in/rich-dahill-b25a5121,Demo Contact Do not call
+Shelly,Tatro, RN,CCM,CLNC,Productivity Supervisor,Prevea Health,1715 Dousman St,Green Bay,54303,ShellyT@prevea.com,500,Demo Contact Do not call
+Gregory,Kraupa,OWNER,Eyecare Center-Maplewood,1965 11th Ave E Ste 101,Maplewood,MN,55109-5168,651-777-3555,gkraupa@eyecarecenters.net,eyecarecenters.net,http://www.linkedin.com/in/greg-kraupa-b8836b11,Demo Contact Do not call
+Alan,Bacho,Medical Doctor,Optic 1,2401 Route 130 S,Cinnaminson,NJ,08077-3020,856-786-1616,abacho@optic-one.com,optic-one.com,http://www.linkedin.com/ilan-bacho-8973371a,Demo Contact Do not call
+Faye,Munnings,Director Accounting And Assistant Chief Financial ,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,faye.munnings@nws.edu,rdeyes.com,http://www.linkedin.com/in/faye-munnings-54736a6,Demo Contact Do not call
+Victoria,Rogers,Executive Vice President,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,victoria.rogers@nws.edu,rdeyes.com,http://www.linkedin.com/in/victoria-rogers-22302016,Demo Contact Do not call
+Jack,Terry,Executive Director,National Board of Examiners In Optometery; Inc.,200 College St,Charlotte,NC,28202,704-332-9565,terry@optometry.org,optometry.org,http://www.linkedin.com/in/jack-terry-84197752,Demo Contact Do not call
+Brian,Vasey,Associate General Counsel,World Vision US,PO Box 9716 MS 357,Federal Way,WA,98063-9716,253-815-2302,bvasey@worldvision.org,worldvision.org,http://www.linkedin.com/in/brian-vasey-bbb9137,Demo Contact Do not call
+Gary,Cahn,President and Sales Representative,Private Stock,36 Glenside Rd,South Orange,NJ,07079-1601,973-763-3474,gcahn@privatestockmenswear.com,privatestockmenswear.com,http://www.linkedin.com/in/gary-cahn-83255921,Demo Contact Do not call
+Bryan,Wilson,Product Development/Administrative Assistant,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,BWilson@eyemartexpress.com,eyemartexpress.com,http://www.linkedin.com/in/bryan-wilson-37530924,Demo Contact Do not call
+Cheryl,Hay,Network Services Representative,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,CHay@visionsource.com,visionsource.com,http://www.linkedin.com/in/cheryl-hay-7b0b67a,Demo Contact Do not call
+Rob,Houdek,Sr. VP Business Development,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,RHoudek@visionsource.com,visionsource.com,http://www.linkedin.com/in/rob-houdek-493b157,Demo Contact Do not call
+Debbi,Morris,Project Manager Controller And Administration,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,dmorris@essner.com,nwvision.org,http://www.linkedin.com/in/debbi-morris-b770a817,Demo Contact Do not call
+Lee,Werner,Chief Information Officer,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,lwerner@eyenm.com,eyenm.com,http://www.linkedin.com/in/lee-werner-2961b39,Demo Contact Do not call
+Karel,Kolker,Project Manager Information Technology,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,karel.kolker@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/karel-kolker-96372010,Demo Contact Do not call
+Jim,Hale,Optometrist,Valley Eye Care,1505 NW Harrison Blvd,Corvallis,OR,97330,541-754-6222,jimh@valleyeyecare.com,valleyeyecare.com,http://www.linkedin.com/in/drjimhale,Demo Contact Do not call
+Richard,Curtis,Account Executive,World Vision US,210 Overlook Dr,Sewickley,PA,15143-2306,412-749-1800,rcurtis@worldvision.org,worldvision.org,http://www.linkedin.com/in/richard-a-curtis-352285b,Demo Contact Do not call
+Robert,Carviou,Brand Manager-Prevea,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-429-1764,robertca@prevea.com,prevea.com,http://www.linkedin.com/in/robertcarviou,Demo Contact Do not call
+Diana,Bancroft,medical records coordinator,Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405,,Diana.Bancroft@gfclinic.com,gfclinic.com,http://www.linkedin.com/in/diana-bancroft-61571450,Demo Contact Do not call
+Tony,Cole,Director of Information Technology,National Board of Examiners In Optometery; Inc.,200 College St,Charlotte,NC,28202,704-332-9565,cole@optometry.org,optometry.org,http://www.linkedin.com/in/tony-cole-93436a47,Demo Contact Do not call
+Hannah,Robison,Event Manager,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,,HRobison@visionsource.com,visionsource.com,http://www.linkedin.com/in/hannah-robison-7976911a,Demo Contact Do not call
+Chris,Wooldridge,Director of Marketing and Information Technology,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,,CWooldridge@Beacheyecare.com,beacheyecare.com,http://www.linkedin.com/in/chris-wooldridge-6b387913,Demo Contact Do not call
+Vonda,Syler,Administrator,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,,sylervl@mcdonaldeye.com,mcdonaldeye.com,http://www.linkedin.com/in/vonda-syler-5603b713,Demo Contact Do not call
+DENNIS,JOHNSON,Owner,Midland Eye Care,5908 Eastman Ave,Midland,MI,48640,,docdj@midlandeyecare.com,doctorsbandk.com,http://www.linkedin.com/in/dennis-johnson-00351221,Demo Contact Do not call
+Patricia,Gelner,Owner,Gelner Optometry PC,14386 Woodlake Dr,Chesterfield,MO,63017-5782,314-434-2626,doctor@gelner.com,gelner.com,http://www.linkedin.com/in/patricia-gelner-a120ba4a,Demo Contact Do not call
+Clifford,Scott,President,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,scottc@neco.edu,neco.edu,http://www.linkedin.com/in/clifford-scott-2367243,Demo Contact Do not call
+Doug,Hoffman,Director Of Residencies,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,hoffmand@neco.edu,neco.edu,http://www.linkedin.com/in/doug-hoffman-224a3b5,Demo Contact Do not call
+Flynn,Michael,Controller,New England Eye Institute,424 Beacon St,Boston,MA,02115-1129,617-587-5591,flynnmi@neco.edu,neco.edu,http://www.linkedin.com/in/flynn-michael-b3506b8,Demo Contact Do not call
+Eric,Robirds,Principal,Vision West Inc,PO Box 799,Powell,WY,82435-0799,307-754-1000,eric@visionwest.com,visionwest.com,http://www.linkedin.com/in/eric-robirds-1221961b,Demo Contact Do not call
+Shelley,Easton,Office Admin,Eye Institute,2000 S Wheeling Ave Ste 500,Tulsa,OK,74104-5642,918-749-6461,seaston@eyeinst.com,eyeinst.com,http://www.linkedin.com/in/shelley-easton-67640023,Demo Contact Do not call
+Brent,Dunn,Office Manager,Valley Vision Clinic P S Inc,22 W Main St,Walla Walla,WA,99362,509-529-2020,bdunn@valleyvisionclinic.com,valleyvisionclinic.com,http://www.linkedin.com/in/brent-dunn-0536029,Demo Contact Do not call
+Diane,Lehtinen,Office Administrator,Iowa Eyecare,1065 E POST RD,Marion,IA,52302-5214,319-377-2222,dlehtinen@iowaeyecare.com,iowaeyecare.com,http://www.linkedin.com/in/diane-lehtinen-8ba39b3a,Demo Contact Do not call
+Billy,Moscow,Optometrist,Roswell Eye Clinic Inc,1190 Grimes Bridge Rd E,Roswell,GA,30075,770-992-7620,eyesure@roswelleyeclinic.com,roswelleyeclinic.com,http://www.linkedin.com/in/billy-moscow-56940317,Demo Contact Do not call
+John,Abbate,Director Of Operations,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,jabbate@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/john-abbate-73237a14,Demo Contact Do not call
+Brendon,Copland,Information Systems Coordinator,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bcopland@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/brendon-copland-93a1496,Demo Contact Do not call
+Peter,Mogyordy,Optometrist,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,drpete@madisoneyecare.com,madisoneyecare.com,http://www.linkedin.com/in/peter-mogyordy-18ab32a,Demo Contact Do not call
+Joe,Rust,IT Director,Zionsville Eyecare,1375 Parkway Dr,Zionsville,IN,46077-1954,317-873-3000,joerust@zionsvillefire.com,zionsville-eyecare.com,http://www.linkedin.com/in/joseph-rust-53216614,Demo Contact Do not call
+Amanda,Smith,Marketing Manager,OPTO Intl Inc,220 Messner Dr,Wheeling,IL,60090-6436,847-541-6786,asmith@optosystem.com,optosystem.com,http://www.linkedin.com/imanda-m-smith-2809133a,Demo Contact Do not call
+Amy,Herrin,Credentialing,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,aherrin@southerneyecenter.com,southerneyecenter.com,http://www.linkedin.com/imy-herrin-a4b8aa1a,Demo Contact Do not call
+Kenneth,Carlson,Pediatrics,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,503-364-2181,kcarlson@childhoodhealth.com,childhoodhealth.com,http://www.linkedin.com/in/carlsonk-fastmail-us-carlsonk-fastmail-us-84493232,Demo Contact Do not call
+Teri,Kranz,Manager of Employee Relations and Recruiting,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,NULL,terik@prevea.com,prevea.com,http://www.linkedin.com/in/teri-kranz-054b3710,Demo Contact Do not call
+Robin,Lewis,Ophthalmologist,Family Optometry PC,2950 N Dobson Rd,Chandler,AZ,85224-1824,480-963-8833,rlewis@familyoptometry.net,familyoptometry.net,http://www.linkedin.com/in/robin-lewis-29456546,Demo Contact Do not call
+Gary,Bockhold,Manager,Center for Sight,3534 S Osprey Avenue,Sarasota,FL,34239-5925,941-953-2020,gbockhold@centerforsight.net,centerforsight.net,http://www.linkedin.com/in/gary-bockhold-o-d-3a654944,Demo Contact Do not call
+Melissa,Hammond,Owner,Center for Sight,8433 TUTTLE AVE,Sarasota,FL,34243-2868,941-351-9440,mhammond@centerforsight.net,centerforsight.net,http://www.linkedin.com/in/melissa-hammond-o-d-46402146,Demo Contact Do not call
+Peter,Van Hoven,Vice President,Primary Eyecare Group,205 Ward Cir,Brentwood,TN,37027-7552,615-373-2848,pvanhoven@primaryeyecare.com,primaryeyecare.com,http://www.linkedin.com/in/pete-van-hoven-48448b10,Demo Contact Do not call
+Jon,Forche,Owner,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,jforche@fivepointseyecare.com,fivepointseyecare.com,http://www.linkedin.com/in/jon-forche-a7144038,Demo Contact Do not call
+David,Wolf,Optometrist,Lake Oswego Vision Clinic,4550 Kruse Way Ste 105,Lake Oswego,OR,97035,503-635-1458,drwolf@lakeoswegovision.com,lakeoswegovision.com,http://www.linkedin.com/in/david-wolf-19a10a20,Demo Contact Do not call
+Laura,Walters,Director Of Operations,Bennett; H W & Association Optometrist Co,2000 Green Rd Ste 200,Ann Arbor,MI,48105,734-930-2373,lwalters@bennettoptometry.com,bennettoptometry.com,http://www.linkedin.com/in/laura-walters-145b177,Demo Contact Do not call
+Holly,Elmore,Attorney,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,,hollye@childhoodhealth.com,childhoodhealth.com,http://www.linkedin.com/in/holly-elmore-2b252a32,Demo Contact Do not call
+Brett,Ball,Isa,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bball@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/brettball,Demo Contact Do not call
+Brad,Haller,Vice President Chief Financial Officer,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,bhaller@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/brad-haller-70a27317,Demo Contact Do not call
+Julie,Sylvester,Human Resources Executive,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,757-425-5550,jsylvester@beacheyecare.com,beacheyecare.com,http://www.linkedin.com/in/beach-eye-care-a5893331,Demo Contact Do not call
+Lindsey,Rees,Eyewear Consultant,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,lindsey@madisoneyecare.com,madisoneyecare.com,http://www.linkedin.com/in/lindsey-rees-55887836,Demo Contact Do not call
+Kris,Heeg,Office Manager,Eagle Vision & Eye Clinic,2080 Main St,Longmont,CO,80501,303-651-2020,kris@evec.com,evec.com,http://www.linkedin.com/in/kris-heeg-a9498410,Demo Contact Do not call
+Tim,Ehlen,Pediatrician,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-416-7635,dr.ehlen@nweyeclinic.com,nweyeclinic.com,http://www.linkedin.com/in/timothy-ehlen-md-b9314114,Demo Contact Do not call
+Gerald,Loushin,Opthalmology,Northwest Eye Clinic,12000 Elm Creek Blvd N Ste 100,Maple Grove,MN,55369-7074,763-416-7600,dr.loushin@nweyeclinic.com,nweyeclinic.com,http://www.linkedin.com/in/gerald-loushin-0b49a71a,Demo Contact Do not call
+Patty,Raisleger,Mngr Benefits and Comp,Prevea Health,1727 Shawano Ave,Green Bay,WI,54303-3268,920-496-8877,pattyr@prevea.com,prevea.com,http://www.linkedin.com/in/patty-raisleger-b169a412,Demo Contact Do not call
+Bhrent,Waddell,Controller Finance Executive,Eye Physicians of Austin PA,301 E 5th Ave,Owasso,OK,74055-3450,918-274-8787,thein@epaustin.com,epaustin.com,http://www.linkedin.com/in/tricia-hein-68386418,Demo Contact Do not call
+Lisa,Blankenship,HR Director,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806.355.5633,Lisa.Blankenship@BroomeOptical.com,paneye.com,http://www.linkedin.com/in/lisa-blankenship-b38b3745,Demo Contact Do not call
+Leonard,Avril,Owner,Southwest Florida Eye Care,1109 Del Prado Blvd S Ste 10,Cape Coral,FL,33990-3636,239-574-5406,lavril@swfleye.com,swfleye.com,http://www.linkedin.com/in/leonard-avril-2420895,Demo Contact Do not call
+John,Cross,Medical Doctor,Arvada Vision & Eye Clinic,5801 Wadsworth Blvd,Arvada,CO,80003-5421,303-422-3817,jcross@arvadavision.com,arvadavision.com,http://www.linkedin.com/in/john-cross-2b4467a,Demo Contact Do not call
+Jason,Stutz,Director Of Corporate Communications,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,jstutz@pshcs.com,pshcs.com,http://www.linkedin.com/in/jason-stutz-bb58477,Demo Contact Do not call
+Lauren,Noriega,Media Marketing Manager,Eye Care Centers of America; Inc.,11103 West Ave Ste 1,San Antonio,TX,78213-4920,210-524-6930,lnoriega@ecca.com,ecca.com,http://www.linkedin.com/in/lauren-noriega-1323295,Demo Contact Do not call
+Alan,Lewis,President,New England College of Optometry,424 Beacon St,Boston,MA,02115-1129,617-236-6254,lewisa@neco.edu,neco.edu,http://www.linkedin.com/ilan-lewis-36a55022,Demo Contact Do not call
+Mary,Wetherbee,Coder Supervisor,Prevea Health,2793 Lineville Rd,Green Bay,WI,54313-7152,920-496-4733,maryw@prevea.com,prevea.com,http://www.linkedin.com/in/mary-wetherbee-497a5b63,Demo Contact Do not call
+Amy,Lewandowski,Recruiter,Prevea Health,1727 Shawano Ave,Green Bay,WI,54303-3268,920-496-4700,amyl@prevea.com,prevea.com,http://www.linkedin.com/imy-abts-lewandowski-7ab06411,Demo Contact Do not call
+Maurice,Zadeh,Owner,Family Eyecare Of Roswell,1425 Market Blvd # 315,Roswell,GA,30076-6715,770-992-6789,zadeh@familyeyecareofroswell.com,familyeyecareofroswell.com,http://www.linkedin.com/in/maurice-zadeh-95556613,Demo Contact Do not call
+Stan,Richardson,Quality Assurance Manager,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,srichardson@essner.com,nwvision.org,http://www.linkedin.com/in/stan-richardson-8b332b56,Demo Contact Do not call
+Gregory,Goetzinger,Optometrist,Carthage Vision Clinic,2020a S Garrison Ave,Carthage,MO,64836,417-359-0600,eyedrg@carthagevisionclinic.com,carthagevisionclinic.com,http://www.linkedin.com/in/greg-goetzinger-9b92881b,Demo Contact Do not call
+Graham,Wood,Human Resources Manager,OPTO Intl Inc,220 Messner Dr,Wheeling,IL,60090-6436,847-541-6786,GWood@optosystem.com,optosystem.com,http://www.linkedin.com/in/graham-wood-bb82b692,Demo Contact Do not call
+Nadine,Forche,Medical Doctor,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,nforche@fivepointseyecare.com,fivepointseyecare.com,http://www.linkedin.com/in/nadine-forche-4a4ba438,Demo Contact Do not call
+Guido,Piquet,Information Technology,Mann Eye Institute,18850 S Memorial Dr,Humble,TX,77338-4288,713-580-2508,guido.piquet@manneye.com,manneye.com,http://www.linkedin.com/in/guidopiquet,Demo Contact Do not call
+STEVEN H,KANTOR,PARTNER,CENTRAL PHOENIX EYECARE,5727 N 7TH ST STE 105,PHOENIX,AZ,85014-5815,602-265-8597,drkantor@cpe.phxcoxmail.com,CPE.PHXCOXMAIL.COM,http://www.linkedin.com/in/steven-kantor-81a4042b,Demo Contact Do not call
+Daniel,Shen,Owner,Eye Q,1101 Pacific Ave # E,Santa Cruz,CA,95060-7506,831-466-3937,Daniel@eyeqsantacruz.com,eyeqsantacruz.com,http://www.linkedin.com/in/danny-shen-5b9bbb4,Demo Contact Do not call
+Alan,Miles,Legal Search Consultant,Alan Miles & Associates; Inc.,1821 Wilshire Boulevard; Suite 550,Santa Monica,CA,90403,310-829-9589,amiles@mileslawsearch.com,mileslawsearch.com,http://www.linkedin.com/ilan-miles-75a0726,Demo Contact Do not call
+Donna,Braun,Human Resources Executive,Northwest Eye Clinic,8401 Golden Valley Rd # 330,Golden Valley,MN,55427-4687,763-383-4130,Donna_Braun@Nweyeclinic.com,Nweyeclinic.com,http://www.linkedin.com/in/donna-braun-381b185,Demo Contact Do not call
+Gayle,Knudson,Office Manager,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-771-3159,gayle.knudson@gfclinic.com,gfclinic.com,http://www.linkedin.com/in/gayle-knudson-12b02112,Demo Contact Do not call
+Richard,Baker,Supply Chain Coordinator,World Vision US,4200 Industry Dr E Ste D,Fife,WA,98424-1852,253-926-5599,rbaker@worldvision.org,worldvision.org,http://www.linkedin.com/in/richard-baker-jr-aa36a940,Demo Contact Do not call
+Rene,Calster,Clinical Application Manager,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1956,renev@prevea.com,prevea.com,http://www.linkedin.com/in/rene-van-calster-70869511,Demo Contact Do not call
+Bob,Dyke,Director of equipment services,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,bvandyke@eyemartexpress.com,eyemartexpress.com,http://www.linkedin.com/in/bob-dyke-2067b832,Demo Contact Do not call
+Edward,Bantamoi,team leader,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920.496.4700,edwardb@prevea.com,prevea.com,http://www.linkedin.com/in/edward-bantamoi-62b9104b,Demo Contact Do not call
+Louis,Binder,Clinical Advisor Board Member Central USA,International Eye Care,926 N Wilcrest Dr,Houston,TX,77079,713.984.9777,LBinder@texaslasik.com,texaslasik.com,http://www.linkedin.com/in/louis-binder-1a645217,Demo Contact Do not call
+Ola,Merrick,Retail Merchandising Specialist,Eyemart Express,13800 Senlac Dr Ste 200,Dallas,TX,75234-8823,888.372.2763,OMerrick@eyemartexpress.com,eyemartexpress.com,http://www.linkedin.com/in/ola-merrick-072a2529,Demo Contact Do not call
+Ben,Cook,Chief Executive Officer,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,513-984-1777,b.cook@lasikvisioninstitute.com,lasikvisioninstitute.com,http://www.linkedin.com/in/ben-cook-86553b12,Demo Contact Do not call
+Morris,Lehrfeld,Optometrist,Palatine Vision Center,251 E Northwest Hwy,Palatine,IL,60067,847-358-4950,lehrfeld@palatinevision.com,palatinevision.com,http://www.linkedin.com/in/lehrfeld-morris-b8b08a7,Demo Contact Do not call
+Michael,Klein,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,mklein@kdklaw.com,kdklaw.com,http://www.linkedin.com/in/michael-klein-32293b16,Demo Contact Do not call
+Daniel,Hock,Owner,Evergreen Vision Clinic,30960 Stagecoach Blvd,Evergreen,CO,80439-7902,303-674-4143,dhock@evergreenvision.com,evergreenvision.com,http://www.linkedin.com/in/dan-hock-b6a9022b,Demo Contact Do not call
+Sandra,Rapacz,Head Information Technology,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,srapacz@althoffind.com,cohensfashionoptical.com,,Demo Contact Do not call
+Rick,Peterson,Graphic Designer,Absolute Vision Care Inc,5553 127th St,Midlothian,IL,60445,708-371-5160,drrickavc@absolutevision.com,absolutevision.com,http://www.linkedin.com/in/dr-rick-peterson-833a9829,Demo Contact Do not call
+Jeff,Eichenlaub,Associate Director Corporate Engagement,World Vision US,6 Borrell Ct,Saint James,NY,11780-1640,631-368-3200,jeichenl@worldvision.org,worldvision.org,http://www.linkedin.com/in/jeff-eichenlaub-48608b8,Demo Contact Do not call
+Tina,Mc Carty,Medical Doctor,Eyecare Center-Maplewood,1965 11th Ave E Ste 101,Saint Paul,MN,55109-5168,651-777-3555,tina.mccarty@eyecarecenters.net,eyecarecenters.net,http://www.linkedin.com/in/tina-mccarty-9813857,Demo Contact Do not call
+Theresa,Etter,Administrative Assistant,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,tetter@essner.com,nwvision.org,,Demo Contact Do not call
+Brian,Andrew,General Counsel,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,brian.andrew@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/brian-andrew-aa03009,Demo Contact Do not call
+Ben,Ben,Chief Financial Officer,Lasik Vision Institute,2000 Palm Beach Lakes Blvd Ste 800,West Palm Beach,FL,33409-6505,561-965-9110,bcook@lasikvisioninstitute.com,lasikvisioninstitute.com,http://www.linkedin.com/in/ben-cook-86553b12,Demo Contact Do not call
+Mike,Feeney,Office Manager,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-456-1004,mfeeney@visionfirsteyecare.com,visionfirsteyecare.com,http://www.linkedin.com/in/mike-feeney-480b7ba,Demo Contact Do not call
+Steve,Toman,President,Toman; Steven D,11295 Provencal Pl,San Diego,CA,92128-3672,619-524-0196,steven.toman@med.navy.mil,med.navy.mil,,Demo Contact Do not call
+Gregory,Kovats,Medical Doctor,Madison Eye Care Assoc,17520 Madison Ave,Lakewood,OH,44107-3535,216-228-3343,gregory.kovats@madisoneyecare.com,madisoneyecare.com,,Demo Contact Do not call
+Jason,Fronk,Medical Doctor,Vision One,610 S Americana Blvd,Boise,ID,83702-6731,208-344-2020,jfronk@vision-1.com,vision-1.com,,Demo Contact Do not call
+Judd,Od,Medical Doctor,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,513-984-1777,judd.od@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Tom,Goettel,Pastor,Highland Vision Care,500 CANYON RIDGE DR STE L350,Austin,TX,78753-1641,620-674-3429,tomgoettel@centerchristianchurch.com,highlandvisioncare.com,,Demo Contact Do not call
+Stephen,Franklin,Chief Executive Officer,Accurate Optical Company; Inc,31519 Winterplace Pkwy,Salisbury,MD,21804,410-749-1545,sfranklin@accurateoptical.net,accurateoptical.net,http://www.linkedin.com/in/stephenlfranklin,Demo Contact Do not call
+Debbie,Hibler,Sales And Marketing,TLC Vision Corporation,5875 Castle Crk 136,Indianapolis,IN,46250,317-845-2020,debbie.hibler@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/debbie-hibler-76313918,Demo Contact Do not call
+Vincent,Copple,Owner; Human Resources Executives,Billerica Liquors,3725 Ingersoll Ave Null,Des Moines,IA,50312-3410,515-255-5533,vcopple@cvkcorp.com,cvkcorp.com,,Demo Contact Do not call
+Meg,Brya,Optometrist,Five Points Eye Care Center,698 S Milledge Ave,Athens,GA,30605,706-543-2020,drmeg@fivepointseyecare.com,fivepointseyecare.com,http://www.linkedin.com/in/margaret-brya-7477ab15,Demo Contact Do not call
+Carie,Harris,Business Manager,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,carie.harris@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/carrie-harris-5a18411b,Demo Contact Do not call
+James,Devine,Partner,Eyecare Specialties; P.C.,7930 O St,Lincoln,NE,68510,402-488-1291,jdevine@eyecarespecialties.com,eyecarespecialties.com,http://www.linkedin.com/in/jim-devine-3b556927,Demo Contact Do not call
+Kevin,Chauvette,Owner,Merrimack Vision Care; LLC,401 Daniel Webster Hwy # 3,Merrimack,NH,3054,603-424-0404,kchauvette@merrimackvision.com,merrimackvision.com,http://www.linkedin.com/in/kevin-chauvette-1b47692b,Demo Contact Do not call
+Barry,Morrison,Doctor of Optometry,Morrison; Barry D,299 Aikens Center,Martinsburg,WV,25401-6208,304-263-6716,bmorrison@berkeleyoptical.com,berkeleyoptical.com,http://www.linkedin.com/in/dr-barry-morrison-6b746324,Demo Contact Do not call
+Glenn,Ellisor,Medical Doctor,Vision Source,5514 Atascocita Rd Ste 100,Humble,TX,77346-2969,281-548-2020,gellisor@visionsource.com,visionsource.com,http://www.linkedin.com/in/glenn-ellisor-919a6a59,Demo Contact Do not call
+Cecil,Swyers,Owner,Cbd Ophthalmic Tomey,4800 N 22nd St,Phoenix,AZ,85016-4701,602-508-4736,CSwyers@Tomeyusa.com,Tomeyusa.com,http://www.linkedin.com/in/cecil-swyers-634a2514,Demo Contact Do not call
+Larry,Weiss,Executive Director,Bishe; Edith L Center For Blind & Visually Impaired Inc,628 N Arthur St,Kennewick,WA,99336,509-735-0699,larry@edithbishelcenter.org,edithbishelcenter.org,http://www.linkedin.com/in/larry-weiss-59555539,Demo Contact Do not call
+Richard,Kestenbaum,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,rkestenbaum@kdklaw.com,kdklaw.com,http://www.linkedin.com/in/richard-kestenbaum-52a94714,Demo Contact Do not call
+Carol,Farina,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,615-320-0143,carol.farina@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Kelli,Maddy,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,503-684-1280,kmaddy@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Kevin,Connor,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,703-734-6030,kevin.connor@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Daryl,Jurbala,Chief Executive Officer,Introspect.Net Consulting Inc,116 N Bellevue Ave,New Hope,PA,19047,215-752-7660,daryl@introspect.net,introspect.net,http://www.linkedin.com/in/darylj,Demo Contact Do not call
+Holly,Anderson,Optometrist,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,andersonh@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Marlene,Miller,Service Line Director Lab and Diagnost...,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4700,marlenem@prevea.com,prevea.com,http://www.linkedin.com/in/marlene-miller-25696119,Demo Contact Do not call
+Wes,Johnson,Human Resources Manager,Professional Eyecare,6575 W 119th St,Overland Park,KS,66209-2001,913-696-0092,WJohnson@professionaleyecare.net,professionaleyecare.net,,Demo Contact Do not call
+Rod,Rallo,Owner,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-456-1004,rrallo@visionfirsteyecare.com,visionfirsteyecare.com,http://www.linkedin.com/in/rallo-rod-36671265,Demo Contact Do not call
+Colleen,Daley,President,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-0107 x652,cdaley@spokaneeye.com,spokaneeye.com,,Demo Contact Do not call
+Cherry,Cockrell,Medical Doctor,Cockrell Eyecare Ctr,1711 W 6th Ave,Stillwater,OK,74074-4200,405-372-1715,ccockrell@cockrelleyecare.com,cockrelleyecare.com,,Demo Contact Do not call
+Diane,Robbins-Luce,Owner,Murrayhill Eye Care,14667 SW Teal Blvd,Beaverton,OR,97007-6194,503-579-2020,diane.robbins-luce@murrayhilleyecare.com,murrayhilleyecare.com,,Demo Contact Do not call
+Kerry,Steck,Owner,Pelham Vision Center PA,317 The Pkwy,Greer,SC,29650-4569,864-627-0634,ksteck@pelhamvisioncenter.com,pelhamvisioncenter.com,,Demo Contact Do not call
+S Barry,Eiden,Owner; Human Resources Executive,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,sbeiden@nsvc.com,nsvc.com,http://www.linkedin.com/in/s-barry-eiden-387250b,Demo Contact Do not call
+Kim,Williams,Finance Executive,Helena Physicians' Clinic,3330 Ptarmigan Ln,Helena,MT,59602-0521,406-442-3570,Kim.Williams@Gfclinic.com,Gfclinic.com,,Demo Contact Do not call
+John,Zeller,Plant Manager,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4789,John_Zeller@Prevea.com,prevea.com,,Demo Contact Do not call
+Suzanne,Devroye,Finance Executive,Michael J Bermel & Assoc,7531 Somerset Crossing Dr,Gainesville,VA,20155-4873,571-261-4261,sdevroye@drbermel.com,Drbermel.com,,Demo Contact Do not call
+BRENDA,WEIRICH,OWNER,BRENDA WEIRICH & ASSOC,1114 N POINT CIR,ALPHARETTA,GA,30022-4854,770-667-8060,bweirich@lenscrafters.com,LENSCRAFTERS.COM,,Demo Contact Do not call
+Sherry,Mansfield,Chairman,Lenscrafters Inc,320 Chicago Ridge Mall Apt C15,Chicago Ridge,IL,60415,708-423-1515,smansfield@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Teresa,Garza,Manager,Lenscrafters Inc,5400 Brodie Ln Ste 350,Austin,TX,78745,512-892-5500,tgarza@officemax.com,officemax.com,,Demo Contact Do not call
+James,Bing,Doctor Of Medicine,Bing James D & Bing Lois B OD,7054 W 130th St,Cleveland,OH,44130,440-845-5210,jbing@clarionnet.com,clarionnet.com,,Demo Contact Do not call
+Tam,Angela,Manager,Preimer Eyecare of San,3201 Mission St,San Francisco,CA,94110,415-648-3600,tangela@premiereyecare.net,premiereyecare.net,,Demo Contact Do not call
+Darvin,Cull,Purchasing Agent,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,dcull@essner.com,nwvision.org,,Demo Contact Do not call
+Robert,Agulilar,Purchasing Agent,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,ragulilar@essner.com,nwvision.org,,Demo Contact Do not call
+Linda,Ogura,Office Manager,Vision Service Corporation,6614 Logan Dr,Evansville,IN,47715,812-477-6700,logura@eye-mart.com,eyemart.com,,Demo Contact Do not call
+Nicholas,Koshuta,Optometrist,Wright & Jones,410 N San Francisco St,Flagstaff,AZ,86001,928-774-5093,drk@flagstaffeyecare.com,flagstaffeyecare.com,,Demo Contact Do not call
+Sean,Claflin,Optometrist,Claflin Eye Care,1924 Franklin Ave,Canon City,CO,81212,719-276-1660,sean@claflineyecare.com,claflineyecare.com,,Demo Contact Do not call
+Denise,Griffin,Executive Assistant,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,dmgriffin@eyenm.com,eyenm.com,http://www.linkedin.com/in/dee-griffin-0122ab23,Demo Contact Do not call
+Randy,Andregg,Optometrist,Vision One,610 S Americana Blvd,Boise,ID,83702-6731,208-336-7200,lcook@vision-1.com,vision-1.com,http://www.linkedin.com/in/lauren-cook-32a47812,Demo Contact Do not call
+John,Schmidt,Partner/Real Estate,Vision First,4000 POPLAR LEVEL RD,Louisville,KY,40213-1524,502-451-0332,jschmitt@visionfirsteyecare.com,visionfirsteyecare.com,http://www.linkedin.com/in/john-schmitt-9450692b,Demo Contact Do not call
+Bonnie,Demark,Optician,Family Eyecare Specialist,420 E Elm St,Caldwell,ID,83605-4846,208-459-2020,bonnie@familyeyes.com,familyeyes.com,http://www.linkedin.com/in/bonnie-demark-56814318,Demo Contact Do not call
+Brian,Grudem,Principal,Birch Lake Eye Clinic,4720 WHITE BEAR PKWY,White Bear Lake,MN,55110-3336,651-426-2747,briang@birchlakeeyeclinic.com,birchlakeeyeclinic.com,http://www.linkedin.com/in/brian-grudem-5a986a26,Demo Contact Do not call
+Gregory,Garner,President,MIDWEST EYE CONSULTANTS PC,835 N Cass Street,Wabash,IN,46992-1613,260-569-9550,ggarner@mwec-pc.com,mwec-pc.com,http://www.linkedin.com/in/gregory-garner-0a3a2120,Demo Contact Do not call
+Howard,Schor,General Manager,COFFMAN VISION CLINIC,61535 S Highway. 97 Highway,Bend,OR,97702-2154,541-389-3971,howard@coffmanvision.com,coffmanvision.com,http://www.linkedin.com/in/howard-schor-1bb40428,Demo Contact Do not call
+Richard,Rolston,Chief Executive Officer,Prevea Clinic,5400 Gibson Blvd SE,Albuquerque,NM,87108-4729,505-262-7000,richardr@prevea.com,prevea.com,,Demo Contact Do not call
+Vu,Nguyen,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drnguyen@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Timothy,Phair,Information Technology Technical Services Manager,Clinical Laboratory Partners Llc,129 Patricia M Genova Dr,Newington,CT,06111-1543,860-696-8055,tphair@clpct.com,clinicallabpartners.com,,Demo Contact Do not call
+Carmen,Castellano,Owner,Koetting Associates,2511 S BRENTWOOD BLVD,Saint Louis,MO,63144-2308,314-863-0000,ccastellano@koettingassociates.com,koettingassociates.com,http://www.linkedin.com/in/carmen-castellano-841b13a,Demo Contact Do not call
+Jim,Kivlin,Owner,Kivlin Eye Clinic,2303 Schneider Ave SE # 100,Menomonie,WI,54751,715-235-3838,jim.kivlin@kivlineyeclinic.com,kivlineyeclinic.com,,Demo Contact Do not call
+Travis,Little,Information Technology,Ossip Optometry,5948 N College Ave,Indianapolis,IN,46220-2554,,tlittle@ossip.com,ossip.com,http://www.linkedin.com/in/travis-little-5197596,Demo Contact Do not call
+Tim,Rankin,President,Nick L Neagle Od,2 Pidgeon Hill Dr Ste 180,Sterling,VA,20165,703-444-8502,timrankin@totalresults.net,totalresults.net,http://www.linkedin.com/in/tim-rankin-134635,Demo Contact Do not call
+Rick,Schaefer,President,Capital Advisors,16303 Yellow Sage St Ste 101,Pflugerville,TX,78660,512-231-0890,rick@capitaladvisors.us,capitaladvisors.us,http://www.linkedin.com/in/rick-schaefer-41813785,Demo Contact Do not call
+David,Robertson,Owner,Spinal Performance Ctr,4900 Woodway Dr Ste 520,Houston,TX,77056-1881,713-358-7500,drobertson@covenant.com,covenant.com,http://www.linkedin.com/in/david-robertson-5a24736a,Demo Contact Do not call
+Terri,Younger,Accounting Admin,Abba Eyecare,4331 Centennial Blvd,Colorado Springs,CO,80907,719-630-8200,terri@abbaeyecare.com,abbaeyecare.com,http://www.linkedin.com/in/terri-younger-a92a1328,Demo Contact Do not call
+Tina,Hull,Human Resources Director,Eye Institute,2000 S Wheeling Ave Ste 500,Tulsa,OK,74104-5642,918-747-3937,thull@eyeinst.com,eyeinst.com,http://www.linkedin.com/in/tina-hull-a232565a,Demo Contact Do not call
+Tim,Joness,Contractor,Maverick Construction and Management Services,PO Box 60700,King of Prussia,PA,19406-0700,610-783-6202,tjoness@maverick-cm.com,maverick-cm.com,,Demo Contact Do not call
+Carl,Christensen,Chief Information Officer,Marshfield Clinic Inc,Marshfield Clinic - Marshfield Center 1000 North Oak Avenue,Marshfield,WI,54449,715-387-5511,cchristensen@mfldclin.edu,mfldclin.edu,,Demo Contact Do not call
+Charles,Pegram,Medical Doctor,Vistar Eye Center,548 Blue Ridge Ave,Bedford,VA,24523-2604,540-586-5700,cpegram@vistareye.com,vistareye.com,,Demo Contact Do not call
+Donald,Cerise,Medical Doctor,Eyecare Associates,PO Box 334,Conrad,IA,50621-0334,641-366-3002,dcerise@eyecareneworleans.com,eyecareneworleans.com,,Demo Contact Do not call
+Donald,Glenz,Medical Doctor,Today'S Vision Sugar Land,15309 Southwest Fwy,Sugar Land,TX,77478-3870,281-469-2020,donald.glenz@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Greg,Butterworth,Medical Doctor,Vision Associates Inc,920 Revolution St,Havre de Grace,MD,21078-3718,410-939-2200,gbutterworth@visionassoc.com,visionassoc.com,,Demo Contact Do not call
+Heath,Bullard,Medical Doctor,Cleburne Eye Clinic,PO Box 476,Cleburne,TX,76033-0476,817-645-2411,hbullard@cleburneeyeclinic.com,cleburneeyeclinic.com,,Demo Contact Do not call
+James,Freedman,Medical Doctor,South Shore Eye Assoc,670 Depot St,North Easton,MA,2356,508-238-8460,jamesf@southshoreeye.com,southshoreeye.com,,Demo Contact Do not call
+John,Blackley,Medical Doctor,Eye Care PROFESSIONALS-Ny,130 Empire Dr,Buffalo,NY,14224-1320,716-656-2011,jblackley@eyecarepros.com,eyecarepros.com,,Demo Contact Do not call
+Gina,Schenk,Physician,Lenscrafters Foundation Inc,4000 Luxottica Pl,Mason,OH,45040,513-765-6000,gschenk@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+James,Stoelting,Executive Director of Medical Records,Lenscrafters Foundation Inc,4000 Luxottica Pl,Mason,OH,45040,513-765-6000,jstoelting@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Steven,Wilson,Attorney,Law Ofc Steven A Wilson Ltd,511 Linda Kay Ct,Carson City,CA,89701,775-882-5545,taxlaw2@pyramid.net,pyramid.net,,Demo Contact Do not call
+Angela,Gunn,Finance Executive,Lenscrafters,699 Boylston St,Boston,MA,02116-2848,617-437-1070,Angela_Gunn@Lenscrafters.com,Lenscrafters.com,,Demo Contact Do not call
+George,Oconnel,Finance Executive,Lenscrafters,630 Old Country Rd # 522,Garden City,NY,11530-3402,516-873-0742,George@Lenscrafters.com,Lenscrafters.com,,Demo Contact Do not call
+Marvin,Mayberry,Owner,Subway,219 US Route 1,Falmouth,ME,04105-1325,207-781-3103,Marvin@Subway.com,Subway.com,,Demo Contact Do not call
+Nancy,Amir,Owner,Santa Rosa Low Vision Clinic,9577 Huebner Rd # 4,San Antonio,TX,78240-1688,210-228-0030,Nancy_Amir@Lowvisionclinic.net,Lowvisionclinic.net,,Demo Contact Do not call
+TED T,NAMBA,OWNER,TED T NAMBA & ASSOC,2330 N 75TH AVE STE 101,PHOENIX,AZ,85035-1200,623-849-8726,tnamba@lenscrafters.com,LENSCRAFTERS.COM,,Demo Contact Do not call
+Edward,Malak,Owner,Oculus,3570 Las Vegas Blvd S,Las Vegas,NV,89109-8924,702-731-4850,edward_malak@oculusinc.com,oculusinc.com,,Demo Contact Do not call
+Charles,Langley,General Manager,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,clangley@essner.com,nwvision.org,http://www.linkedin.com/in/charles-langley-4550a517,Demo Contact Do not call
+William,Tullo,Clinical Director Tlc Manhattan,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,,william.tullo@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/bill-tullo-a578347,Demo Contact Do not call
+Kelly,Ferree,Executive Administrator,Coastal Eye Assoc,555 E Medical Center Blvd Ste 101,Webster,TX,77598-4367,281-488-7213,kellyf@coastaleyeassociates.com,coastaleyeassociates.com,http://www.linkedin.com/in/kellyferree,Demo Contact Do not call
+Steven,Bennett,HR Manager,Bennett Optometry,2000 Green Rd # 200,Ann Arbor,MI,48105-1575,734-930-2373,SBennett@bennettoptometry.com,bennettoptometry.com,http://www.linkedin.com/in/steve-bennett-66092a3,Demo Contact Do not call
+David,Landess,Owner / Co-Owner / Partner,McLean County Eye Center,1607 VISA DR STE 4,Normal,IL,61761-6160,309-454-2472,dklandess@2020medical.com,2020medical.com,http://www.linkedin.com/in/david-landess-12531a82,Demo Contact Do not call
+William,Ernstein,Owner,Palatine Vision Center LLC,Palatine Plaza Shopping Center 251 E. Northwest Highway,Palatine,IL,60067,847-358-4950,ernstein@palatinevision.com,palatinevision.com,,Demo Contact Do not call
+Brian,Cohen,Medical Doctor,Campus Eyes,1700 White Horse,Trenton,NJ,8690,609-587-2020,bcohen@campuseye.com,campuseye.com,,Demo Contact Do not call
+Moira,Long,Human Resources Director,Mann Eye Institute,18850 S Memorial Dr,Humble,TX,77338-4288,713-580-2568,mlong@manneye.com,manneye.com,http://www.linkedin.com/in/moira-long-ba92b59,Demo Contact Do not call
+Brian,Sayre,Orchestra Manager Acting,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,brian.sayre@nws.edu,rdeyes.com,,Demo Contact Do not call
+Travis,Dickenson,Orchestra Manager,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,travis.dickenson@nws.edu,rdeyes.com,,Demo Contact Do not call
+Michael,Bermel,Owner,Michael J Bermel Od PC,7909 Stonewall Shops Sq,Gainesville,VA,20155,571-261-5100,mbermel@drbermel.com,drbermel.com,http://www.linkedin.com/in/michael-bermel-b8698433,Demo Contact Do not call
+Paul,Endry,Owner,Eye Center,675 Biltmore Ave # H,Asheville,NC,28803-2527,828-253-3533,knichols@eyecarenow.com,eyecarenow.com,http://www.linkedin.com/in/kathi-nichols-b5a47124,Demo Contact Do not call
+Linda,Hill,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drhill@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Mark,Chavana,Office Manager,Today'S Vision Sugar Land,1145 Ridge Rd,Rockwall,TX,75087-4217,972-772-7854,drchavana@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Curtis John,Dominque,In House Counsel,Vision Source,1849 Kingwood Dr Ste 101,Kingwood,TX,77339-2974,281-312-1111 x218,cdomingue@visionsource.com,visionsource.com,,Demo Contact Do not call
+Peter,Flatow,Chief Executive Officer,CoKnowledge Inc,475 Fairfield Beach Road,Fairfield,CT,6430,203-256-5600,flatowp@coknowledge.com,coknowledge.com,http://www.linkedin.com/in/peterflatow,Demo Contact Do not call
+Kellee,Bertsch,Medical Doctor,Today'S Vision Sugar Land,15309 Southwest Fwy,Sugar Land,TX,77478-3870,281-469-2020,kellee.bertsch@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Kristen,Runke,Owner; Human Resources Executive,Unwalla and Runke Optical,9909 Georgetown Pike Null,Great Falls,VA,22066-2826,703-759-0061,runke@greatfallseyecare.com,greatfallseyecare.com,,Demo Contact Do not call
+H Kenneth,Kopolow,Human Resources,Doctors Of Optometry,1300 W Sunset Rd # 1617,Henderson,NV,89014-6623,702-436-0266,h-kopolow@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+HOWARD B,BACON,PARTNER,FAMILY OPTOMERTY,2950 N DOBSON RD STE 11,CHANDLER,AZ,85224-1824,480-963-8833,hbbacon@familyoptometry.net,FAMILYOPTOMETRY.NET,,Demo Contact Do not call
+Patricia,Gelner,Owner,Gelner Optometry PC,14386 Woodlake Dr,Chesterfield,MO,63017-5782,314-434-2626,gelner@gelner.com,gelner.com,,Demo Contact Do not call
+Tom,Lef,Finance Executive,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,left@althoffind.com,cohensfashionoptical.com,,Demo Contact Do not call
+Chris,Schlottmann,Business Development,Northwest Vision Ctr,4343 N Rancho Dr # 116,Las Vegas,NV,89130-3421,817-551-5511,chris@essner.com,nwvision.org,http://www.linkedin.com/in/chris-schlottmann-aa762315,Demo Contact Do not call
+Eric,Parsons,Executive Assistant To The President And Chief Exe,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,eric.parsons@nws.edu,rdeyes.com,http://www.linkedin.com/in/beth-boleyn-7b11907,Demo Contact Do not call
+Jeffrey,Huettemann,Optometrist,McLean County Eye Care Center,1607 Visa Dr Ste 4,Normal,IL,61761,309-454-2472,jahuettemann@2020medical.com,2020medical.com,http://www.linkedin.com/in/jeffrey-huettemann-6a947830,Demo Contact Do not call
+Neeja,Bindal,Optometrist,College Park Hearing Services Ltd,7305 Baltimore Ave # 204,College Park,MD,20740,301-277-2100,drs@contactlensassociates.net,contactlensassociates.net,http://www.linkedin.com/in/stuart-schatz-5248b32a,Demo Contact Do not call
+Jon,Scott,Owner,Battleground Eye Care,3132 Battleground Ave,Greensboro,NC,27408-1915,336-282-2273,drscott@battlegroundeye.com,battlegroundeye.com,http://www.linkedin.com/in/nceyedoc,Demo Contact Do not call
+Jeffrey,Pyndo,Opthalmology,The Eye Center of North Florida,8019 Front Beach Rd,Panama City Beach,FL,32407-4818,850-234-1829,jpyne@eyecarenow.com,eyecarenow.com,http://www.linkedin.com/in/jeffrey-pyne-1b4a0017,Demo Contact Do not call
+Yoongie,Min,Owner,Northwest Vision Ctr,1161 Bethel Rd,Columbus,OH,43220-2773,614-273-2020,eyes@nwvision.org,nwvision.org,,Demo Contact Do not call
+Frank,Setren,Owner,Professional Vision,720 DULANEY VALLEY RD,Towson,MD,21204-5109,410-823-1343,setren@professionalvision.com,professionalvision.com,http://www.linkedin.com/in/frank-setren-21494948,Demo Contact Do not call
+John,Lynch,Partner,Accurate Optical Co,31519 Winterplace Pkwy Ste 2,Salisbury,MD,21804-1894,410-749-1545,jlynch@accurateoptical.net,accurateoptical.net,,Demo Contact Do not call
+Peter,Theodorous,Partner,Nittany Eye Associates Ltd,428 Windmere Dr,State College,PA,16801,814-238-8470,ptheodorous@nittanyeye.com,nittanyeye.com,,Demo Contact Do not call
+Rebecca,Uhlig,Owner; Human Resources Executive,Hawthorne Vision Ctr,4704 SE Hawthorne Blvd,Portland,OR,97215-3250,503-235-6639,ruhlig@hawthornevision.com,hawthornevision.com,,Demo Contact Do not call
+Brian D,Atkins,Owner,Doctors Of Optometry,2765 S Veterans Pkwy,Springfield,IL,62704-6402,217-787-6276,atkinsb@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Dennis M,Brtva,Owner,Doctors Of Optometry,801 W Lake Ave,Peoria,IL,61614-5951,309-686-0763,d_brtva@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Steven,Pinard,Cheif Operations Officer,Doctors Of Optometry,4403 Black Horse Pike # 129,Mays Landing,NJ,08330-3113,609-484-0060,stevenp@lenscrafters.com,lenscrafters.com,http://www.linkedin.com/in/steven-pinard-77aa92b,Demo Contact Do not call
+Jeff,Schwers,Optometrist,Eye 2 Eye,440 E State St Ste 140,Eagle,ID,83616,208-939-7000,vision@eye2eyeidaho.com,eye2eyeidaho.com,,Demo Contact Do not call
+Chad,Albright,Doctor,Vistar Eye Center,426 W Main St,Salem,VA,24153-3610,540-389-8639,calbright@vistareye.com,vistareye.com,http://www.linkedin.com/in/chad-albright-747b1746,Demo Contact Do not call
+James,Bieber,Owner,Bieber & Fillmore,2098 Tremont Ctr,Columbus,OH,43221-3108,614-486-5205,jbieber@nweyes.com,nweyes.com,,Demo Contact Do not call
+Thomas,Hobbs,Owner,Insight Eyecare,602 N Maguire St,Warrensburg,MO,64093-1420,660-747-7300,thobbs@insighteyecare.com,insighteyecare.com,,Demo Contact Do not call
+William,Stern,Owner,Visionhealth Eyecare Center,153 WOODLAWN DR,Shawano,WI,54166-2233,715-524-2553,wstern@sternvision.com,sternvision.com,,Demo Contact Do not call
+Patti,Leonard,Medical Doctor,Eye Care PROFESSIONALS-Ny,130 Empire Dr,Buffalo,NY,14224-1320,716-656-2011,pleonard@eyecarepros.com,eyecarepros.com,,Demo Contact Do not call
+John,Skadin,Chief Financial Officer Vice-President Finance Vice President Finance,Saint Joseph's Hospital Of Marshfield; Inc,611 Saint Joseph Avenue,Marshfield,WI,54449,715-387-1713,john.skadin@mfldclin.edu,mfldclin.edu,,Demo Contact Do not call
+Grant,Smith,Owner,Visionsmith,4190 Vinewood Ln N Ste 109,Minneapolis,MN,55442-1771,763-559-7561,grant@visionsmith.com,visionsmith.com,,Demo Contact Do not call
+Ronald,Martin,Owner; Human Resources Executive,Vision Health Optometry Ctr,1440 Medical Center Dr,Rohnert Park,CA,94928-2924,707-795-9565,rmartin@vision-health.com,vision-health.com,,Demo Contact Do not call
+Jeffrey,Dannenberg,Attorney,Richard Kestenbaum Kestenbaum,142 W End Ave APT 21t,New York,NY,10023,212-877-9747,jdannenberg@kdklaw.com,kdklaw.com,http://www.linkedin.com/in/jdannenberg,Demo Contact Do not call
+Beth,Triebel,Partner,Vision Park Family Eye Care,2699 86th St,Des Moines,IA,50322,515-270-2490,btriebel@vision-park.com,vision-park.com,http://www.linkedin.com/in/beth-triebel-71b82930,Demo Contact Do not call
+David,Edinger,Partner,The Eye Center of North Florida,2500 Martin Luther King Jr Blvd,Panama City,FL,32405-4412,850-784-3937,dedinger@eyecarenow.com,eyecarenow.com,,Demo Contact Do not call
+Eric,Henrickson,Managing Director,Tlc Vision Corp,2361 CAMPUS DRIVE STE 101,IRVINE,CA,92612,800-852-1033,ehenrickson@sccapitalpartnersllc.com,sccapitalpartnersllc.com,http://www.linkedin.com/in/ericdhenrickson,Demo Contact Do not call
+David,DeGeorge,Senior Director,The Vision Source,13615 Bellaire Blvd,Houston,TX,77083,281.933.3446,DDeGeorge@visionsource.com,visionsource.com,http://www.linkedin.com/in/david-degeorge-051320a,Demo Contact Do not call
+Rhonda,Robinson,Partner,Ossip Optometry,6985 W 38th St Ste 100,Indianapolis,IN,46254-3918,317-243-0028,rrobinson@ossip.com,ossip.com,http://www.linkedin.com/in/rhonda-robinson-229668b,Demo Contact Do not call
+John,Fiore,Principal,Maverick Construction and Management Services,PO Box 60700,King of Prussia,PA,19406-0700,610-783-6202,jfiore@maverick-cm.com,maverick-cm.com,,Demo Contact Do not call
+Paul,Woehrle,Senior Director Development And Government Relatio,Politzer & Durocher Plc,4525 Harding Pike Ste 100,Nashville,TN,37205-2153,305-673-3330,paul.woehrle@nws.edu,rdeyes.com,,Demo Contact Do not call
+Carol,Barron,Optometrist,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,cbarron@nsvc.com,nsvc.com,http://www.linkedin.com/in/carol-barron-02492721,Demo Contact Do not call
+Carrie,Koenig,Optometrist,McFarland Clinic; P.C.,718 Story St,Boone,IA,50036,515-432-2020,ckoenig@mcfarlandclinic.com,mcfarlandclinic.com,http://www.linkedin.com/in/carrie-koenig-72a53322,Demo Contact Do not call
+Michael,Grace,Owner,Grace Eye Clinic,1045 W Pioneer Pkwy,Grand Prairie,TX,75051,972-641-5606,michael@michaelgrace.com,michaelgrace.com,http://www.linkedin.com/in/michael-grace-6611572a,Demo Contact Do not call
+Cara,Frasco,Partner,Middleton Eyecare,315 N Breiel Blvd,Middletown,OH,45042,513-424-0339,cfrasco@middletowneyecare.com,middletowneyecare.com,http://www.linkedin.com/in/cara-frasco-28518181,Demo Contact Do not call
+Scott,Czarnecki,Information Technology,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1692,scottc@prevea.com,prevea.com,http://www.linkedin.com/in/scott-czarnecki-5689b43,Demo Contact Do not call
+Xavier,Danthinne,President,Od 260; Inc,624 Hill View Dr,Boise,ID,83712-8119,208-345-7369,xdanthin@od260.com,od260.com,,Demo Contact Do not call
+Charles,Li,President,Virginia Optoelectronics; Inc.,1405 Ashford CT,Blacksburg,VA,24060,540-449-9658,charles.li@vaopto.com,vaopto.com,http://www.linkedin.com/in/charles-li-ba056111,Demo Contact Do not call
+Jeffery,Snow,President,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-0107,jsnow@spokaneeye.com,spokaneeye.com,,Demo Contact Do not call
+Paul,Ford,Chief Executive Officer,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,312-252-1313,paul@totalattorneys.com,infra-strategy.com,http://www.linkedin.com/in/paul-ford-a5398a55,Demo Contact Do not call
+Andrew,Holzman,Surgeon and Medical Director,Tlc Vision Corp,HORIZON LASER VISION CENTER & PARADISE VALLEY EYE SPECIALISTS 4845 E. THUNDERBIRD ROAD SUITE 1,SCOTTSDALE,AZ,85254,602-467-4966,andrew.holzman@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/dr-andy-holzman-38a93a11,Demo Contact Do not call
+Bruce,Goodman,Owner,My Eye Dr,3309 Foresthill Rd,District Heights,MD,20747,301-423-3282,bgoodman@myeyedr.com,myeyedr.com,,Demo Contact Do not call
+Wendell,Alford,Chief Financial Officer,Madison Eye Care Assoc,900 Johnson St,Tallulah,LA,71282-4537,318-574-2374,walford@madisoneyecare.com,madisoneyecare.com,,Demo Contact Do not call
+Andrea,Khur,President,OptiCare Managed Vision; Inc,87 Grandview Ave,Waterbury,CT,06708-2514,203-574-2020,andrea.khur@opticare.com,opticare.net,,Demo Contact Do not call
+Paul,Reynolds,Finance/information Technology Liason,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,paul.reynolds@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Mark,Wallner,Vice President of Sales and Marketing ; Sales,Vision Insurance Plan of America ; Inc.,6737 W. Washington St. Suite 2202 P.O. Box 44077,Milwaukee,WI,53214-7077,414-475-1875,mwallner@visionplans.com,visionplans.com,http://www.linkedin.com/in/mark-wallner-b634ab2,Demo Contact Do not call
+Allyson,Mertins,Optometrists,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,amertins@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Bobby,Decker,Optometrists,Mcdonald Eye Services Inc,3318 N Northhills Blvd,Fayetteville,AR,72703,479-521-2555,bdecker@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Fred,Dickson,Information Technology Director,Marshfield Clinic,Marshfield Clinic Marshfield Center 1000 N Oak Ave,Marshfield,WI,54449-5702,715-387-5511,fdickson@mfldclin.edu,mfldclin.edu,,Demo Contact Do not call
+Jason,Lowman,General/Technical,Callahan Eye Foundation Hosp,1720 University Blvd,Birmingham,AL,35233,205-325-8100,jlowman@uabmc.edu,uabmc.edu,http://www.linkedin.com/in/jason-lowman-a0386362,Demo Contact Do not call
+Kevin,Lewis,President,Gordon; Michael D. O.D.; P.A.,234 W Greenway St,Derby,KS,67037,316-788-0384,kevin.lewis@edwardjones.com,edwardjones.com,,Demo Contact Do not call
+Jordan,Brown,Optometrist,Salem Eye Clinic; LLC,400 N Broadway Ave,Salem,IL,62881,618-548-2554,jordan@salemeyeclinic.com,salemeyeclinic.com,,Demo Contact Do not call
+Pat,Granados,Laser Vision Advisor,International Eye Care,926 N Wilcrest Dr,Houston,TX,77079,713-984-9777,patg@texaslasik.com,texaslasik.com,http://www.linkedin.com/in/patricia-granados-0883859,Demo Contact Do not call
+Tesha,Peel,Advertising Manager,Clarkson Eyecare Center Inc,217 Clarkson Rd,Ballwin,MO,63011,636-227-2600,tpeel@clarksoneyecare.com,clarksoneyecare.com,http://www.linkedin.com/in/tesha-peel-8a35b912,Demo Contact Do not call
+Wes,Michael,Telecommunications Executive,Prevea Health,1715 Dousman St,Green Bay,WI,54303,920-405-1414,wmichael@prevea.com,prevea.com,http://www.linkedin.com/in/wes-michael-29802413,Demo Contact Do not call
+Kenneth,Zade,Director-Information Services,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4700,kenz@prevea.com,prevea.com,,Demo Contact Do not call
+Shawn,Clark,Information Technology Manager,Bieber & Fillmore,10330 Meridian Ave N,Seattle,WA,98133-9451,614-486-5205,sclark@nweyes.com,nweyes.com,,Demo Contact Do not call
+Steven,De Groff,Owner; Human Resources Executive,Family Eye Clinic,150 Forest Park Dr,Berne,IN,46711-1745,260-589-3197,sgroff@drdegroff.com,drdegroff.com,,Demo Contact Do not call
+Richard,Bruski,Fleet Manager,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,bruskir@althoffind.com,cohensfashionoptical.com,,Demo Contact Do not call
+Stacia,Hahn,Human Resources Executive,Cohen's Fashion Optical,4017 Main St,Flushing,NY,11354-5518,815-455-7000,shahm@althoffind.com,cohensfashionoptical.com,,Demo Contact Do not call
+Bruce,Mirkin,Owner,Accent On Eyes,28 S Park Avenue,Rockville Centre,NY,11570,516-766-0222,bruce@accentoneyes.net,accentoneyes.net,http://www.linkedin.com/in/bruce-mirkin-b626323b,Demo Contact Do not call
+Stephen,Jackson,Senior Network And Pc Support Analyst,Dean McGee A Eye Institute,608 Stanton L Young Blvd,Oklahoma City,OK,73104,405-271-6060,stephen-jackson@dmei.org,dmei.org,http://www.linkedin.com/in/stephen-jackson-23615733,Demo Contact Do not call
+Noah,Eger,Optometrist,Mark W Eger Od PC,1501 State Ave,Coraopolis,PA,15108,412-264-8830,yoursight@egereye.com,egereye.com,http://www.linkedin.com/in/drnoah-eger-11215820,Demo Contact Do not call
+Bob,Hannon,Vice President Customer Service,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,bob@infra-strategy.com,totalattorneys.com,http://www.linkedin.com/in/bobhannon,Demo Contact Do not call
+Brad,Baggarly,Network Manager,Clairmont Optometry Group,318 N Indian Hill Blvd,Claremont,CA,91711,909-625-7861,drbrad@claremontoptometry.com,claremontoptometry.com,,Demo Contact Do not call
+Lana,Ivy,Vice President Development,Dean McGee A Eye Institute,608 Stanton L Young Blvd,Oklahoma City,OK,73104,405-271-6060,lana-ivy@dmei.org,dmei.org,,Demo Contact Do not call
+Rosemarie,Hatton,Manager Finance Executive Sales Executive,Lenscrafters Inc,2500 W Moreland Rd,Willow Grove,PA,19090,215-784-9160,rhatton@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Charles,Mcdonald,Owner,Accurate Optical Company Inc,Ocean City Square 11805 Coastal Highway Suite G,Ocean City,MD,21842,410-643-3355,cmcdonald@accurateoptical.net,accurateoptical.net,,Demo Contact Do not call
+Gregory,Kraupa,Co-owner,Optometric Eye Care Centers P.,1202 Moore Lake Dr E,Minneapolis,MN,55432,,greg.kraupa@eyecarecenters.net,drsciortino.com,http://www.linkedin.com/in/greg-kraupa-b8836b11,Demo Contact Do not call
+Tim,Ryan,Vice President,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,tim@infra-strategy.com,totalattorneys.com,http://www.linkedin.com/in/tim-ryan-8893339,Demo Contact Do not call
+Brett,Hagen,Optometrist,Garland Vision Source Inc,521 W Garland Ave,Spokane,WA,99205,509-327-9505,bhagen@garlandvisionsource.com,garlandvisionsource.com,http://www.linkedin.com/in/brett-hagen-47ab0446,Demo Contact Do not call
+Edmund,Scanlan,Chief Executive Officer,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,312-252-1313,ed@infra-strategy.com,totalattorneys.com,,Demo Contact Do not call
+Kate,Battle,Vendor,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,877-349-1307,kbattle@totalattorneys.com,infra-strategy.com,http://www.linkedin.com/in/ktbattle,Demo Contact Do not call
+Lenore,Katz,Owner,Cohen's Fashion Optical,545 5th Ave # 1,New York,NY,10017-3621,212-697-0915,KatzL@cohensfashionoptical.com,cohensfashionoptical.com,,Demo Contact Do not call
+Tony,Powers,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,702-804-5556,tonypowers@lasikvisioninstitute.com,lasikvisioninstitute.com,http://www.linkedin.com/in/tony-powers-93a88410,Demo Contact Do not call
+Vincent,Ibarra,General Manager,Lasik Vision Institute,8154 Montgomery Rd,Cincinnati,OH,45236-2968,801-266-2010,vibarra@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Karen,Beling,Optometrist,South River Eye Care,2979 Solomons Island Rd,Edgewater,MD,21037,410-956-2828,drbeling@southrivereyecare.com,southrivereyecare.com,,Demo Contact Do not call
+Daniel,Markley,Optometrist,Grand Blanc Vision Clinic PC,12606 Holly Rd,Grand Blanc,MI,48439,810-694-3652,julie@grandblancvision.com,grandblancvision.com,,Demo Contact Do not call
+Debra,Hunt,Human Resources Executive,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,dhunt@southerneyecenter.com,southerneyecenter.com,,Demo Contact Do not call
+William,Od,optometrist,Family Eyecare Specialist,420 E Elm St,Caldwell,ID,83605-4846,208-585-3445,drblack@familyeyes.com,familyeyes.com,,Demo Contact Do not call
+Rick,Lohr,Finance Executive,Michigan Eyecare Institute,29877 Telegraph Rd,Southfield,MI,48034,248-352-2806,rlohr@micheyecare.com,micheyecare.com,,Demo Contact Do not call
+Wendy,Greene,Accounting and Human Resources Coordin...,Southern Eye Center,1420 S 28th Ave,Hattiesburg,MS,39402-3107,601-264-3937,wgreene@southerneyecenter.com,southerneyecenter.com,,Demo Contact Do not call
+Paul,Garland,Partner,The Eye Center of North Florida,2500 Martin Luther King Jr Blvd,Panama City,FL,32405-4412,850-784-3937,pgarland@eyecarenow.com,eyecarenow.com,http://www.linkedin.com/in/paul-garland-984a0773,Demo Contact Do not call
+Megan,Bauries,Allied Health Professional,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,mbauries@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Alan,Johnson,Manager,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,ajohnson@spokaneeye.com,spokaneeye.com,,Demo Contact Do not call
+Bruce,Grene,Branch Manager,Grene Vision Group,803 Main St,Winfield,KS,67156-2834,620-221-2020,bgrene@grenevisiongroup.com,grenevisiongroup.com,http://www.linkedin.com/in/bruce-grene-08733a30,Demo Contact Do not call
+Bryce,Taylor,President,Oregon Board of Optometry,PO Box 13967,Salem,OR,97309-1967,503-585-9999,btaylor@oregonpallet.com,oregonpallet.com,http://www.linkedin.com/in/bryce-taylor-897a2011,Demo Contact Do not call
+Christopher,Bergman,Director,Omaha Eye Institute,11606 Nicholas St Ste 200,Omaha,NE,68154-4486,402-493-2020,cbergman@omahaeye.com,omahaeye.com,http://www.linkedin.com/in/christopher-bergman-91457415,Demo Contact Do not call
+Joy,Woodke,Office Manager,The Eye Center,1550 OAK ST STE 7,Eugene,OR,97401-7701,541-687-1927,joy.woodke@oregoneyecenter.com,oregoneyecenter.com,,Demo Contact Do not call
+Olivia,Terina,Manager,Premier Eye Care Pa,11111 Res,Austin,TX,78759,512-338-5222,oterina@premiereye.com,premiereye.com,,Demo Contact Do not call
+Sean,Phibbs,Owner,Emerald Eyes,701 Sea Girt Ave,Sea Girt,NJ,08750-2803,732-974-3937,sphibbs@emeraldeyes.com,emeraldeyes.com,,Demo Contact Do not call
+Ralph,Hyver,General Manager,Scotthyver Vision Care; Inc,2901 Tasman Dr Ste 208,Santa Clara,CA,95054,408-486-0898,rhyver@scotthyver.com,scotthyver.com,http://www.linkedin.com/in/lauren-hyver-8b959866,Demo Contact Do not call
+Chelsey,Lambert,Consultant,Total Attorneys; Inc.,25 East Washington St.,Chicago,IL,60491,312-753-6947,chelsey@totalattorneys.com,totalattorneys.com,http://www.linkedin.com/in/chelseylambert,Demo Contact Do not call
+Cindy,Durand,Manager of the Marketing and Communica...,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4700,cindyd@prevea.com,prevea.com,http://www.linkedin.com/in/cindy-durand-b88674b,Demo Contact Do not call
+Emmanuel,Kintu,Executive Director,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-791-6315,ekintu@kphc.org,kphc.org,http://www.linkedin.com/in/emmanuel-kintu-9743242b,Demo Contact Do not call
+Irene,Berg,Telecommunications Executive,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-416-7600,iberg@nweyeclinic.com,nweyeclinic.com,http://www.linkedin.com/in/irene-berg-ba-facmpe-590b115,Demo Contact Do not call
+Lori,Mowbray,Doctor,Mn Vision Therapy Ctr,7250 France Ave S,Minneapolis,MN,55435-4305,952-844-0844,lmowbray@minnesotavisiontherapy.com,minnesotavisiontherapy.com,http://www.linkedin.com/in/lori-mowbray-a1679513,Demo Contact Do not call
+Tom,Carr,Data Processing Executive Executive Of...,OptiCare Managed Vision; Inc,87 Grandview Ave,Waterbury,CT,06708-2514,203-574-2020,tcarr@opticare.com,opticare.net,,Demo Contact Do not call
+Ray,Sansbury,Chief Executive Officer,Sansbury Eye Ctr,7588 Woodrow St,Irmo,SC,29063-2874,803-781-2123,ray@sansbury.com,sansbury.com,,Demo Contact Do not call
+Michael,Moore,Owner,Moore Eyecare,2600 MARTIN WAY E STE C,Olympia,WA,98506-4974,360-357-7899,mmoore@mooreeyecare.net,mooreeyecare.net,,Demo Contact Do not call
+Rita,Wallace,Medical Doctor,Murrayhill Eye Care,14667 SW Teal Blvd,Beaverton,OR,97007-6194,503-579-2020,rita.wallace@murrayhilleyecare.com,murrayhilleyecare.com,,Demo Contact Do not call
+Bryan,Crockett,Physician,Accurate Optical Company; Inc,31519 Winterplace Pkwy,Salisbury,MD,21804,410-749-1545,bcrockett@accurateoptical.net,accurateoptical.net,,Demo Contact Do not call
+Jeffery,Ahrns,Medical Doctor,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,jefferyahrns@primaryeyecare.org,primaryeyecare.org,,Demo Contact Do not call
+John,Beigel,Optometrist,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,jbeigel@primaryeyecare.org,primaryeyecare.org,http://www.linkedin.com/in/john-beigel-b60a5b12,Demo Contact Do not call
+Shelley,Vanskiver,Office Manager,Primary Eyecare Associates,1086 Fairington Dr,Sidney,OH,45365,937-492-9197,svanskiver@primaryeyecare.org,primaryeyecare.org,,Demo Contact Do not call
+Charles,Woody,Medical Doctor,Vision Center Pelham PA,317 The Pkwy,Greer,SC,29650,864-627-0634,cwoody@pelhamvisioncenter.com,pelhamvisioncenter.com,,Demo Contact Do not call
+Heather,Kolessar,Low Vision Consultant,Bennett; H W & Association Optometrist Co,2000 Green Rd Ste 200,Ann Arbor,MI,48105,734-930-2373,hkolessar@bennettoptometry.com,bennettoptometry.com,,Demo Contact Do not call
+David,Park,Business Manager,Park Optometry Inc,1939 Grand Ave,San Diego,CA,92109,858-272-2211,dpark@parkoptometry.com,parkoptometry.com,,Demo Contact Do not call
+Stephen,Wexler,Medical Doctor,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,stephen.wexler@tlcvision.com,tlcvision.com,http://www.linkedin.com/in/stephen-wexler-a2245215,Demo Contact Do not call
+Bobbie,Richey,Sales Executive,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,brichey@pshcs.com,pshcs.com,,Demo Contact Do not call
+Carole,Kehl,Client Service Representative,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,ckehl@pshcs.com,pshcs.com,http://www.linkedin.com/in/carole-kehl-83a442b1,Demo Contact Do not call
+Amber,Robins,Patient Counselor,Scotthyver Vision Care,2171 Junipero Serra Blvd # 170,Daly City,CA,94014,650-994-1769,amber@scotthyver.com,scotthyver.com,,Demo Contact Do not call
+Diane,Dewitt,Partner,Clovis Vision Associates,1217 Pile St,Clovis,NM,88101,575-763-5522,ddewitt@clovisvision.com,clovisvision.com,,Demo Contact Do not call
+Rick,Haley,Director Of Client Relations,Loden Vision Centers,907 Rivergate Pkwy,Goodlettsville,TN,37072,615-859-3937,rhaley@lodenvision.com,lodenvision.com,,Demo Contact Do not call
+Andrea,Macabeo,Assistant Director,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-845-0686,amacabeo@kphc.org,kphc.org,,Demo Contact Do not call
+Martha,Burton,Business Manager,Stanislaus Vision Associates Optmetric Group Inc,1700 McHenry Ave Ste 77,Modesto,CA,95350,209-524-4626,martha.burton@stanislausvision.com,stanislausvision.com,,Demo Contact Do not call
+Eric,Randle,Optometrist,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6621,eric.randle@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Rick,Peterson,Principle,Today's Vision - South Towne; P.C.,4970 W Hwy 290 Ste 410,Austin,TX,78735,512-899-2020,rpeterson@todaysvision.com,todaysvision.com,,Demo Contact Do not call
+Thomas,Barreto,Owner,Thomas M Barreto Od,2300 Ne Broadway St,Portland,OR,97232,503-284-2300,tbarreto@eyesonbroadway.com,eyesonbroadway.com,,Demo Contact Do not call
+Trish,Stauffer,Business Manager,Beach Eye Care,1201 First Colonial Rd,Virginia Beach,VA,23454,757-425-5550,tstauffer@beacheyecare.com,beacheyecare.com,,Demo Contact Do not call
+Michael,Bennett,Medical Doctor,Lifetime Eyecare,9309 Glacier Hwy Ste 103a,Juneau,AK,99801-9300,907-789-3175,michael.bennett@lifetimeeyecare.com,lifetime-eyecare.com,,Demo Contact Do not call
+Angie,Ldo,Paraoptometric Abo Certified,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,angie@madisoneyecare.com,madisoneyecare.com,,Demo Contact Do not call
+Mara,Koson,Patient Rlations Specialist,Medicine Eye Care,17520 Madison Ave,Lakewood,OH,44107,216-228-3343,mara@madisoneyecare.com,madisoneyecare.com,,Demo Contact Do not call
+Stephen,Gorove,Principle,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6621,stephen.gorove@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Linda,Rhodes,O D F A A O,West Houston Eye Associates,10260 Westheimer Rd # 550,Houston,TX,77042,713-977-8464,lrhodes@westhoustoneye.com,westhoustoneye.com,,Demo Contact Do not call
+Anderson,David,Manager,Anderson David R OD,2807 N Main St,Tarboro,NC,27886,252-823-8295,anderson@dmajic.com,dmajic.com,,Demo Contact Do not call
+Bing,James,Doctor Of Medicine,Bing James D & Bing Lois B OD,7054 W 130th St,Cleveland,OH,44130,440-845-5210,bjames@clarionnet.com,clarionnet.com,,Demo Contact Do not call
+Adams,Rick,Manager,Eyecarecenter O D PA,3044 Sunset Ave,Rocky Mount,NC,27804,252-443-7011,arick@opticare.net,opticare.net,,Demo Contact Do not call
+Baxter,Brian,Manager,Connie James Eye Care,2126 Abbott Martin Rd Ste 113,Nashville,TN,37215,615-269-3500,bbrian@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Chris,Canells,Manager,Lenscrafters,100 Cambridgeside Pl Ofc,Cambridge,MA,2141,617-494-4724,ccanells@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+David,Butler,Manager,David L Fitzgerald OD PA,5167 Hwy 70 W Ste 90,Morehead City,NC,28557,252-727-5290,dbutler@sears.com,sears.com,,Demo Contact Do not call
+Frank,Lam,Owner,LAM Frank Y OD,705 Main St,Klamath Falls,OR,97601,541-850-5253,flam@franklamb.com,franklamb.com,,Demo Contact Do not call
+Fred,Wallace,Executive Director,State of Alabama,1431 2nd Ave N,Bessemer,AL,35020,205-481-9993,fred.wallace@optometry.alabama.gov,EYE-AND-VISION.COM,,Demo Contact Do not call
+Jacob,Kristin,Manager,Precision Appraisal,16300 Mill Creek Blvd Ste 118,Bothell,WA,98012,425-743-3996,jacob.kristin@wellsfargoefs.com,wellsfargoefs.com,,Demo Contact Do not call
+Janna,Nelson,Manager,Edmonds Ann Slocum OD,9730 SW Washington Square Rd,Portland,OR,97223,503-624-0666,jnelson@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Kimball,Leigh,Manager,Texas State Optical Silsbee,125 N 5th St,Silsbee,TX,77656,409-385-5262,kleigh@techsupt.com,techsupt.com,,Demo Contact Do not call
+Mike,Akawishi,Manager,Eyexam 2000 of California Inc,2200 Hilltop Mall Rd,San Pablo,CA,94806,510-223-4441,makawishi@taubman.com,taubman.com,,Demo Contact Do not call
+Marilyn,Alejandro,Manager,Mclintick Dr,2628 Tamiami Trl N,Naples,FL,34103,239-649-1650,malejandro@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Mike,Darling,Manager,Lens Crafters,1298 Fox Valley Ctr,Aurora,IL,60504,630-851-0263,mdarling@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Manny,Seoane,Manager,Lange Eye Care and Associates,3101 SW College Rd Ste 101,Ocala,FL,34474,352-237-3768,mseoane@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Ruby,Childreff,Manager,The Elisabeth Store,2801 W Big Beaver Rd,Troy,MI,48084,248-643-6220,rchildreff@kcole.com,kcole.com,,Demo Contact Do not call
+Theresa,Acosta,Manager,Eye Exam of CA E059,500 Southland Mall,Hayward,CA,94545,510-887-1887,tacosta@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Taylor,Craig,Manager,Johansen Lawrence OD,1000 W Northland Ave,Appleton,WI,54914,920-731-4511,taylor@theshop.com,theshop.com,,Demo Contact Do not call
+R,Sabherwal,Principal,Lenscrafters Inc,200 Millcreek Plz,Erie,PA,16565,814-868-7502,rsabherwal@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Tonya,Lyons,Manager,Lenox Square,3393 Peachtree Rd NE Ste 3011,Atlanta,GA,30326,404-504-2611,tonya@godiva.com,godiva.com,,Demo Contact Do not call
+Sharon,Meunier,Manager,Eye Care Associates,4324 Veterans Memorial Blvd Ste 102,Metairie,LA,70006,504-455-9825,smeunier@jamesyoung.net,jamesyoung.net,,Demo Contact Do not call
+Susan,Gailmard,Treasurer,Gailmard Eye & Laser Center,630 Ridge Rd,Munster,IN,46321,219-836-1738,susan@gailmard.com,gailmard.com,,Demo Contact Do not call
+Valerie,Byer,Manager,Lenscrafters Inc,4400 Ashford Dunwoody Rd NE,Atlanta,GA,30346,770-673-0180,vbyer@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Annette,Berry,Manager,Lenscrafters Inc,670 Northridge Shopping Ctr # F8,Salinas,CA,93906,831-443-6090,aberry@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Andrew,Calvin,Manager,Preimer Eyecare of San,3201 Mission St,San Francisco,CA,94110,415-648-3600,acalvin@premiereyecare.net,premiereyecare.net,,Demo Contact Do not call
+Alena,Hinderliter,Manager,Lenscrafters Inc,800 N Green River Rd,Evansville,IN,47715,812-473-2546,ahinderliter@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Alan,Majernick,Manager,Lenscrafters Inc,5707 Christie Ave,Emeryville,CA,94608,619-299-3113,amajernick@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Annette,Winston,Manager,Winston Winston and Winston PC,8609 Kingston Pike Ste 200,Knoxville,TN,37923,865-693-3441,annette@winstonvision.com,winstonvision.com,,Demo Contact Do not call
+Anne,Phelps,General/Technical,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,aphelps@ronreed.com,ronreed.com,,Demo Contact Do not call
+Barb,Barbsobol,Manager,Lenscrafters Inc,3177 Westgate,Cleveland,OH,44126,440-356-2610,bbarbsobol@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Brenda,Heald,Owner,Lenscrafters Inc,4850 S 74th St,Milwaukee,WI,53220,414-282-3200,bheald@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Brett,McDonough,Partner,Hometown Threads,2020 Gunbarrel Rd,Chattanooga,TN,37421,423-648-2000,brett.mcdonough@dcsg.com,dcsg.com,,Demo Contact Do not call
+Charles,Ellermeyer,Doctor Of Optometry,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,cellermeyer@ronreed.com,ronreed.com,,Demo Contact Do not call
+Darren,Jacobs,Manager,Hometown Threads,2020 Gunbarrel Rd,Chattanooga,TN,37421,423-648-2000,darren.jacobs@dcsg.com,dcsg.com,,Demo Contact Do not call
+David,Brew,Manager,Lenscrafters Inc,53 Colma Blvd # F2,Daly City,CA,94014,650-992-2700,dbrew@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Debra,Hawari,Executive Assistant,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903-569-5432,debra@mineolaeyecare.com,mineolaeyecare.com,,Demo Contact Do not call
+Donna,Hull,Manager,Shack Michael H OD Dr & Associates,1280 Bison Ave Ste B4,Newport Beach,CA,92660,949-637-4500,donnah@petco.com,petco.com,,Demo Contact Do not call
+Edward,Nolan,Director,New Vision Home Care Corp,2266 Hampden Pl,Bronx,NY,10468,718-295-7760,enolan@invacare.com,invacare.com,,Demo Contact Do not call
+Fred,Sill,Manager,Lenscrafters Inc,24 Kane St # Wh,West Hartford,CT,6119,860-233-8548,fsill@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+George,Bruce,Owner,Prewandowski Susan P,70 Huttleston Ave,Fairhaven,MA,2719,508-994-2020,gbruce@stevensantos.com,stevensantos.com,,Demo Contact Do not call
+Glenn,Davies,Doctor Of Optometry,Reeds Eye Associates,500 Kreag Rd,Pittsford,NY,14534,585-249-8300,gdavies@ronreed.com,ronreed.com,,Demo Contact Do not call
+Huelsman,Keith,Manager,Reynolds Mark MD,4301 W Franklin St,Bellbrook,OH,45305,937-848-9858,hkeith@markreynolds.net,markreynolds.net,,Demo Contact Do not call
+Herb,Shultz,Manager,Herb J Shultz,2400 Southeast Blvd Ste A,Salem,OH,44460,330-332-4501,hshultz@prudentloans.com,prudentloans.com,,Demo Contact Do not call
+Jeffrey,Hooton,Doctor Of Optometry,Mineola Eye Care Center,1238 N Pacific St,Mineola,TX,75773,903-569-5432,jeffrey@mineolaeyecare.com,mineolaeyecare.com,,Demo Contact Do not call
+Justin,Henderson,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,justin.henderson@catocorp.com,catocorp.com,,Demo Contact Do not call
+Jake,Weingert,Manager,Lenscrafters Inc,2501 Mount Holly Rd Fl 2,Burlington,NJ,8016,609-386-8797,jweingert@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Kary,Keifer,Manager,Lenscrafters Inc,800 N Green River Rd,Evansville,IN,47715,812-473-2546,kkeifer@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Kristie,McManus,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,kristie.mcmanus@catocorp.com,catocorp.com,,Demo Contact Do not call
+Lenore,Katz,Manager,Cohen's Fashion Optical,545 5th Ave # 1,New York,NY,10017-3621,212-697-0915,lenorekatz@cohensfashionoptical.com,cohensfashionoptical.com,,Demo Contact Do not call
+Linda,Messer,Manager,Lenscrafters Inc,D460 Wausau Ctr # D,Wausau,WI,54403,715-842-3631,lmesser@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Lorraine,Ross,Manager,Salado Medical Clinic,213 Mill Creek Dr Ste 180,Salado,TX,76571,254-947-2225,lorrainer@solanaranch.com,solanaranch.com,,Demo Contact Do not call
+Mary,Baglin,Manager,Opticare Health Systems Inc,17B Governor St,Ridgefield,CT,6877,203-438-5005,mbaglin@opticare.net,opticare.net,,Demo Contact Do not call
+PEGGY,RINEHART,Owner,CENTRAL PHOENIX EYECARE,5727 N 7TH ST STE 105,PHOENIX,AZ,85014-5815,602-265-8597,peggy@cpe.phxcoxmail.com,CPE.PHXCOXMAIL.COM,,Demo Contact Do not call
+Pina,Lutz,Manager,Steven P Lutz,324 Briarwood Cir,Ann Arbor,MI,48108,734-994-1444,plutz@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Robert,Brown,Owner,Anderson Brown Eyecare,2600 Edgewood Rd SW Ste 376,Cedar Rapids,IA,52404,319-390-4144,rbrown@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Robert,Hanlon,Manager,Shultz Herb J,2400 Southeast Blvd Ste A,Salem,OH,44460,330-332-4501,rhanlon@prudentloans.com,prudentloans.com,,Demo Contact Do not call
+Robert,Mahr,Partner,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,rmahr@spokaneeye.com,spokaneeye.com,,Demo Contact Do not call
+Robin,Hutson,Manager,Sears Auto Center,1057 Broad St,Sumter,SC,29150,803-778-7298,robin.hutson@catocorp.com,catocorp.com,,Demo Contact Do not call
+Rigo,Vargas,Sales Executive,Lenscrafters Inc,2060 Southlake Mall # 250,Merrillville,IN,46410,219-736-0093,rvargas@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Richard,Winnick,Owner,Richard E Winnick O D,7200 W Alameda Ave,Denver,CO,80226,303-936-4395,rwinnick@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Sandy,Spears,Manager,Mc Lean Immediate Care Inc,1340 Old Chain Bridge Rd Ste 101,Mc Lean,VA,22101,703-893-2273,sandy.spears@immediatecare.net,immediatecare.net,,Demo Contact Do not call
+Sharon,Renier,Manager,Gary L Renier OD Ltd,101 10th St N Ste 120,Fargo,ND,58102,701-293-9835,sharonr@flintcom.com,flintcom.com,,Demo Contact Do not call
+Tony,Torrjon,Manager,Connie James Eye Care,2126 Abbott Martin Rd Ste 113,Nashville,TN,37215,615-269-3500,ttorrjon@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Vint,Facchiano,Partner,Facchiano Eye Care,102 W Towne Mall # 44C,Madison,WI,53719,608-829-2440,vfacchiano@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Wittrock,Kristina,Manager,The Elisabeth Store,2801 W Big Beaver Rd,Troy,MI,48084,248-643-6220,wkristina@kcole.com,kcole.com,,Demo Contact Do not call
+Garth,Rotramel,Personnel Director,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,grotramel@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Andrea,Lipscomb,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,andrea@weavereye.com,Weavereye.com,http://www.linkedin.com/indrea-lipscomb-039a0992,Demo Contact Do not call
+Bonnie,Schmalz,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,bonnie@weavereye.com,Weavereye.com,,Demo Contact Do not call
+Debby,Morrison,Office Manager,Allegheny West Eye Care,236 W Allegheny Rd,Imperial,PA,15126-9775,724-695-3371,dmorrison@alleghenywesteyecare.com,alleghenywesteyecare.com,,Demo Contact Do not call
+Emily,Simmons,Registered Nurse Advanced Nursing Coordinator,University of Alabama Birmingham,2259 County Road 12,Odenville,AL,35120-6657,205-629-5809,esimmons@uabmc.edu,uabmc.edu,,Demo Contact Do not call
+Stacey,Rudisill,Office Manager,Weaver Eye Assoc,2791 S Queen St,Dallastown,PA,17313-9540,717-741-4788,stacey@weavereye.com,Weavereye.com,,Demo Contact Do not call
+Jennifer,Ross,Paraoptometric Section President,Insight Eyecare,602 N Maguire St,Warrensburg,MO,64093-1420,573-635-6151,jross@insighteyecare.com,insighteyecare.com,,Demo Contact Do not call
+Allen,Smith,Medical Doctor,Lifetime Eyecare,597 Baldwin St 4,Jenison,MI,49428,616-457-0760,allen@lifetimeeyecare.com,lifetimeeyecare.com,,Demo Contact Do not call
+Ava,Ashby,Finance Executive,Mann Eye Institute,1424 E Front St,Tyler,TX,75702-8501,281-446-7900,avaashby@manneye.com,manneye.com,,Demo Contact Do not call
+Brian,Koller,Data Analysis Specialist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-405-1476,briank@prevea.com,prevea.com,,Demo Contact Do not call
+Carrie,Bunnell,Vice President of Finance,Northwest Eye Clinic,5657 Duluth St,Minneapolis,MN,55422-4054,763-383-4130,cbunnell@nweyeclinic.com,nweyeclinic.com,,Demo Contact Do not call
+Clayton,Chan,Psychiatrist,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,cchan@kphc.org,kphc.org,,Demo Contact Do not call
+Curtis,Walker,Executive Director,Mn Vision Therapy Ctr,7250 France Ave S Ste 415,Minneapolis,MN,55435-4314,952-844-0844,curtiswalker@minnesotavisiontherapy.com,minnesotavisiontherapy.com,,Demo Contact Do not call
+Chad,Young,Ophthalmologist,Carter Eye Center,7502 Greenville Ave,Dallas,TX,75231-3832,214-750-1962,cyoung@cartereyecenter.com,cartereyecenter.com,,Demo Contact Do not call
+Daniel,Johnson,Principal,Prevea Health,N3972 Columbia Ave,Freedom,WI,54130-7570,920-788-3329,daniel.johnson@prevea.com,prevea.com,,Demo Contact Do not call
+David,Goetz,Physician,Greenville Hospital System,9 Doctors Dr,Greenville,SC,29605,864-797-7060,dgoetz@ghs.org,ghs.org,,Demo Contact Do not call
+David,Holliday,Partner,Vision Source,1928 Harper Rd Null,Beckley,WV,25801-2612,304-252-1299,dholliday@visionsource.com,visionsource.com,,Demo Contact Do not call
+Don,Napier,Director of Engineer,Total Attorneys; Inc.,3751 Kinsley Pl,Winter Park,FL,32792-6254,312-753-6930,don@totalattorneys.com,totalattorneys.com,,Demo Contact Do not call
+Daniel,Saltman,Medical Doctor,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-845-0686,dsaltman@kphc.org,kphc.org,,Demo Contact Do not call
+Ellen,Sofio,Internal Medicine,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,esofio@kphc.org,kphc.org,,Demo Contact Do not call
+Fred,Walbrun,Owner,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,fred.walbrun@prevea.com,prevea.com,,Demo Contact Do not call
+Gary,Lewis,Business Office Director,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4751,garyl@prevea.com,prevea.com,,Demo Contact Do not call
+Glenn,Winslow,Doctor of Medicine,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,glenn.winslow@gfclinic.com,gfclinic.com,,Demo Contact Do not call
+Glenn,Rediger,Internal Medicine,Palma; Kalihi,915 N King St,Honolulu,HI,96817,808-848-1438,grediger@kphc.org,kphc.org,,Demo Contact Do not call
+Gregg,Pike,Doctor of Medicine,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,gregg.pike@gfclinic.com,gfclinic.com,,Demo Contact Do not call
+Holly,Benson,Vice President Information Technology,Lasik Vision Institute,3851 E Thomas Rd,Phoenix,AZ,85018-7534,602-267-7577,hbenson@lasikvisioninstitute.com,lasikvisioninstitute.com,,Demo Contact Do not call
+Henry,Maya,Manufacturing Supervisor,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,480-892-7602,henry.maya@paragoncrt.com,paragoncrt.com,,Demo Contact Do not call
+Holly,Andersen,Medical Doctor,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,hollyandersen@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+James,Whittle,Physician,The Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405-5240,406-454-2171,james.whittle@gfclinic.com,gfclinic.com,,Demo Contact Do not call
+James,Clemens,Ear Nose and Throat Specialist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,jamesc@prevea.com,prevea.com,,Demo Contact Do not call
+Jane,Dorsey,Eyewear Consultant,Madison Eye Care Assoc,17520 Madison Ave,Lakewood,OH,44107-3535,216-228-3343,jane@madisoneyecare.com,madisoneyecare.com,,Demo Contact Do not call
+Janelle,Klubertanz,Registered Nurse With Plastic Surgery ...,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,janellek@prevea.com,prevea.com,,Demo Contact Do not call
+Joan,Handeland,Pediatrician,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-833-9896,joanh@prevea.com,prevea.com,,Demo Contact Do not call
+Joseph,Supple,Doctor of Medicine,TLC Vision Corporation,1314 Belk Blvd,Oxford,MS,38655,662-234-6551,joseph.supple@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Judy,Fogarty,Cadence Application Coordinator,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1859,judyfo@prevea.com,prevea.com,,Demo Contact Do not call
+Julie,Kopp,Refractive Surgery Coordinator,Mann Eye Institute,2600 Via Fortuna Ste 400,Austin,TX,78746-7992,512-327-4123 x2207,julie.kopp@manneye.com,manneye.com,,Demo Contact Do not call
+Joel,Viders,Vice President,Pearle Vision,389 5th Ave Ste 900,New York,NY,10016,212-889-7410 x1,jviders@pearl.com,pearl.com,,Demo Contact Do not call
+Kent,Karren,Medical Doctor,The Eye Center,1550 Oak St,Eugene,OR,97401-7701,541-683-2020,kent@oregoneyecenter.com,oregoneyecenter.com,,Demo Contact Do not call
+Kevin,Rosteing,Physician Champion,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-431-1940 x8063,kevinr@prevea.com,prevea.com,http://www.linkedin.com/in/kevin-rosteing-88667313,Demo Contact Do not call
+Keith,Robinson,Partner,Vision Center,710 US Highway 51 Byp W,Dyersburg,TN,38024-1950,731-286-2744,krobinson@visioncenterpc.com,visioncenterpc.com,,Demo Contact Do not call
+Larry,Peek,Chief Financial Officer,Broome Optical Inc,3408 Olsen Blvd,Amarillo,TX,79109,806-355-5633,larry.peek@broomeoptical.com,paneye.com,,Demo Contact Do not call
+Laura,Warren,Medical Doctor,Gaddie Eye Centers,7635 Shelbyville Rd,La Grange,KY,40222-5409,502-423-8500,laurawarren@gaddieeye.com,gaddieeye.com,,Demo Contact Do not call
+Lori,Harris,Optician,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,lorih@prevea.com,prevea.com,,Demo Contact Do not call
+Mark,Blecher,Board Certified Ophthalmologist,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,301-571-2094,mark.blecher@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Michelle,Kenzie,Medical Doctor,Coastal Eye Assoc,3 Malphrus Rd,Bluffton,SC,29910-6635,843-837-4545,michellem@coastaleyeassociates.com,coastaleyeassociates.com,,Demo Contact Do not call
+Myron,Marlett,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1100,myron.marlett@prevea.com,prevea.com,,Demo Contact Do not call
+Patricia,Cantagallo,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,patricia.cantagallo@prevea.com,prevea.com,,Demo Contact Do not call
+Rich,Freeman,Treasurer,Bieber,8401 Golden Valley Rd Ste 330,Minneapolis,MN,55427-4687,763-416-7600,rfreeman@nweyes.com,nweyes.com,,Demo Contact Do not call
+Sarah,Mirocha,Endocrinologist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,sarahm@prevea.com,prevea.com,,Demo Contact Do not call
+Susan,Gauldin,Office Manager,Vistar Eye Center,707 S Jefferson St,Roanoke,VA,24016-5100,540-344-4000,sgauldin@vistareye.com,vistareye.com,,Demo Contact Do not call
+Sharon,Natzke,General Medical,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-405-1414,sharon.natzke@prevea.com,prevea.com,,Demo Contact Do not call
+Sue,Luebke,Occupational Therapy Assistant,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,suel@prevea.com,prevea.com,,Demo Contact Do not call
+Suzanne,Dinsmore,Physician,Childhood Health Associates,891 23rd St Ne,Salem,OR,97301,503-364-2181,suzanne@childhoodhealth.com,childhoodhealth.com,,Demo Contact Do not call
+Tanya,Gorder,Optometrist,Prevea Health,PO Box 19070,Green Bay,WI,54307-9070,920-496-4700,tanyag@prevea.com,prevea.com,,Demo Contact Do not call
+Timothy,Kennedy,Principle,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-272-1100,timothy.kennedy@prevea.com,prevea.com,,Demo Contact Do not call
+W,Jones,Partner,Spokane Eye Clinic,427s S Bernard St,Spokane,WA,99204-2509,509-456-8121,wjones@spokaneeye.com,spokaneeye.com,,Demo Contact Do not call
+Ellen,Colquhoun,Acting Director of Member Services and Communications,Optometrists,3785 North Oracle Road,Tucson,AZ,85705-3263,520-887-2793,Ellen.Colquhoun@college-optometrists.org,college-optometrists.org,http://www.linkedin.com/in/ellen-colquhoun-84107477,Demo Contact Do not call
+John,Ross,Owner,Ross Eye Care,1911 W Parker Rd,Jonesboro,AR,72404-8465,870-910-5493,john_ross@rosseyecare.com,rosseyecare.com,,Demo Contact Do not call
+Aaron,Mancuso,Owner,Century Vision Center Chartered,2461 W Horizon Ridge Pkwy #100,Henderson,NV,89052,702-636-2020,aaron.mancuso@clearvisioneyecenters.com,clearvisioneyecenters.com,,Demo Contact Do not call
+Dan,Tran,Owner,Tlc Vision Corp,3501 JAMBOREE RD STE 200,NEWPORT BEACH,CA,92660,800-852-1033,dan.tran@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+John,Swanson,Clinical Director,Tlc Vision Corp,2001 ROSEBUD DR STE A,Billings,MT,59102-6360,800-852-1033,john.swanson@tlcvision.com,tlcvision.com,,Demo Contact Do not call
+Mary Ann,Cox,Owner,Vision Source,7063 Highway 6 N,Houston,TX,77095-2505,281-859-8000,mcox@visionsource.com,visionsource.com,,Demo Contact Do not call
+Neal,Malashock,Owner,Malbar Vision Ctr,409 N 78th St,Omaha,NE,68114-3638,402-391-6600,nealm@malbar.com,malbar.com,,Demo Contact Do not call
+Claire,Price,Partner,Eye Group,3000 Rogers Ave,Fort Smith,AR,72901-4232,479-782-8892,claire@theeyegroup.com,eyegroup.com,,Demo Contact Do not call
+Donald,Hood,Ophthalmologist,Vision Insurance Plan of America; Inc,1550 S Potomac St,Aurora,CO,80012,303-369-1020,dhood@visionplans.com,visionplans.com,,Demo Contact Do not call
+Greg,Kline,Sales Executive,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,304-645-2774,greg.kline@paragoncrt.com,paragoncrt.com,,Demo Contact Do not call
+Mary,Winter,Vice President Marketing,Abba Eyecare,6110 Martinez St,Colorado Springs,CO,80913-2048,719-576-5151,mary.winter@abbaeyecare.com,abbaeyecare.com,,Demo Contact Do not call
+Mary,Pearsall,Owner,Cohen's Fashion Optical,8000 W Broward Blvd,Ft Lauderdale,FL,33388-0001,954-423-9270,marypearsall@cohensfashionoptical.com,cohensfashionoptical.com,,Demo Contact Do not call
+Norma,Santoyo,Human Resources Executive,Ferrell Eye Clinic,947 E Impala Ave,Mesa,AZ,85204-6619,304-645-2774,norma.santoyo@paragoncrt.com,paragoncrt.com,,Demo Contact Do not call
+Sara,Wines,Optician,Abba Eyecare,5136 Community Ctr Dr,U S A F Academy,CO,80840-3099,719-472-0524,sara@abbaeyecare.com,abbaeyecare.com,,Demo Contact Do not call
+Wanda,Burnett,Chief Financial Officer,Mc Donald; James - Mc Donald Eye Association Surgery,3318 N Northhills Blvd,Fayetteville,AR,72703-4008,479-521-2555,wburnett@mcdonaldeye.com,mcdonaldeye.com,,Demo Contact Do not call
+Amy,Johnson,Training Director,Spivack Vision Center,6881 S Yosemite St,Englewood,CO,80112-1406,303-393-8378,ajohnson@spivack.com,spivack.com,http://www.linkedin.com/illisonkuthy,Demo Contact Do not call
+Allan,Torstenson,Principal,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,allan.torstenson@stpaul.gov,stpaul.gov,,Demo Contact Do not call
+Barry,Eiden,Principal,North Suburban Vision Cnsltnts,360 S Waukegan Rd Ste A,Deerfield,IL,60015-5654,847-412-0311,barry@nsvc.com,nsvc.com,,Demo Contact Do not call
+Barb,Cartorell,Director,Synergy Healthcare West Bend Clinic,1700 W PARADISE DR,West Bend,WI,53095-9795,262-334-3451,bcartorell@wbclinic.com,wbclinic.com,,Demo Contact Do not call
+Brad,Britton,Manager,Tlc Vision Corp,4141 NW EXPRESSWAY STE 140,Oklahoma City,OK,73116-1675,405-842-6060,brad.britton@tlcvision.com,optistock.com,,Demo Contact Do not call
+Bruce,Beesen,Director,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,bruce.beese@stpaul.gov,stpaul.gov,,Demo Contact Do not call
+Cindy,Ashley,Manager,Coastal Eye Assoc,3 Malphrus Rd,Bluffton,SC,29910-6635,843-837-4545,cindy-ashley@coastaleyeassociates.com,coastaleyeassociates.com,,Demo Contact Do not call
+David,Braswell,President,The Eye Care Center,819 TIFFANY BLVD,Rocky Mount,NC,27804-1812,252-972-2020,dbraswell@eyecarecenter.com,eyecarecenter.com,,Demo Contact Do not call
+David,Brent,Owner,Premier Eye Care Pa,11111 Res,Austin,TX,78759,512-338-5222,dbrent@premiereye.com,premiereye.com,,Demo Contact Do not call
+David,Owen,Owner,Eyear 1 Hour Optical Inc.,5506 Brainerd Rd,Chattanooga,TN,37411-5365,423-894-2484,dowen@eyearoptical.com,eyearoptical.com,,Demo Contact Do not call
+Edith,Bowman,Principal,Colorado Vision Center,1027 W. Horsetooth Rd.,Fort Collins,CO,80526-5981,970-206-0100,edith@cdhs.state.co.us,cdhs.state.co.us,,Demo Contact Do not call
+Elda,Morrow,Director of Marketing,Community Eye Care,2359 Perimeter Pointe Pkwy,Charlotte,NC,28208-6833,704-426-6055,emorrow@communityeyecare.net,communityeyecare.net,,Demo Contact Do not call
+Frances,Clark,Training Director,Spivack Vision Center,6881 S Yosemite St,Englewood,CO,80112-1406,303-393-8378,fclark@spivack.com,spivack.com,,Demo Contact Do not call
+Gene,Durhurm,Owner,Eyear 1 Hour Optical Inc.,5506 Brainerd Rd,Chattanooga,TN,37411-5365,423-894-2561,genedurhurm@eyearoptical.com,eyearoptical.com,,Demo Contact Do not call
+Julie,Atkins,Manager,Vision Design,5919A Maple Ave,Dallas,TX,75235-6505,214-292-0456,jatkins@visiondesigninc.com,visiondesigninc.com,http://www.linkedin.com/in/julie-atkins-4623b520,Demo Contact Do not call
+John,Decarlo,Owner,Stamford Vision Care Llc,526 Newfield Ave,Stamford,CT,6905,203-327-1511,jdecarlo@stamfordvisioncare.com,stamfordvisioncare.com,,Demo Contact Do not call
+Jim,Giebel,Manager,CITY OF ST PAUL OPERATIONS,25 4TH ST W,SAINT PAUL,MN,55102-1634,,jim.giebel@stpaul.gov,stpaul.gov,,Demo Contact Do not call
+Joe,Pretorius,Manager,MIDWEST EYE CONSULTANTS PC,835 N CASS ST,Wabash,IN,46992-1613,260-569-9550,jpretorius@mwec-pc.com,mwec-pc.com,,Demo Contact Do not call
+John,Wachter,Finance Manager,Eye Associates Of Pinellas,9375 66TH ST N,Pinellas Park,FL,33782-4418,727-541-4469,jwachter@eyeassociatesofpinellas.com,eyeassociatesofpinellas.com,,Demo Contact Do not call
+Keira,West,Principal,Visualeyes,6049 HARRIS PKWY,Fort Worth,TX,76132-4103,817-294-2800,keira@visualeyeswest.com,visualeyeswest.com,,Demo Contact Do not call
+Kelly,Taylor,Manager,The Eye Care Center,315A WESTERN BLVD,Jacksonville,NC,28546-6338,910-353-1011,ktaylor@eyecarecenter.com,theeyecarecenter.com,http://www.linkedin.com/in/kelly-taylor-16a24a6a,Demo Contact Do not call
+Larry,Patterson,Systems Analyst,Eye Center of Tennessee LLC,15 IRIS LN,Crossville,TN,38555-7528,931-456-2728,larryp@ecotn.com,ecotn.com,,Demo Contact Do not call
+Mark,Gruhn,Manager,Cochise Eye & Laser PC,4116 Avenida Cochise Ste A,Sierra Vista,AZ,85635,520-452-1125,mark.gruhn@cochiseeye.com,cochiseeye.com,,Demo Contact Do not call
+Mary,Gregory,Executive,Uptown Eye Care,560 CEDAR ST,Monticello,MN,55362-8403,763-271-2020,mgregory@uptowneyecare.com,uptowneyecare.com,,Demo Contact Do not call
+Michelle,Babe,Marketing Manager,Omaha Eye Institute,11606 Nicholas St Ste 200,Omaha,NE,68154-4486,402-493-2020,michelle.babe@omahaeye.com,omahaeye.com,,Demo Contact Do not call
+Mark,Jeppesen,Principal,Wolfe Eye Clinic,2020 3RD AVE NW STE B,Waverly,IA,50677-2065,319-352-3490,mjeppesen@wolfeclinic.com,wolfeclinic.com,http://www.linkedin.com/in/mark-jeppesen-7209a7a,Demo Contact Do not call
+Melba,Kipp,Manager,Eye Center of North Florida,1400 MAIN ST,Chipley,FL,32428-6943,850-638-7333,mkipp@eyecarenow.com,eyecarenow.com,,Demo Contact Do not call
+Ruth,Arberman,Director,State University of New York,100 E 24th St,New York,NY,10010,212-780-5065,Ruth@noc.Sunysb.Edu,noc.Sunysb.Edu,,Demo Contact Do not call
+Vicky,Harmel,Principal,Dakota Eye Institute,201 7TH ST SW STE 2,Rugby,ND,58368-2100,701-776-5242,vharmel@dakotaeye.com,dakotaeye.com,,Demo Contact Do not call
+David,Cockrell,Optometrist,Cockrell Eye Care Center,1711 W 6th Ave,Stillwater,OK,74074,405-372-1715,dac@cockrelleyecare.com,cockrelleyecare.com,http://www.linkedin.com/in/david-cockrell-070a0314,Demo Contact Do not call
+Denise,Hanson,Optometrist,Fergus Falls Vision Care PA,810 N Baird Ave,Fergus Falls,MN,56537,218-736-5609,dmh@ffvision.com,ffvision.com,http://www.linkedin.com/in/denise-hanson-17b512b,Demo Contact Do not call
+Blaine,Littlefield,Optometrist,Littlefield and Broderick Optometrists; PA,82 Maine St,Brunswick,ME,4011,207-729-8474,betty@maineoptometry.com,maineoptometry.com,http://www.linkedin.com/in/betty-dubois-a2024640,Demo Contact Do not call
+Stan,McHam,President,Lenscrafters Inc,5400 Brodie Ln Ste 350,Austin,TX,78745,512-892-5500,smcham@officemax.com,officemax.com,,Demo Contact Do not call
+Howard,Hamilton,Owner,Palo Cedro Hardware,9372 Deschutes Rd,Palo Cedro,CA,96073,530-547-5451,hhamilton@farmersinsurance.com,farmersinsurance.com,,Demo Contact Do not call
+Alan,Bacho,optometrist,Optic 1,2401 Route 130 S,Cinnaminson,NJ,08077-3020,856-786-1616,eyes@optic-one.com,optic-one.com,http://www.linkedin.com/ilan-bacho-8973371a,Demo Contact Do not call
+Farzad,Yaghouti,President and Chief Executive Officer,Global Laser Vision,6950 Friars Rd Ste 110,San Diego,CA,92108-5107,619-243-2444,fymd@globallaservision.com,globallaservision.com,http://www.linkedin.com/in/farzadyaghoti,Demo Contact Do not call
+Thomas,Huffer,Medical Director of Quality,Prevea Health,2710 Executive Dr,Green Bay,WI,54304-5496,920-496-4700,thomash@prevea.com,prevea.com,,Demo Contact Do not call
+Aimie,Palaza,Patient Advocate,The Lambert Nielsen Eye Center Inc,100 Congress St Ste 100,Quincy,MA,2169,617-471-5665,apalaza@golasik.net,golasik.net,,Demo Contact Do not call
+Karl,Hormann,Owner,Karl E Hormann III,1171 Edgebrook Dr,Houston,TX,77034,713-941-1113,khormann@see-n-focus-optical.com,see-n-focus-optical.com,,Demo Contact Do not call
+Frank,Puckett,Owner Human Resources Executive,Chapel Hills Vision Clinic,595 Chapel Hills Dr # 103,Colorado Springs,CO,80920,719-599-5083,fpuckett@monumentvision.com,monumentvision.com,,Demo Contact Do not call
+Dan,Fortenbacher,Optometrist,Family Vision Associates PC,2904 Division St,Saint Joseph,MI,49085,269-983-2020,wow@wowvision.net,familyvisionassociates.com,http://www.linkedin.com/in/dan-fortenbacher-34484724,Demo Contact Do not call
+Linda,Ogura,Finance Executive,Vision Service Corporation,6614 Logan Dr,Evansville,IN,47715,812-477-6700,logura@eyemart.com,eyemart.com,,Demo Contact Do not call
+Kara,Heying,Owner Human Resources Executive,Cedar Rapids Eye Care,4207 Glass Rd Ne,Cedar Rapids,IA,52402,319-366-4455,kheying@creyecare.com,creyecare.com,,Demo Contact Do not call
+Cathy,Jolley,Owner,Lenscrafters Inc,1251 US Highway 31 N,Greenwood,IN,46142,317-888-6066,cjolley@lenscrafters.com,lenscrafters.com,http://www.linkedin.com/in/cathy-jolley-78393a23,Demo Contact Do not call
+Jo,Suzuki,Partner,Suzuki Jo Anne OD,1111 Kennedy Pl Ste 6,Davis,CA,95616,530-753-2020,jsuzuki@veridianenv.com,veridianenv.com,,Demo Contact Do not call
+P,Janda,Doctor Of Medicine,Eye Exam of CA E059,500 Southland Mall,Hayward,CA,94545,510-887-1887,pjanda@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Richard,Iosue,Chief Executive Officer,Eye Exam,1233 W Rancho Vista Blvd Ste 737,Palmdale,CA,93551,661-575-9099,riosue@lenscrafters.com,lenscrafters.com,,Demo Contact Do not call
+Jeff,Miller,Owner,Cockrell Eye Care,1711 W 6th Ave,Stillwater,OK,74074,405-372-1715,jmiller@cockrelleyecare.com,cockrelleyecare.com,,Demo Contact Do not call
+Robert,Davison,Partner,Howard I Krausz MD PHD,645 E Elder St,Fallbrook,CA,92028,760-731-9020,robert@christopherdavis.net,christopherdavis.net,,Demo Contact Do not call
+Carol,Johnson,Chief Information Officer,Bieber,1805 E Division St,Mount Vernon,WA,98274-4632,360-428-2020,cjohnson@nweyes.com,nweyes.com,,Demo Contact Do not call
+Chong,Lee,Senior Business Analyst,World Vision US,1927 S 375th St,Federal Way,WA,98003-7567,253-815-2645,clee@worldvision.org,worldvision.org,http://www.linkedin.com/in/chong-lee-a7ba3810,Demo Contact Do not call
+Darlene,Guy,Edp Network Specialist,City of St. Paul MN,350 Saint Peter St Unit 310,Saint Paul,MN,55102-1405,651-222-7817,darlene.guy@stpaul.gov,stpaul.gov,,Demo Contact Do not call
+Heidi,Johnson,Owner,Superior Eye Health Ctr,1300 W RIDGE ST,Marquette,MI,49855-3194,906-228-4401,hjohnson@superioreye.com,superioreye.com,http://www.linkedin.com/in/heidi-johnson-73272327,Demo Contact Do not call
+Bjorn,Dahlberg,Chief Executive Officer,Southern Eye Ctr,3542 Highway 1 S,Donaldsonville,LA,70346-9701,949-263-8998,b.dahlberg@hilevel.com,southerneyecenter.com,http://www.linkedin.com/in/bjorn-dahlberg-03aa296,Demo Contact Do not call
+Bill,Kenefick,Affiliate Sales Associate,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,bkenefick@totalattorneys.com,totalattorneys.com,http://www.linkedin.com/in/bill-kenefick-0824653,Demo Contact Do not call
+Joel,Newton,Information Technology Manager,Contacts Inc,111 N Wabash Ave Ste 1610,Chicago,IL,60602,312-332-1341,joel@totalattorneys.com,totalattorneys.com,http://www.linkedin.com/in/joelnewton1,Demo Contact Do not call
+Terry,Leach,Owner,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,tleach@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/dr-terry-leach-5090816,Demo Contact Do not call
+Amy,Wilson,Medical Records,TLC Vision Corporation,16305 Swingley Ridge Rd # 300,Chesterfield,MO,63017,636-534-2300,amy.wilson@tlcvision.com,tlcvision.com,http://www.linkedin.com/imy-wilson-92485ab,Demo Contact Do not call
+Louis,Chow,Owner,College Optical Express,4000 Central Florida Blvd,Orlando,FL,32816,407-823-8848,chow@mail.ucf.edu,mail.ucf.edu,http://www.linkedin.com/in/lee-chow-73190014,Demo Contact Do not call
+David,Kincaid,President,David M Kincaid OD Inc,1000 W 29th St Ste 302,South Sioux City,NE,68776,402-494-5533,dkincaid@kincaidpe.com,kincaidpe.com,http://www.linkedin.com/in/david-kincaid-aa082a50,Demo Contact Do not call
+Shirley,Pendergast,Office Manager,Northwest Eye Clinic,6060 Clearwater Dr Ste 150,Hopkins,MN,55343-9490,763-383-4110,spendergast@nweyeclinic.com,nweyeclinic.com,http://www.linkedin.com/in/shirley-pendergast-90a9471a,Demo Contact Do not call
+Bret,Libigs,Manager of Business Development,Total Attorneys; Inc.,25 E Washington St Ste 400,Chicago,IL,60602-1741,312-496-6150,bret@totalattorneys.com,infra-strategy.com,http://www.linkedin.com/in/bret-libigs-3175b916,Demo Contact Do not call
+Heath,Bullard,Medical Doctor,Cleburne Eye Clinic,110 W Henderson St,Cleburne,TX,76033,817-645-2411,heath@cleburneeyeclinic.com,cleburneeyeclinic.com,http://www.linkedin.com/in/heath-bullard-030a8942,Demo Contact Do not call
+Joel,Newton,Information Technology Manager,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,312-753-6936,joel@infra-strategy.com,totalattorneys.com,http://www.linkedin.com/in/joelnewton1,Demo Contact Do not call
+Pete,McMahon,Physical Therapy,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-496-4750 x4313,petem@prevea.com,prevea.com,http://www.linkedin.com/in/pete-mcmahon-39883b12,Demo Contact Do not call
+Susan,Schmidt,Account Manager,World Vision US,PO Box 9716 DEPT. W,Federal Way,WA,98063-9716,858-558-6890,sschmidt@worldvision.org,worldvision.org,http://www.linkedin.com/in/susaneschmidt,Demo Contact Do not call
+Albert,Lucero,Secretary,Eye Associates of New Mexico; Ltd.,8801 Hrzn Blvd Ne Ste 360,Albuquerque,NM,87113,505-246-2622,ajlucero@eyenm.com,eyenm.com,http://www.linkedin.com/ilbert-lucero-150b818,Demo Contact Do not call
+Andrew,Morgenstern,Clinical Director,TLC Vision Corporation,6701 Democracy Blvd # 200,Bethesda,MD,20817,,andrew.morgenstern@tlcvision.com,tlcvision.com,http://www.linkedin.com/indrewmorgenstern,Demo Contact Do not call
+Dean,Hazelton,Board Member,World Vision US,PO Box 26436,Colorado Springs,CO,80936-6436,253-815-2065,dhazelto@worldvision.org,worldvision.org,http://www.linkedin.com/in/dean-hazelton-6b945328,Demo Contact Do not call
+Robert,Layman,Optometrist,Pinnacle Eye Group,3723 King Rd Ste 100,Toledo,OH,43617,419-843-2020,lambertville@pinnacleeyegroup.com,pinnacleeyegroup.com,http://www.linkedin.com/in/pinnacle-eye-group-3a346a32,Demo Contact Do not call
+Lyn,Oxley,Optometrist,Optometry Associates PC,300 Durden St,Vidalia,GA,30474,912-537-4447,dr@oxley.com,oxley.com,http://www.linkedin.com/in/lyn-oxley-8b53a816,Demo Contact Do not call
+Mark,Wahlmeier,Optometrist,Vision Source of Colby,1005 S Range Ave Ste 1,Colby,KS,67701,785-462-8231,drmark@eyeclinic.com,eyeclinic.com,http://www.linkedin.com/in/mark-wahlmeier-96b02634,Demo Contact Do not call
+Douglas,Johnson,Optometrist,Family Eye Care Association; P.C.,101 W Main St,Greenville,IL,62246,618-664-0636,wecare@familyeyecareassociation.com,familyeyecareassociation.com,http://www.linkedin.com/in/doug-johnson-50550046,Demo Contact Do not call
+Connie,Winner,Clinical Research Manager,Great Falls Clinic,3000 15th Ave S,Great Falls,MT,59405,406-771-3491,connie.winner@gfclinic.com,gfclinic.com,http://www.linkedin.com/in/connie-winner-95698b8,Demo Contact Do not call
+Jeffrey,Allgeier,Optometrist,Corinne Odineal Od,3133 Prfcaional Dr Ste 14,Auburn,CA,95603,530-888-6486,dra@auburnfamilyoptometry.com,auburnfamilyoptometry.com,http://www.linkedin.com/in/jeff-allgeier-3a68b230,Demo Contact Do not call
+Elise,Brisco,Doctor,Hollywood Vision Ctr,955 CARRILLO DR STE 105,Los Angeles,CA,90048-5400,310-854-0900,drbrisco@hollywoodvision.com,hollywoodvision.com,http://www.linkedin.com/in/elise-brisco-44903715,Demo Contact Do not call
+Dean,Salisbury,Senior Director,World Vision US,11000 E 40th Ave,Denver,CO,80239-3226,720-374-0658 x7412,dsalisbu@worldvision.org,worldvision.org,http://www.linkedin.com/in/dean-salisbury-b0a00a15,Demo Contact Do not call
+Todd,Smith,Account Executive,World Vision US,210 Overlook Dr,Sewickley,PA,15143-2306,412-749-1800,tosmith@worldvision.org,worldvision.org,http://www.linkedin.com/in/todd-smith-4a79746,Demo Contact Do not call
+Eustacia,Imler,Medical Doctor,Ossip Optometry,5948 N College Ave,Indianapolis,IN,46220-2554,317-773-2300,eimler@ossip.com,ossip.com,http://www.linkedin.com/in/eustacia-imler-5b2353b,Demo Contact Do not call
+Donald,Guido,Owner,LA Verne Optometry,2248 D St,La Verne,CA,91750-5403,909-593-3519,dguido@laverneoptometry.com,laverneoptometry.com,http://www.linkedin.com/in/donald-donald-j-guido-6a957940,Demo Contact Do not call
+Glenn,Carli,Optometrist,Advanced Eyecare Center,3237 Riverside Dr Ste A,Green Bay,WI,54301,920-336-2020,drann@advancedeyecarecenter.com,advancedeyecarecenter.com,http://www.linkedin.com/inn-meier-carli-0b256218,Demo Contact Do not call
+Stan,Daskalov,Information Technology Netword Admin,Primesource Health Care Systems; Inc.,775 Waukegan Rd Ste 200,Deerfield,IL,60015,847-267-8200,sdaskalov@pshcs.com,pshcs.com,http://www.linkedin.com/in/stan-daskalov-a7a69116,Demo Contact Do not call
+Walter,Collins,Business Manager,Diane V. Wing; Inc.,5305 Glenway Ave,Cincinnati,OH,45238,513-921-8433,wcollins@wingeyecare.com,wingeyecare.com,http://www.linkedin.com/in/walt-collins-13276b44,Demo Contact Do not call
+Ivan,Ireland,Board Certified Ophthalmologist,Lasik Vision Institute,3801 S Congress Ave,Palm Springs,FL,33461-4140,561-965-0981,iireland@lasikvisioninstitute.com,lasikvisioninstitute.com,http://www.linkedin.com/in/ivan-ireland-b5135726,Demo Contact Do not call
+Maurice,Lynch,Ophthalmologist,Carter Eye Center,7502 Greenville Ave,Dallas,TX,75231-3832,214-696-2020,mlynch@cartereyecenter.com,cartereyecenter.com,http://www.linkedin.com/in/maurice-lynch-bbb3907,Demo Contact Do not call
+Tony,Pedraza,Controller,Bieber & Fillmore,10330 Meridian Ave N,Seattle,WA,98133-9451,614-486-5205,tpedraza@nweyes.com,nweyes.com,http://www.linkedin.com/in/tony-pedraza-11644b20,Demo Contact Do not call
+Vadim,Lisserman,Information Technology Professional,Total Attorneys,25 E Washington St Ste 510,Chicago,IL,60602-1732,877-349-1307,vadim@totalattorneys.com,totalattorneys.com,http://www.linkedin.com/in/vadim-lisserman-6270674,Demo Contact Do not call
+Deborah,McBride,Doctor Of Optometry,Silicon Valley Eye Care,770 Scott Blvd,Santa Clara,CA,95050,408-296-0511,jcalmere@sve.com,sve.com,http://www.linkedin.com/in/deborah-mcbride-122b6b34,Demo Contact Do not call
+Walter,Frazier,Owner,Lenscrafters Inc,2060 Southlake Mall # 250,Merrillville,IN,46410,219-736-0093,wfrazier@lenscrafters.com,lenscrafters.com,http://www.linkedin.com/in/walterfrazier,Demo Contact Do not call
+Leigh,Scott,Information Technology Manager,Prevea Health,1821 S Webster Ave,Green Bay,WI,54301-2253,920-431-1983,leighm@prevea.com,prevea.com,http://www.linkedin.com/in/leigh-messmann-80860521,Demo Contact Do not call

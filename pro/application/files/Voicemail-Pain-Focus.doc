@@ -1,0 +1,60 @@
+<html>
+<head>
+
+<style type="text/css">
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#666;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {/*padding:5px;*/}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+h1 { font-size:16px;}
+p.topTxt {font-size: 13px;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+</style>
+
+<title>Voicemail Script – Pain Focus</title>
+</head>
+<body>
+
+<div id="content">
+<h1 align="right" style="/*margin-right:100px;*/ /*opacity:0.4;*/">
+<img src="/home1/mhalper/public_html/salesscripter.com/beta/images/logo.jpg" />
+</h1><h1 align="center">Voicemail Script &#45; Pain Focus</h1>
+<br>
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+				<tr>
+					<td>
+						<p>Hello [Prospect Name], this is [Your Name] from [Your Company].</p>
+						<p>Purpose for my call is that we find that many <span class="dynamic_value edit_area" id="edit_2223_63132__users__tud">Small businesses</span> have challenges with:</p>
+						<p class="red-area">(Share up to three of below pain points)</p>
+						<ul>
+																																																						<li><span class="dynamic_value edit_area" id="edit_3316_42162__tech_pain__tpd">[technical pain 1]</span></li>																																																																																																																																																					 
+						</ul>
+						<p>I actually do not know if you all are concerned about any of those areas and that is why I was calling you with a question or two.</p>
+						<p>I will try you again next week. If you would like to reach me in the meantime, my number is [Your Number].</p>
+						<p>Again, this is [Your Name] calling from [Your Company], [Your Number].</p>
+						<p>Thank you and I look forward to talking with you soon.</p>
+					</td>
+				</tr>
+		</table>
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/blog" target="_blank">www.salesscripter.com/blog</a><br />
+						Contact us at (713) 802-2026 / info@salesscripter.com<br />
+						Copyright 2012 SalesScripter, LLC  All Rights Reserved	
+</div>  
+      
+</div>
+
+
+</body>
+</html>
+  

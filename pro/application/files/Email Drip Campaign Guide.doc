@@ -1,0 +1,1090 @@
+<html>
+<head>
+
+<style type="text/css">
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#666;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {/*padding:5px;*/}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+h1 { font-size:16px;}
+p.topTxt {font-size: 13px;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+</style>
+
+<title>Email Drip Campaign Guide</title>
+</head>
+<body>
+<div id="content">
+    <h1 align="right" style="/*margin-right:100px;*/ /*opacity:0.4;*/">
+<img src="/home1/mhalper/public_html/salesscripter.com/version2/images/logo.jpg" />
+</h1>    <h1 align="center">Email Drip Campaign Guide</h1>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Audience Segmentation Key</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th style="padding: 5px 0px !important; background: #A0A0A0; ">Segment</th>
+            <th style="padding: 5px 0px !important; background: #A0A0A0; ">Definition</th>
+		  </tr>
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          New Prospects
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Targeted prospects that are being pursued but have not actively engaged, don't know who you are(suspects)
+                      </td>
+                  </tr>
+                  
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Hot Prospects
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Actively engaged with discussions and meetings
+                      </td>
+                  </tr>
+                  
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Warm Prospects
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Know who you are, want more information, on the fence, won't commit to forward movement
+                      </td>
+                  </tr>
+                  
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Cold Prospects
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Not going to purchase in near future
+                      </td>
+                  </tr>
+                  
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Closed Prospects
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Have communicated a firm no and zero interest - no potential to ever buy
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Current Clients
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Currently purchasing products and services
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Past Clients
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Have purchased products or services in the past
+                      </td>
+                  </tr>
+                  <tr>
+                      <td style="background: #DFDDD7;padding: 5px 20px !important;">
+                          Referral Partners
+                      </td>
+                      <td style="padding: 5px 20px !important;">
+                          Partners that refer business
+                      </td>
+                  </tr>
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Tier 1 - Lead Generation</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th  style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Audience Segment</th>
+                    <td style="padding: 5px 5px !important;">New Prospects </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Goal</th>
+                    <td style="padding: 5px 5px !important;">To generate leads </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Content Focus</th>
+                    <td style="padding: 5px 5px !important;">Prospect focused </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Number of Emails</th>
+                    <td style="padding: 5px 5px !important;">3 to 6 </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Frequency</th>
+                    <td style="padding: 5px 5px !important;">Daily, Bi-daily, or weekly </td>
+		  </tr>
+                  
+                  <tr>
+                      <th colspan="2" style="background: #CCCCCC;padding: 1px 5px !important; text-align: center;border-bottom: 1px solid;">Potential Campaign Content Topics</th>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Value Points</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table border="1" width="100%" cellspacing="1" cellpadding="1" class="matrix">
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;"><i>Content that shares the value that you have to offer</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+
+                                      <th style="width:33%;">Technical Value</th>
+
+                                      <th style="width:33%;">Business Value</th>
+
+                                      <th style="width:33%;">Personal Value</th>
+
+                                    </tr>
+
+                                     
+                        </table>
+                        
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Pain Points</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                                    <tr>
+                                        <td colspan="2" style="text-align: left;"><i>Content that outlines the pain that your prospects often experience and that you help to resolve</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                                    
+                                    
+                                <tr>
+
+                                        <td width="100%">
+
+                                         <br><br>
+
+                                        <strong>Technical</strong>
+
+                                      <ul>
+
+                                                 
+
+                                      </ul>
+
+                                      <br>
+
+                                      <strong>Business</strong>
+
+                                      <ul>
+
+                                                 
+
+                                      </ul>
+
+                                      <br>
+
+                                                <strong>Personal</strong>
+
+                                              <ul>
+
+                                                         
+
+                                              </ul>
+
+                                            <br><br> 
+
+                                        </td>
+
+                                </tr>
+
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Qualify Questions</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                                    <tr>
+                                        <td colspan="2" style="text-align: left;"><i>Content based on the qualifying questions that you should be asking</i></td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td>These are the qualifying questions.
+
+                                                    <br><br>
+
+                                                    <strong>Technical Questions:</strong>
+
+                                            <ul>
+
+                                          
+
+                                                                                            </ul>
+
+                                                                                            <br>
+
+
+
+                                                    <strong>Business Questions:</strong>
+
+
+
+                                                                    <ul>
+
+                                                                                                     
+
+                                                                                            </ul>
+
+                                                                                            <br>
+
+                                                    <strong>Personal Questions:</strong>
+
+
+
+                                                                    <ul>
+
+                                                                                                     
+
+                                                                                            </ul><br>
+
+                                                                            </td>
+                                    </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Tier 2 - Building Interest</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th  style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Audience Segment</th>
+                    <td style="padding: 5px 5px !important;">Warm Prospects</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Goal</th>
+                    <td style="padding: 5px 5px !important;">To educate, to build interest, and stay in touch</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Content Focus</th>
+                    <td style="padding: 5px 5px !important;">The product and company </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Number of Emails</th>
+                    <td style="padding: 5px 5px !important;">5 to 10 </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Frequency</th>
+                    <td style="padding: 5px 5px !important;">Daily, Bi-daily, or weekly</td>
+		  </tr>
+                  
+                  <tr>
+                      <th colspan="2" style="background: #CCCCCC;padding: 1px 5px !important; text-align: center;border-bottom: 1px solid;">Potential Campaign Content Topics</th>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">FAQs</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content based on frequently asked questions and responses to those</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Objection Responses</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                           <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content based on common objections and responses to those</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            
+                            <tr>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" width="100%" class="tDefault" id="objection_1">
+
+                        
+
+                                        <tbody>
+
+                                         
+                                        </tbody>
+
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" width="100%" class="tDefault" id="objection_2">
+
+                        
+
+                                        <tbody>
+
+                                        
+                                        </tbody>
+
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Credibility</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content based on a name drop, case study, customer success story, etc.</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>   
+                            
+                                        
+                                                        
+                                        <tr>
+
+                                                        <td><strong></strong></td>
+
+                                                </tr>
+
+                                                
+
+                                                <tr>
+
+                                                        <td>
+
+                                                                <p>We worked with <span class="dynamic_value edit_area" id="edit_1_1__customer__tcd">Chevron Credit Union</span> and provided <span class="dynamic_value edit_area" id="edit_1_2__worked__tcd">mortgage loan and origination software interfaces</span>.</p>
+
+                                                <p>This helped them to (with) <span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span> which lead to <span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.</p>
+
+                                                                <br>
+
+                                                        </td>
+
+                                        </tr>
+
+
+
+                                
+                        		
+
+
+
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Differentiation</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content that explains how you differ from your competition</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                            <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+
+                                        <ul>
+                                                <li>Some ways that we differ from other options out there are <span class="" id="edit_2762___interestB1__tud"></span>, <span class="" id="edit_2762___interestB1__tud"></span>, and <span class="" id="edit_2762___interestB1__tud"></span>
+
+                                                </li>
+                                            </ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">ROI Details</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content that outlines the ROI that you typically deliver</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                                    <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+
+                                            <ul>
+
+                                                   
+                                                            
+                                                            
+                                                                    <li>We have helped <span class="dynamic_value edit_area" id="edit_vs__values"></span> to (with) 
+
+                                                                    <span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span> and that led to <span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.</li>
+
+                                                            
+                                              
+
+
+                                            </ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Threats of Doing Nothing</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content that paints a picture of the impact of not purchasing something</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                                    <td></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+
+                                            <ul><li>Some things to be concerned with when not doing anything in this area are <span class="" id="edit_2762___interestB2__tud"></span>, <span class="" id="edit_2762___interestB2__tud"></span>, and <span class="" id="edit_2762___interestB2__tud"></span>
+
+                                            
+
+                                            </li></ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Company Facts</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;"><i>Content based on company facts and bragging points</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                                    <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+                                            <ul>
+
+                                                    <li>Other key details about us are that we <span class="" id="edit_2762___interest__tud"></span>, <span class="" id="edit_2762___interest__tud"></span>, and <span class="" id="edit_2762___interest__tud"></span>.</li>
+
+                                            </ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Tier 3 - Cross-selling for product #2</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th  style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Audience Segment</th>
+                    <td style="padding: 5px 5px !important;">Current Clients</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Goal</th>
+                    <td style="padding: 5px 5px !important;">To cross-sell new products to existing and old clients</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Content Focus</th>
+                    <td style="padding: 5px 5px !important;">New products that the client is not currently purchasing </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Number of Emails</th>
+                    <td style="padding: 5px 5px !important;">1 to 3 </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Frequency</th>
+                    <td style="padding: 5px 5px !important;">Daily, Bi-daily, or weekly</td>
+		  </tr>
+                  
+            <tr>
+                      <td colspan="2" style="background: #CCCCCC;padding: 1px 5px !important; text-align: center;border-bottom: 1px solid;">
+					     <strong>Potential Campaign Content Topics</strong>
+					  </td>
+		  </tr>
+                  
+           <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">FAQs for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Objection Responses for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Credibility for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Differentiation for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed. </td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">ROI Details for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Threats of Doing Nothing for Product #2</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr>
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Tier 4 - Newsletter, keeping in touch</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th  style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Audience Segment</th>
+                    <td style="padding: 5px 5px !important;">New Prospects, Hot Prospects, Warm Prospects, Cold Prospects, Current Clients, Past Clients, Referral Partners (all except closed)</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Goal</th>
+                    <td style="padding: 5px 5px !important;">To stay in touch and fresh in the recipient's mind</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Content Focus</th>
+                    <td style="padding: 5px 5px !important;">Informational</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Number of Emails</th>
+                    <td style="padding: 5px 5px !important;">6 to 12 </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Frequency</th>
+                    <td style="padding: 5px 5px !important;">Monthly, bi-monthly, quarterly </td>
+		  </tr>
+                  
+                  <tr>
+                      <th colspan="2" style="background: #CCCCCC;padding: 1px 5px !important; text-align: center;border-bottom: 1px solid;">Potential Campaign Content Topics</th>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Industry News</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                     
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Best Practices/Tips</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                    
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Company News</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                    
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Promotional</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                     
+                    </td>
+		  </tr>
+                  
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+        <tr>
+            <td class="border">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                <strong>Tier 5 - We want you back</strong>
+                </p>
+                <table border="1" width="100%" cellspacing="1" cellpadding="1">
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Audience Segment</th>
+                    <td style="padding: 5px 5px !important;">Past clients</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Goal</th>
+                    <td style="padding: 5px 5px !important;">To get client to come back, to educate, to build interest</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Content Focus</th>
+                    <td style="padding: 5px 5px !important;">Reasons to come back - incentives, product, company</td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Number of Emails</th>
+                    <td style="padding: 5px 5px !important;">5 to 10 </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Frequency</th>
+                    <td style="padding: 5px 5px !important;">Daily, Bi-daily, or weekly </td>
+		  </tr>
+                  
+                  <tr>
+                      <th colspan="2" style="background: #CCCCCC;padding: 1px 5px !important; text-align: center;border-bottom: 1px solid;">Potential Campaign Content Topics</th>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Come back incentives</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                    
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">FAQs</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                    
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Objection Responses</th>
+                    <td style="padding: 5px 5px !important;">                        
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;">To be developed.</td>
+                            </tr>                        
+                        </table>                    
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Credibility</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;"><i>Content based on a name drop, case study, customer success story, etc.</i></td>
+                            </tr> 
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            
+                                        
+                                                        
+                                        <tr>
+
+                                                        <td><strong></strong></td>
+
+                                                </tr>
+
+                                                
+
+                                                <tr>
+
+                                                        <td>
+
+                                                                <p>We worked with <span class="dynamic_value edit_area" id="edit_1_1__customer__tcd">Chevron Credit Union</span> and provided <span class="dynamic_value edit_area" id="edit_1_2__worked__tcd">mortgage loan and origination software interfaces</span>.</p>
+
+                                                <p>This helped them to (with) <span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span> which lead to <span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.</p>
+
+                                                                <br>
+
+                                                        </td>
+
+                                        </tr>
+
+
+
+                                
+                        		
+
+
+
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Differentiation</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;"><i>Content that explains how you differ from your competition</i></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr> 
+                            <tr>
+
+                            <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                           
+
+                                            <ul><li>Some ways that we differ from other options out there are <span class="" id="edit_2762___interestB1__tud"></span>, <span class="" id="edit_2762___interestB1__tud"></span>, and <span class="" id="edit_2762___interestB1__tud"></span>
+
+                                            </li></ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">ROI Details</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;"><i>Content that outlines the ROI that you typically deliver</i></td>
+                            </tr> 
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                                    <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+
+                                            <ul>
+
+                                                   
+                                                            
+                                                            
+                                                                    <li>We have helped <span class="dynamic_value edit_area" id="edit_vs__values"></span> to (with) 
+
+                                                                    <span class="dynamic_value edit_area" id="edit_1_3__provided__tcd">improve how their systems ran </span> and that led to <span class="dynamic_value edit_area" id="edit_1_4__when__tcd">improvements in the way that they serviced loans.</span>.</li>
+
+                                                            
+                                              
+
+
+                                            </ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Threats of Doing Nothing</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;"><i>Content that paints a picture of the impact of not purchasing something</i></td>
+                            </tr> 
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr>
+                            <tr>
+
+                                    <td></td>
+
+                            </tr>
+                            <tr>
+                                    <td>
+
+                                            
+
+                                            <ul><li>Some things to be concerned with when not doing anything in this area are <span class="" id="edit_2762___interestB2__tud"></span>, <span class="" id="edit_2762___interestB2__tud"></span>, and <span class="" id="edit_2762___interestB2__tud"></span>
+
+                                            </li></ul>
+
+                                            
+                                    </td>
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                  
+                  <tr>
+		    <th style="width: 20%;padding: 5px 5px !important; background: #DFDDD7; text-align: left;">Company Facts</th>
+                    <td style="padding: 5px 5px !important;">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+                            <tr> 
+                                <td colspan="2" style="text-align: left;"><i>Content based on company facts and bragging points</i></td>
+                            </tr> 
+                                    <tr>
+                                        <td colspan="3" style="text-align: left;border-top: 1px solid;">&nbsp;</td>
+                                    </tr> 
+                            <tr>
+
+                                    <td><strong></strong></td>
+
+                            </tr>
+
+                            
+
+                            <tr>
+
+                                    <td>
+
+                                            
+
+                                            <ul>
+
+                                                    <li>Other key details about us are that we <span class="" id="edit_2762___interest__tud"></span>, <span class="" id="edit_2762___interest__tud"></span>, and <span class="" id="edit_2762___interest__tud"></span>.</li>
+
+                                            </ul>
+
+                                            <br>
+
+                                    </td>
+
+                            </tr>
+                        </table>
+                    </td>
+		  </tr>
+                </table>
+                <br/><br/>
+            </td>
+        </tr>
+    </table>
+</div>
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Helpful information can be found at <a href="www.salesscripter.com/blog" target="_blank">www.salesscripter.com/blog</a><br />
+						Contact us at (713) 802-2026 / info@salesscripter.com<br />
+						Copyright 2012 SalesScripter, LLC  All Rights Reserved	
+</div>  
+      
+</div>
+
+
+</body>
+</html>
+ 

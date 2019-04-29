@@ -1,0 +1,231 @@
+<html>
+<head>
+<link rel="shortcut icon" href="http://salesscripter.com/wp-content/themes/Avada/images/favicon.ico" />
+<link href="https://salesscripter.com/launch/css/jeditable_style.css" rel="stylesheet" type="text/css" />
+<style>
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}
+ul {margin-bottom:0;}
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+h1 {font-size:16px;}
+p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}
+span.red, span.red-area, .red-area {color:red;}
+</style><title>Call Script &#45; Personal Focus</title>
+</head>
+<body>
+<div id="content" class="questions">
+		<div class="main_content_sf" id="main_content_sf">
+				<h1 align="center">Call Script &#45; Personal Focus</h1>
+	<p class="topTxt"  >
+		Golf Tournament Sponsorship  for 
+		vp	</p>
+    	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+		<tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+		<tr style="border-bottom:1px solid #000;">
+			<td style="width:15%;"><strong>Objective:</strong></td>
+			<td style="width:5%">&nbsp;</td> 
+			<td style="width:80%;">Option A: <span class="dynamic_value edit_area" id="ccd_6280_1047 ">brief 5 to 10 minute conversation</span> 
+			<br/> Option B:  <span class="dynamic_value edit_area" id="ccd__1047">get email address and send email with information</span></td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+			  
+		<tr>
+			<td class="td-pad-b"><strong>Introduction to Gatekeeper</strong><br></td>
+			<td>&nbsp;</td>
+			<td>Hello, I am trying to connect with  <span class="">vp</span>. Can you point me in the right direction?</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td class="td-pad-b"><strong>Introduction to Target Contact</strong></td>
+			<td>&nbsp;</td>
+			<td>Hello  <span class="red-area">[Contact's Name]</span>, this is  <span>[Your name]</span> from  My Company (sample) , have I caught you in the middle of anything?<br>
+				
+				<p><span class="red-area">(If not available respond with below)</span></p>
+				
+				<p>Oh, I understand. I can be very brief or I can call you back at another time, which do you prefer?</p>
+				<span class="red-area"> -or- </span>
+				<p>Oh, I understand. When would be the best time for me to call you back?</p>
+				<br/>
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Value Statement</strong></td>
+			<td>&nbsp;</td>
+			<td>Great. The Purpose of my call is that &#45; <span class="red-area">(Choose one of below)</span>
+				<ul>
+					
+												
+																		<li>
+											We help 
+											<span class="dynamic_value edit_area_old" id="">vp</span> to 
+										<span class="dynamic_value edit_area" id="pvd_6415_1047">relieve some stress playing on one of the nicest golf course in Houston</span></li>
+															
+												
+					<li>We help  
+						
+						<span class="dynamic_value edit_area_old" id="">vp</span> to  
+						<span class="dynamic_value edit_area" id="ccd_feel good about giving back to the community and helping one of the best programs at UH_1047">feel good about giving back to the community and helping one of the best programs at UH</span>.
+					</li>
+					
+				</ul>
+			<br />
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Disqualify Statement</strong></td>
+			<td>&nbsp;</td>
+			<td class="td-pad-b">I actually don't know if you need what our services provide so I just had a question or two. 
+			
+				<p> <span class="red-area">-or- </span> </p>
+
+				<p> I actually don't know if you are a good fit for what we provide so I just had a question or two.</p>
+
+				<p><span class="red-area"> -or- </span> </p>
+
+				<p>I don't know if you are the right person to speak with but I have just a couple of questions.</p>
+					
+				<span class="red-area">(pause or ask for agreement or availability)</span>  If you have a couple of minutes?
+				<br>
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Pre-Qualifying Questions</strong></td>
+			<td>&nbsp;</td>
+			<td>
+				<p>Great, if I could ask you real quick:</p>
+				<p><span class="red-area">(Ask 3 to 5 of the questions below)</span></p>
+				
+					<strong>Personal Questions:</strong>
+													<ul>
+																		<li><span class="dynamic_value edit_area" id="pqd_6411_1047">Does an opportunity to break away from work and play a round of golf on one of the nicest courses in Houston sound interesting to you?</span></li>
+															</ul>
+											<br/>
+					<p><span class="red-area">(If you get an answer that justifies moving on to brief 5 to 10 minute conversation, skip ahead to closing for a brief 5 to 10 minute conversation)</span></p>
+
+					<p><span class="red-area">(If you do not, move to next section) </span></p>
+					<br/>
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Examples of Common Problems</strong></td>
+			<td>&nbsp;</td>
+			<td>Oh, OK. Well, as we talk with other <span class="dynamic_value ">vp</span>, we have noticed that they often express challenges with <span class="red-area">(or concerns around)</span> :<br/>
+					<p><span class="red-area">(Share any of the below pain examples)</span></p>
+						<strong>Personal Pain:</strong>
+													<ul>
+																	<li><span class="dynamic_value edit_area" id="ppd_6392_1047">working too much and could use a golf outing</span></li>
+															</ul>
+												<p>Can you relate to any of those?</p>
+						<p><span class="red-area">-or-</span></p>
+						<p>Which one of those are you most concerned with?</p>
+						<p><span class="red-area">(If you get an answer that justifies moving on to brief 5 to 10 minute conversation, skip ahead to closing for a brief 5 to 10 minute conversation)</span></p>
+						<p><span class="red-area">	(If you do not, move to next section)</span></p>	
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Information About Us</strong></td>
+			<td>&nbsp;</td>
+			<td>Well, based on what you shared, it might productive for us to talk in more detail.  The reason why is<br/><span class="red-area">(Share any of the below as appropriate as you try to trigger interest)</span><br><br>
+				<strong>Product Details:</strong>
+				<ul>
+					<li>As I said, I am with <span>My Company (sample)</span> and we provide Golf Tournament Sponsorship</li>
+					
+					<li>Our <span class="dynamic_value edit_area_old" id="">Golf Tournament Sponsorship</span>  provides the opportunity to sponsor all different elements of the PES golf tournment</li>
+				</ul>
+				<br/>
+				<strong>Connect Pain with Value:</strong>
+					<ul>
+						<li>We help vp to deal with looking for new ways to promote their business by helping to
+							promote their businessand this can typically lead to get exposure to new customers						</li>
+					</ul>
+				<br />
+				<strong>ROI Statements:</strong>
+					<ul>
+					
+						<li>We have helped  
+							<span class="dynamic_value edit_area_old" id="">
+								vp							</span> to reducing the amount of time it took to train new sales people and that led to <span class="dynamic_value edit_area" id="">an improvement in sales and decrease in sales staff turnover</span>.</li>
+							
+					</ul>
+				<br />
+				<strong>Differentiation:</strong>
+					<ul>
+						<li>Some ways that we differ from other options out there are <span class="dynamic_value edit_area_old" id="">NA</span>, <span class="dynamic_value edit_area_old" id="">NA</span>, and <span class="dynamic_value edit_area" id="">NA</span></li>
+					</ul>
+				<br />
+				<strong>Name Drop: </strong>
+				<ul>
+				  <li> We worked with XYZ Corp. (sample) and provided Scripter Pro. </li> 
+				  <li> This helped them to reducing the amount of time it took to train new sales people, which led to an improvement in sales and decrease in sales staff turnover. </li>
+				</ul>
+				<br />
+				<strong>Threats of Doing Nothing:</strong>
+				<p>Some things to be concerned with when not doing anything in this area are: </p>
+				<ul>
+																						<li><span class="dynamic_value edit_area" id="tpnd_3672_1047">looking for new ways to promote their business</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_3673_1047">looking for a good way to give back to the community</span></li>
+																		
+																						<li><span class="dynamic_value edit_area" id="bpd_6241_1047">getting exposure to new customers</span></li>
+																	<li><span class="dynamic_value edit_area" id="bpd_6242_1047">getting involved in networking activities that can lead to new revenue</span></li>
+																		
+																				<li><span class="dynamic_value edit_area" id="ppd_6392_1047">working too much and could use a golf outing</span></li>
+																</ul>
+				<br />
+				<strong>Company Facts:</strong>
+					
+										
+					<ul>
+						<li>We have been in business for  [years in business].</li>
+						<li>We operate in [areas operate in].</li>
+						<li>We have won awards for [awards won].</li>
+						<li>Other key details about us are that we [company fact 1] , [company fact 2] and [company fact 3].</li>
+					</ul>
+				<br>
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+		<tr>
+			<td><strong>Close</strong></td>
+			<td>&nbsp;</td>
+			<td class="td-pad-b">
+				But, since I have called you out of the blue, I do not want to take any more of your time to talk right now.<br/>
+				
+				<br/>
+				<strong>Trial Close: </strong>
+				<ul>
+					<li> What do you think about what we have discussed so far? </li>
+					<li> Is this something that you are interested in discussing in more detail? </li>
+				</ul>
+				<br/>
+				<strong>Soft Close:</strong>
+				<ul>
+					<li> A great next step would be for us to schedule a/an <span class="dynamic_value edit_area_old" id="">brief 5 to 10 minute conversation</span> where we can <span class="dynamic_value edit_area_old" id="">quickly update you on some of the great things going on at the business school at UH and share with you some of the details about the upcoming golf tournament for the Program for Excellence in Selling</span>.</li>
+					<li> Is that something that you would like to put on the calendar? </li>
+				</ul>
+				<br/>
+				<strong>Hard Close:</strong>
+				<ul>
+					<li> How does your calendar look next Tuesday or Thursday morning for us to schedule a/an <span class="dynamic_value edit_area_old" id="">brief 5 to 10 minute conversation</span> where <span class="dynamic_value edit_area_old" id="">quickly update you on some of the great things going on at the business school at UH and share with you some of the details about the upcoming golf tournament for the Program for Excellence in Selling</span>.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr><td colspan="3" class="border">&nbsp;</td></tr>
+	</table>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">
+	Helpful information can be found at <a href="http://www.salesscripter.com/library" target="_blank">www.salesscripter.com/library</a><br />
+	Contact us at (713) 802-2026 / info@salesscripter.com<br />
+	Copyright 2012-2015 SalesScripter, LLC  All Rights Reserved
+</div>
+</div>
+</div>
+</body>
+</html>

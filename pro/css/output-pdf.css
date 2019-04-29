@@ -1,0 +1,17 @@
+/*table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; vertical-align: baseline; }*/
+
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;line-height: 1.85px;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+#content, table.output {font-size:13px;font-weight: normal !important;}
+table.output tr th {font-weight: bold;font-size:13px;}
+table.output tr td span {padding:5px;}
+table.output tr td.border {border-top:1px solid #000;}
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+h1 { font-size:16px;}
+p.topTxt {font-size: 13px;}
+
+span.red, span.red-area {color:red;}
+
+#content, table.output {/*line-height: 18px;*/}

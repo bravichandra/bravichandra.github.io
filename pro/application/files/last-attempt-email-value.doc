@@ -1,0 +1,82 @@
+<html><head><style type="text/css">body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}ul {margin-bottom:0;}#content {margin:0 auto;width:990px;overflow:hidden;}#content, table.output, table.output table {font-size:13px;font-weight: normal !important;line-height: 1.85px;}table.output tr th {font-weight: bold;font-size:13px;}table.output tr td span {}table.output tr td.border {border-top:1px solid #000;}table.output tr td.border-bottom {border-bottom:1px solid #000;}h1 { font-size:16px;}p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}span.red, span.red-area, .red-area {color:red;}.qfsublist{display:none;}</style>	<style type="text/css">body, #content, table.output, table.output table {line-height: 18px;}</style>
+<title>Last Attempt Email - Value</title>
+
+</head>
+
+<body>
+
+<div id="content">
+
+	
+
+	
+	
+	<h1 align="center">Last Attempt Email - Value</h1>
+
+	<p class="topTxt"  >
+
+		web design services  for 
+
+		businesses
+	</p>
+
+    
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+
+		<tr><td class="border">&nbsp;</td></tr>
+				<tr><td><a href="https://salesscripter.com/pro/crm/compose/t111" title="Send this Email" style="margin-bottom: 8px;width: 40px;" class="buttonM bBlue">Send</a></td></tr>
+				<tr>
+
+			<td>
+
+		        <p><strong>Subject line:</strong> Checking In </p>
+		        <p>Hello <span class="dynamic_value">[Prospect First Name]</span>,</p>
+				
+				<p>Hope all is well. I never heard back from you and sometimes "no response" is indeed a response, but I thought I would follow up with you one last time.</p>
+		        
+				<p>The reason I am trying to connect with you is that we help 
+		        
+					businesses					with some of the below areas.</p>
+		        
+				<ul>
+												<li>
+								Improve the design, traffic, and conversion rates for their website							</li>
+													<li>
+								Clearly communicate what they have to offer through their website							</li>
+													<li>
+								Improve the user experience on their website							</li>
+													<li>
+								Improve website conversion rates							</li>
+													<li>
+								Increase website traffic							</li>
+													<li>
+								Improve search engine optimization (SEO)							</li>
+													<li>
+								Increase their ability to get exposure and traffic from prospects online							</li>
+													<li>
+								Generate more leads through their website							</li>
+													<li>
+								Increase the amount of revenue that they are able to generate through their website							</li>
+										</ul>
+				
+		        <p>If I don't hear back from you, I will assume that you are the not right person to speak with or that those are improvements that you are not interested and I will close the file. </p>
+		        <p>No problem if that is the direction you prefer.</p>
+				<br><br>
+        <p>Best Regards,</p>
+		        <p><span>Rory Browne</span><br /><span>Strawberry Studios</span> <br /><span><a href="mailto:recruitment@strawberry-studios.co.uk">recruitment@strawberry-studios.co.uk</a></span> <br /></p>		        <br>
+
+			</td>
+
+		</tr>
+
+		
+
+	</table>
+
+</div>	
+
+<br><br><br>
+<div align="center" style="margin-top:15px; font-size:12px; clear:both;">Copyright 2012-2018 SalesScripter, LLC  All Rights Reserved</div> 
+</div>
+</body>
+</html> 

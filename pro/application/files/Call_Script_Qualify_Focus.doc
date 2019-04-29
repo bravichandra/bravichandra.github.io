@@ -1,0 +1,236 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+<style>
+
+body {font-size:13px;font-family: Arial, Helvetica, sans-serif;color:#000;}
+
+ul {margin-bottom:0;}
+
+#content {margin:0 auto;width:990px;overflow:hidden;}
+
+#content, table.output, table.output table {font-size:16px;font-weight: normal !important;line-height: 1.85px;}
+
+table.output tr th {font-weight: bold;font-size:13px;}
+
+table.output tr td span {}
+
+table.output tr td.border {border-top:1px solid #000;}
+
+table.output tr td.border-bottom {border-bottom:1px solid #000;}
+
+.questions .output td.border-bottom {border-bottom: none !important;height: 20px;border-top: 1px solid #000;}
+
+
+
+h1 {font-size:16px;}
+
+p.topTxt {font-size: 13px; text-align: center; font-weight:bold;}
+
+span.red, span.red-area, .red-area {color:red;}
+
+#content.questions li{line-height: 30px;}
+#content.questions .isbox li{line-height: 23px;}
+#content.questions .introduction div{line-height: 20px;}
+#content.questions .introduction div h4{margin:10px 0px;}
+#content.questions p{line-height: 30px;}
+
+
+.qfsublist{display:none;}
+
+
+
+</style><title>Call Script - Value Intro</title>
+</head>
+<body>
+<div id="content" class="questions">
+	
+		    <div class="main_content_sf" id="main_content_sf">
+			
+	<h1 align="center">Call Script - Value Intro</h1>
+	<p class="topTxt">
+		IT Outsourcing  for 
+		businesses	</p>
+    	<table width="100%" border="0" cellspacing="0" cellpadding="0" class="output">
+		<tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+		        <tr>
+			<td class="td-pad-b"><strong>Introduction</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<h3 class="sub-dev-head-sub2">Gatekeeper:</h3>
+            	<p>
+                    <b>If you have the contact's name:</b><br />
+                    Hello, I am trying to connect with <span class="red-area">[Target Prospect]</span>.
+                </p>
+                <p>
+                    <b>If you have the contact's title:</b><br />
+                    Hello, I am trying to connect with the <span class="red-area">[Target Title]</span>.
+                </p>
+                <p>
+                    <b>If you don't have the name or title:</b><br />
+                    Hello, I am trying to connect with the person responsible for <span class="red-area">[Target Area]</span>. Can you point me in the right direction?
+                </p>
+                <h3 class="sub-dev-head-sub2">Prospect:</h3>
+                <p>Hello  <span class="red-area">[Contact's Name]</span>, this is  <span>Allan Bagelman</span> from  <span>Total Support Solutions</span>, have I caught you in the middle of anything?</p><br />			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Value Statement</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<h3></h3>Great. The purpose of my call is that we help  
+						<span class="dynamic_value edit_area_old" id="">businesses</span> to:
+				<ul style="padding-top: 10px;">
+                						<li> 
+						<span class="dynamic_value edit_area" id="ccd__9703">ensure uptime and resolve issues quickly with the assurance of 24/7 support</span>
+					</li>
+                    					<li> 
+						<span class="dynamic_value edit_area" id="ccd__9703">increase their focus on their core business, and reduce costs</span>
+					</li>
+                    					<li> 
+						<span class="dynamic_value edit_area" id="ccd__9703">reduce costs from purchasing off the shelf products and addresses key business needs</span>
+					</li>
+                    					<li> 
+						<span class="dynamic_value edit_area" id="ccd__9703">improve the reliability of business services, increasing ROI, decreasing risk and improving productivity</span>
+					</li>
+                    				  </ul>
+                <p><strong>(Optional) Disqualify Statement</strong></p>
+                <span class="red-area">(Choose one of the following)</span>
+                <ul style="padding-top: 10px;">
+                	<li>I actually don't know if you need what our services provide so I just had a question or two</li>
+                    <li>I actually don't know if you are a good fit for what we provide so I just had a question or two</li>
+                    <li>I don't know if you are the right person to speak with but I have just a couple of questions</li>
+                </ul><br/>
+                <span class="red-area">(pause or ask for agreement or availability)</span>  If you have a couple of minutes?
+				<br><br/>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Pre-Qualifying Questions</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<p>If I could ask you real quick:</p>
+				                    			<ul class="q-resp">
+														<li><span class="dynamic_value edit_area" id="tqd_42544_9703">Do you find your organization needing additional IT resources?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42545_9703">Do you currently have after hours IT support?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42546_9703">Are your business demands greater than the IT support resources that are in place?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42547_9703">Is there an initiative to decrease IT spend and costs? (if yes) Is it across IT or is it in the infrastructure or development area?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42548_9703">Do you have the in-house IT expertise that you need to support the business demands?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42549_9703">Are you currently outsourcing any or of your IT support or are you doing everything in-house?</span>
+										</li>
+														<li><span class="dynamic_value edit_area" id="tqd_42550_9703">Are you the person that makes decisions regarding IT support and management?</span>
+										</li>
+							</ul>
+													<br/>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Examples of Common Problems</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            		<p>Oh, OK. Well, as we talk with other <span class="dynamic_value ">businesses</span>, we have noticed that they often express challenges with <span class="red-area">(or concerns around)</span> :</p>    
+                <ul>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_36608_9703">Not performing proactive monitoring</span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_36609_9703">Don't have the needed technical resources </span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_36610_9703">Do not have after hours support or monitoring, systems upgrades, and production changes </span></li>
+                                    <li><span class="dynamic_value edit_area" id="tpnd_36611_9703">Experiencing frequent production incidents </span></li>
+                            </ul>
+         
+    <p>Are any of those areas that you are concerned about?</p><br />  
+			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Company and Product Info</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	<p>It might productive for us to talk in more detail.  The reason why is<br/><span class="red-area">(Share any of the below as appropriate as you try to trigger interest)</span></p>				<strong>Product Details:</strong>
+				<ul>
+					<li>As I said, I am with <span>Total Support Solutions</span> and we provide IT Outsourcing</li>
+					
+					<l	i>Our <span class="dynamic_value edit_area_old" id="">IT Outsourcing</span>  [Product Description]</li>
+				</ul>
+				<br/>
+                <strong>Benefits:</strong>
+                                <p>Our Database Migration & Integration Services can help you to:</p>
+                                <ul>
+                	<li>Ensure uptime and resolve issues quickly with the assurance of 24/7 support</li><li>Increase their focus on their core business, and reduce costs</li><li>Reduce costs from purchasing off the shelf products and addresses key business needs</li><li>Improve the reliability of business services, increasing ROI, decreasing risk and improving productivity</li>				</ul>
+                				<br/>
+				<strong>Differentiation:</strong>
+					
+						<p>Some ways that we differ from other options out there are:</p>
+                        <ul style="list-style:disk;">
+                        	<li><span class="dynamic_value edit_area_old" id=""></span>.</li>
+                            <li><span class="dynamic_value edit_area_old" id=""></span>.</li>
+                            <li><span class="dynamic_value edit_area" id=""></span>.</li>
+						</ul>
+				<br>
+				<strong>Name Drop: </strong>
+				<ul>
+				  <li> We worked with Boys and Girls Club and provided IT consulting that included conducting network assessment, creating and proposing an IT Road map for improving network deficiencies , migrating Exchange email to Microsoft Office 365 and providing upgrades, maintenance, On- site and Remote Help Desk support.  . </li> 
+				  <li> This helped them to significant cost savings and a flexible and improved  work environment that  integrated all their locations throughout Vancouver Island. 
+
+network hardware migration, upgrades, maintenance as well as providing ongoing support. Total Support Solutions sees itself as Boys and Girls Club’s partner in their continued success.
+ 
+Total Support Solutions resulted in significant cost savings and a more flexible and reliable work environment that included integrating all their locations throughout Vancouver Island
+ , which led to By outsourcing the IT functions to Total Support Solutions  Boys and Girls Club now have no IT issues and are free to focus fully on other things, safe in the knowledge that their IT is being continuously managed and monitored.  . </li>
+				</ul>
+				<br/>
+				<strong>Threats of Doing Nothing:</strong>
+				<p>Some things to be concerned with when not doing anything in this area are: </p>
+				<ul>
+																						<li><span class="dynamic_value edit_area" id="tpnd_36608_9703">Not performing proactive monitoring</span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_36609_9703">Don't have the needed technical resources </span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_36610_9703">Do not have after hours support or monitoring, systems upgrades, and production changes </span></li>
+																	<li><span class="dynamic_value edit_area" id="tpnd_36611_9703">Experiencing frequent production incidents </span></li>
+																	</ul>
+				<br />
+				<strong>Company Facts:</strong>
+						<p>Other key details about us are that we: </p>
+							<ul style="list-style:disk;">
+								<li>We help you identify fresh sales opportunities by building a pool of new, qualified prospects for your products and services..</li>
+                                <li>We work with your sales teams throughout the sales process feeding qualified opportunities and appointments they can cash in on..</li>
+								<li>[company fact 3].</li>
+                            </ul>
+				<br>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+                <tr>
+			<td class="td-pad-b"><strong>Close</strong><br></td>
+			<td>&nbsp;</td>
+			<td>
+            	But, since I have called you out of the blue, I do not want to take any more of your time to talk right now.<br/>
+				
+                <p><span class="red-area">(Chose one of the following closing methods) </span></p>
+				<strong>Option 1 - Trial Close: </strong>
+				<ul>
+					<li> What do you think about what we have discussed so far? </li>
+					<li> Is this something that you are interested in discussing in more detail? </li>
+				</ul>
+				<br/>
+				<strong>Option 2 - Soft Close:</strong>
+				<ul>
+					<li> A great next step would be for us to schedule <span class="dynamic_value edit_area_old" id="">a brief 15 to 20 minute meeting</span> where we can <span class="dynamic_value edit_area_old" id="">discuss your goals and challenges and share any value and insight that we have to offer</span>.</li>
+					<li> Is that something that you would like to put on the calendar? </li>
+				</ul>
+				<br/>
+				<strong>Option 3 - Hard Close:</strong>
+				<ul>
+					<li> How does your calendar look next Tuesday or Thursday morning for us to schedule <span class="dynamic_value edit_area_old" id="">a brief 15 to 20 minute meeting</span> where <span class="dynamic_value edit_area_old" id="">discuss your goals and challenges and share any value and insight that we have to offer</span>.</li>
+				</ul>			</td>
+		</tr>
+        <tr><td colspan="3" class="border-bottom">&nbsp;</td></tr>
+        	</table>
+    <div align="center" style="margin-top:15px; font-size:12px; clear:both;">
+	Copyright 2012-2018 SalesScripter, LLC  All Rights Reserved
+</div>
+                </div>
+    </div>
+</body>
+
+</html>

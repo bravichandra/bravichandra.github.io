@@ -1,0 +1,434 @@
+firstName,lastName,email,phone,company,address1,city,state,zip,title,domain,optOut
+Cole,Robbins,crobbins@usbankhomemortgage.co,,US Bank Home Mortgage,,,,,Mortgage Loan Officer,usbankhomemortgage.co,false
+Mike,Hendricks,mhendricks@healthsourcechiro.com,,HealthSource Chiropractic and Progressive Wellness,,,,,Chiropractor,healthsourcechiro.com,false
+Seth,Severtson,seth@yahoo.com,,Severtson Spinal Care P.C.,,,,,Chiropractor,yahoo.com,true
+Farrel,I. Grossman,figrossman@igconsulting.co,,F.I.G. Consulting,,,,,President & C.E.O.,igconsulting.co,false
+Nicole,Van Every,nvanevery@simplesolution.com,,Simply Healthy Solutions,,,,,Owner / Health Coach,simplesolution.com,false
+Dr.,James Oppenheim,djamesoppenheim@life.edu,,Life University,,,,,Professor/Chiropractor,life.edu,false
+Samuel,Ralls,sralls@carlconstruction.com,,Ralls Family Chiropractic,,,,,Chiropractor - Owner,carlconstruction.com,true
+Dr.,Phillip Paulk,dphillippaulk@thepaulkclinic.com,,The Paulk Clinic,,,,,"Owner, Doctor, Chiropractor",thepaulkclinic.com,false
+Dr.,Shelly Jones,dshellyjones@tonyrobbins.com,,Crews Chiropractic Life Center,,,,,"Past: Chiropractor, Owner",tonyrobbins.com,false
+Ken,Meisten,meisten@carolinahealthinnovations.com,,Carolina Health Innovations,,,,,Owner/Chiropractor,carolinahealthinnovations.com,false
+Audra,Moran,amoran@3m.com,,a...,,,,,"Summary: ...from Providence, Rhode Island, Dr... the Chiropractor",3m.com,false
+Dr.,Basil Snyman,dbasilsnyman@koreshdance.org,,Rittenhouse Square Chiropractic (Snyman Chiropractic Group),,,,,Chiropractor,koreshdance.org,false
+Timothy,"Fetter, D.C., M.S.W.",tdc@trifectachiro.com,,Trifecta Chiropractic and Wellness Center,,,,,"Chiropractor, Owner",trifectachiro.com,true
+Bryan,"Hulsey, D.C.",bhulsey@fibromyalgia.com,,Fibromyalgia & Neuromuscular Pain Center of Oregon,,,,,Chiropractic Physician,fibromyalgia.com,false
+Adam,Woods,awoods@hanleywood.com,,Adam C. Woods D.C.,,,,,Chiropractor/Owner,hanleywood.com,false
+Isabel,M Villaplana Canals,isabel@mayoclinic.org,,Wip-Lash Injury Care,,,,,Management/ Chiropractor Assistant,mayoclinic.org,false
+Craig,"Banks, DC",craig.banks@tnawrestling.com,,TNA Wrestling,,,,,Chiropractor,tnawrestling.com,false
+Chris,"Mabry, DC, DACNB",chris@abilitychiro.com,,Ability Chiropractic,,,,,Owner / Chiropractor / Functional Neurologist,abilitychiro.com,false
+Dr.,"Lynsi Stonecipher Clinger, C.C.E.P.",dlynsistonecipherclinger@clingerchiropractic.com,,Clinger Chiropractic Center,,,,,Owner/Chiropractor,clingerchiropractic.com,false
+Brady,"Partee, D.C.",bpartee@3m.com,,Ability...,,,,,Summary: I am the Chiropractor/Owner,3m.com,false
+Dr.,Tony Simone,dtonysimone@myhealthunlimited.com,,Simone Health Unlimited,,,,,Chiropractor/Owner,myhealthunlimited.com,false
+Nicole,Van Every,nvanevery@dcesolar.com,,DCE Solar,,,,,Business Development,dcesolar.com,false
+Luke,Bennett,lbennett@taylorbennett.co,,Luke A Bennett DC,,,,,Owner,taylorbennett.co,false
+John,Bartemus,jbartemus@jacksonemc.com,,Human... Member,,,,,Summary: Over 9 years,jacksonemc.com,false
+Megan,"Richardson, DC",mrichardson@epochchiropractic.com,,EPOCH Chiropractic,,,,,Owner/Chiropractor,epochchiropractic.com,false
+Mark,Niemchak,markn@amazon.com,,Dr. Mark E. Niemchak,,,,,Owner,amazon.com,false
+Jennifer,Escarcega DC,jescarcegadc@elitechiropractic.com,,Elite Chiropractic,,,,,Chiropractor,elitechiropractic.com,false
+Dr.,Kevin Craft,dkevincraft@goldsgym.com,,Gold's Gym Mooresville,,,,,"Chiropractor-Owner/Co-owner Gold's Gym Mooresville, Lake Norman, North Charlotte, Gastonia",goldsgym.com,false
+Glen,Peterson,peterson@infinitewellnesssolutions.com,,Infinite Wellness Inc.,,,,,Chiropractor / Owner,infinitewellnesssolutions.com,false
+Mark,Guker,mark@realignhealth.com,,ReAlign Health,,,,,"Chiropractor, Owner",realignhealth.com,false
+Patrick,"Miles, DC, ICCSP",pmiles@accurate-chiro.com,,Accurate Chiropractic,,,,,Owner/Operator/Chiropractor,accurate-chiro.com,false
+James,Corregano,jcorregano@perfectpatients.com,,CoreZone Chiropractic in New York City and Staten Island,,,,,Chiropractor and owner,perfectpatients.com,false
+Patrick,"McNamara, DC, MS, IHS",pmcnamara@business.nmsu.edu,,New Mexico State University,,,,,Past: Student Advisor,business.nmsu.edu,false
+Dr.,Daniel Prince,ddanielprince@hometeamsonline.com,,New Mexico Titans Football,,,,,Past: Team Physician,hometeamsonline.com,false
+Mitchell,E. Falk,mefalk@spinalcare.com,,Spinal Care & Wellness Center,,,,,Director,spinalcare.com,false
+Dr.,Mark Bolinger,dmarkbolinger@theassociation.org,,the Association,,,,,Summary: Member,theassociation.org,false
+Dr.,Mark Kemenosh,dmarkkemenosh@amwater.com,,New Jersey,,,,,Education: Richard Stockton College,amwater.com,false
+Nick,"Kousoulis DC, IIE",nkousoulisdc@camdencounty.com,,New Jersey-Camden,,,,,"Education: Rutgers, The State University",camdencounty.com,false
+Robert,"Ruffalo, PT, DC, CCSP",rruffalo@americanmedicalseminars.com,,Continuing Education Seminars Incorporated,,,,,Owner and Educator,americanmedicalseminars.com,false
+adonis,alejandro,adonisa@livingwellmedicalclinic.com,,Living Well CrossFit,,,,,"Chiropractor, CrossFit Coach, Owner , wellness coach, fitness/wellness entrepreneur",livingwellmedicalclinic.com,false
+Dr.,"Rick Rosa (D.C., D.A.A.P.M, C.C.S.P.)",drickrosadc@recoverydoc.com,,Recovery Doc,,,,,Owner,recoverydoc.com,false
+Jonathan,Field DC PhD FRCC,jonathan@theexecutivecommittee.com,,the Executive Committee,,,,,Member,theexecutivecommittee.com,false
+Dr,David Chandler,ddavidchandler@chandlerchiropractic.com,,Chandler Chiropractic,,,,,Owner/Chiropractor,chandlerchiropractic.com,false
+Beth,A. Reddy DC,beth@bethreddychiro.com,,Reddy Chiropractic,,,,,"Owner, Chiropractor",bethreddychiro.com,true
+Karl,"V. Forsberg, DC, CKTP",karl@corehealth.com,,Core Health & Wellness Center,,,,,Owner,corehealth.com,false
+Sandy,Saville,sandy@holisticintegrativewellness.com,,Integrated Wellness and Nutrition,,,,,Owner/Chiropractor,holisticintegrativewellness.com,true
+Kevin,Bonyadi,kbonyadi@selfemployed.co,,Self employed,,,,,Past: Owner,selfemployed.co,false
+Kristin,Bieri,kbieri@ltd.org,,Dragonfly Wellness Pty. Ltd.,,,,,Owner and Principal Chiropractor,ltd.org,false
+Patrick,"MacNamara, D.C.",pmacnamara@chiropracticmarketing.com,,Chiropractic Marketing Websites,,,,,Founder,chiropracticmarketing.com,false
+Brittany,Ramirez,bramirez@ccgchiro.com,,Columbia Chiropractic Group LLC,,,,,Owner/ Chiropractor,ccgchiro.com,false
+Chris,Harlan,charlan@drchrisharlan.com,,Harlan Chiropractic and Acupuncture,,,,,Owner,drchrisharlan.com,false
+Ryan,"Poindexter D.C., CNIM",rpoindexterdc@sentientmedical.com,,Sentient Medical Systems,,,,,Surgical Neurophysiologist,sentientmedical.com,false
+Geoff,Gleason,ggleason@beckmancoulter.com,,Beckman Coulter,,,,,Staff Clinical Studies Scientist,beckmancoulter.com,false
+Ryan,Fischer,rfischer@metrorealestate.co,,Metro Real Estate & Investments LLC,,,,,Owner / REALTOR,metrorealestate.co,false
+Courtney,Anderson,canderson@mobihealthnews.com,,Health In Hands Family Chiropractic,,,,,Business Owner,mobihealthnews.com,false
+Dr.,"Diane K. Smith, DC, CCSP",ddianeksmith@ncaa.com,,NCAA,,,,,Hockey and Lacrosse Official,ncaa.com,false
+Jesse,Kovash,jesse.kovash@sanfordhealth.org,,Sanford Health Occupational Medicine,,,,,Chiropractor,sanfordhealth.org,false
+Chris,Lilja,clilja@stpaulchiropractic.com,,St. Paul Chiropractic & Natural Medicine Center,,,,,Owner/CEO,stpaulchiropractic.com,false
+Dr.,Brian Betts,dbrianbetts@bata.com,,Northstar Classic Baseball League,,,,,League Chiropractor,bata.com,false
+Dr.,Michael Dixon,dmichaeldixon@state.mn.us,,Minnesota Department of Human Services,,,,,Legal Extern,state.mn.us,false
+Dr.,Kevin Schreifels,dkevinschreifels@lynlakechiropractic.com,,Lyn Lake Chiropractic,,,,,Owner,lynlakechiropractic.com,false
+Jessica,"Donaldson, DC, CVSMT",jdonaldson@meadowhillwellness.com,,Healing Meadows Animal Chiropractic,,,,,Owner and Animal Chiropractor,meadowhillwellness.com,false
+Sara,Cuperus,scuperus@chiroperformancecenter.com,,Chiropractic Performance Center,,,,,Chiropractor/Owner,chiroperformancecenter.com,false
+Jay,Wanken,jay@twwclinics.com,,The Wellness Way Cottage Grove,,,,,Chiropractor,twwclinics.com,true
+Dr.,"Keith Hassinger D.C., FIAMA, CCWP",dkeithhassingerdc@life.edu,,Life Chiropractic North Royalton,,,,,Owner/Chiropractor,life.edu,false
+Dr,"Jason Nummi, DC",nummi@piedmont.org,,DOCTOR JASON,,,,,Owner/ Chiropractor,piedmont.org,true
+Dr.,Dave Fandrich,dfandrich@healthsourcechiro.com,,HealthSource Chiropractic & Progressive Rehabilitation,,,,,Chiropractor/Owner,healthsourcechiro.com,false
+Tara,Schug,tara@yelp.com,,Element Chiropractic,,,,,Chiropractor | Owner,yelp.com,false
+Dr.,Stacy Corrado,dstacycorrado@artofskin.com,,Art of Skin & Bones,,,,,Principal,artofskin.com,false
+Kendra,Bergmann,kbergmann@optimalwellnessmedical.com,,Optimal Wellness Family Chiropractic,,,,,Owner,optimalwellnessmedical.com,false
+Christopher,Massoglia,cmassoglia@livehealthypa.com,,Live Healthy PA,,,,,Co-Owner,livehealthypa.com,false
+Dr,Cecil Forbes,dcecilforbes@crainsdetroit.com,,Detroit Injury and Pain Centers,,,,,Past: Chiropractor,crainsdetroit.com,false
+Eric,"Whedon, DC",edc@islandparkchiropractic.com,,Walton Chiropractic,,,,,Chiropractor,islandparkchiropractic.com,false
+Melissa,Eiben,meiben@3m.com,,Michigan and Florida...,,,,,"Summary: ..., the owner and chiropractor...",3m.com,false
+Dennis,Craft DC,dennis.craftdc@healthgrades.com,,Craft Chiropractic Creating Wellness Centers,,,,,"Chiropractor, owner, president",healthgrades.com,true
+Robert,"Cynowa, D.C., C.C.E.P., C.C.W.P.",rcynowa@completewellnesschiropractic.com,,Complete Wellness Chiropractic,,,,,Owner/Chiropractor,completewellnesschiropractic.com,false
+Paul,Anastasio,panastasio@harwichhealthcenter.org,,Harwich Health Center,,,,,Owner,harwichhealthcenter.org,false
+Keith,"Puri, DC",kpuri@chirocarearlington.com,,ChiroCare Associates PC,,,,,Co-Owner/Clinical Director,chirocarearlington.com,false
+Karen,Lacasse,klacasse@uppercapechiropractic.com,,Upper Cape Chiropractic,,,,,Owner,uppercapechiropractic.com,false
+Timothy,Morgan,tmorgan@universityofmassachusetts.com,,University of Massachusetts Boston,,,,,"Professor of Kinesiology, Strength & Conditioning - Exercise & Health Sciences Department",universityofmassachusetts.com,false
+Joel,Favreau,jfavreau@cantondalechiropractic.com,,Canton Dale Chiropractic,,,,,"Chiropractor, Co-owner",cantondalechiropractic.com,false
+Kathryn,Bennett,kathryn@ballengerchiropractic.com,,Ballenger Chiropractic,,,,,Doctor of Chiropractic,ballengerchiropractic.com,false
+Crystal,Sale,csale@animalhouseproject.org,,Animal House Chiropractic,,,,,Past: Owner,animalhouseproject.org,false
+Carole,Smith,csmith@yourhealthwellnesscentre.com,,YOUR HEALTH Wellness Centre,,,,,Chiropractor,yourhealthwellnesscentre.com,false
+Dr,Michael Epperson,dr@richmondfamilychiropractic.com,,Richmond Family Chiropractic,,,,,Associate Chiropractor,richmondfamilychiropractic.com,false
+John,Bartemus,jbartemus@acceleratechiro.com,,Accelerate Chiropractic,,,,,Chiropractor,acceleratechiro.com,false
+Nicholas,Bosse,nicholas@businessinsider.com,,Bosse Family Chiropractic & Wellness,,,,,"Owner, Chiropractor",businessinsider.com,false
+Ashley,Rice,arice@neva.org,,NEVA,,,,,"Owner, Chief Administrative Officer",neva.org,false
+Dr.,Alex Vidan,dalexvidan@drvidan.com,,Vidan Family Chiropractic - St Louis Chiropractor,,,,,Owner,drvidan.com,false
+Dr.,Candace Holmes,dcandaceholmes@serenitywellness.com,,Serenity Wellness,,,,,Owner/Chiropractor,serenitywellness.com,false
+Tim,Rogers,trogers@arielinvestments.com,,President Rogers Performance Methods/ChiroFit Chiropractic/Prehab,,,,,"President, Owner/Operator",arielinvestments.com,false
+Troy,"Willis, D.C.",twillis@livewellholistichealth.com,,Live Well Natural Health,,,,,Owner | Lifestyle Chiropractor,livewellholistichealth.com,false
+Kevin,"Dickhaut, D.C",kdickhaut@chiropracticsa.com,,Rivercity Chiropractic and Rehab,,,,,Chiropractor/Owner,chiropracticsa.com,false
+Bryon,Liang,bliang@engineers.com,,Engineers,,,,,Windows System Administrator I for the Army Corp,engineers.com,false
+Corey,Campbell,ccampbell@omahaspine.com,,Omaha Spine&Sport; Board member and Instructor for Motion Palpation Institute,,,,,Chiropractic Physician and Owner,omahaspine.com,false
+Lisa,Eastman,leastman@konzaprairiechc.com,,Konza Family Health Center,,,,,Past: Owner/chiropractor,konzaprairiechc.com,false
+Mike,Stabile,mstabile@google.com,,SENSIBLE CHIROPRACTIC PLLC,,,,,Past: Owner/Chiropractor,google.com,false
+Stephen,Clausen,sclausen@chiromatrix.com,,Clausen Chiropractic Services,,,,,Owner,chiromatrix.com,false
+Dr.,"Katie Decker, MsED, C.A.C.C.P.",dr.katiedecker@regisjesuit.com,,Regis Jesuit High School,,,,,Official Chiropractor,regisjesuit.com,false
+Arbi,Mirzaians DC,amirzaiansdc@docmirz.com,,Arbi Mirzaians,,,,,Chiropractor,docmirz.com,false
+Erin,"Stubblefield, D.C.",estubblefield@cleveland.edu,,Cleveland University - Kansas City,,,,,Chiropractor/Clinic Faculty/Assistant Professor,cleveland.edu,true
+Gabe,"Roberts, DC, CPC, CFMP",groberts@backtonaturefoods.com,,Back to Nature Lifestyle Medicine,,,,,Chiropractor/ Health and Wellness Doctor,backtonaturefoods.com,false
+Anthony,Evans,aevans@alignlife.com,,Align For Life Chiropractic Center,,,,,"Owner, Chiropractor",alignlife.com,false
+Patrick,"Noel, DC, MBA",pnoel@kaiserpermanente.org,,Kaiser Permanente,,,,,Doctor Of Chiropractic,kaiserpermanente.org,false
+Jim,Ottomeyer,jottomeyer@frontierhealthcenter.com,,Frontier Integrated Health Center,,,,,Owner,frontierhealthcenter.com,false
+yonas,Tedla,ytedla@healthgrades.com,,Yonas Chiropractic Center,,,,,Chiropractor,healthgrades.com,false
+Sean,Cooney,sean@wellsstreetcrossfit.com,,Wells Street CrossFit,,,,,Owner,wellsstreetcrossfit.com,false
+Jennifer,Sanford,jsanford@balancedlifechiropractic.com,,Balanced Life Chiropractic & Body Studio,,,,,"Owner, Chiropractor",balancedlifechiropractic.com,false
+Greg,Jorgensen,greg@traversecitychiropractor.com,,Advanced Chiropractic and Wellness,,,,,Chiropractor,traversecitychiropractor.com,false
+Ted,Liautaud Jr,tliautaudjr@theconservationfoundation.org,,Liautaud Family Chiropractic LLC,,,,,Owner/Chiropractor,theconservationfoundation.org,false
+John,Giovanelli,jgiovanelli@westwarwickpublicschools.com,,John J Giovanelli DC PC,,,,,"Chiropractor, Owner",westwarwickpublicschools.com,false
+Tim,"Matthys, DC CCSP ®",tmatthys@matthysfarmmarket.com,,Matthys Family & Sports Chiropractic,,,,,Chiropractor and Owner,matthysfarmmarket.com,false
+Lindsey,"White, D.C.",lindseywhite@perfectpatients.com,,Utopia Family Chiropractic,,,,,Chiropractor and Owner,perfectpatients.com,false
+Myron,Brown,myron-brown@myronbowling.com,,Dr. Myron Brown,,,,,Chiropractor/owner,myronbowling.com,false
+Wayne,Horak D.C.,whorakdc@experiencereset.com,,Reset Clive,,,,,Chiropractor/Owner,experiencereset.com,false
+Craig,Taylor,ctaylor@taylorchiropractic.com,,Taylor Chiropractic & Wellness,,,,,Doctor of Chiropractic and Co-Owner,taylorchiropractic.com,false
+Joe,Horn,jhorn@affordablechiropractic.com,,Affordable Chiropractic,,,,,Past: Owner / Operator,affordablechiropractic.com,false
+Chris,Galloway,chris@primecarwash.com,,Prime Car Wash,,,,,Owner/Co-Founder/CFO,primecarwash.com,false
+Chris,"Sherman, DC, MPH",csherman@managedhealthservices.com,,Managed Health Services,,,,,Consultant,managedhealthservices.com,false
+David,J. Kolbus,djkolbus@naturalchoicechiropractic.com,,Natural Choice Chiropractic,,,,,Past: Associate Chiropractor,naturalchoicechiropractic.com,false
+Chad,"Doles, D.C.",cdoles@stlouisinjurycenters.com,,Natural Bridge Injury Center,,,,,Chiropractor,stlouisinjurycenters.com,false
+Kyle,Hoeft,khoeft@3m.com,,Indiana since 2000...,,,,,Summary: ...chiropractor in the state,3m.com,false
+Travis,Hulbert,thulbert@questchiro.com,,Quest Chiropractic Center,,,,,Chiropractor/Owner,questchiro.com,false
+Melonie,Levernier,mlevernier@centura.org,,High Country Family Chiropractic,,,,,Past: Chiropractor/Owner,centura.org,false
+Ted,"Bullock, D.C., CCEP",tedbullock@charlottemotorspeedway.com,,Charlotte Motor Speedway,,,,,Official Chiropractor and Wellness Provider,charlottemotorspeedway.com,false
+Jared,Leath,jleath@rangeleather.com,,LEATH CHIROPRACTIC LLC,,,,,"Past: Owner, Doctor of Chiropractic",rangeleather.com,false
+Danny,DeReuter,ddereuter@envremedies.com,,Earth's Remedies,,,,,Co Owner,envremedies.com,false
+Howard,Stich,hstich@bpg.com,,BPG/Scott's Inspections,,,,,Professional Real Estate Inspector,bpg.com,false
+Adam,Milroy,amilroy@smith.com,,Smith & Nephew,,,,,Distributor,smith.com,false
+Stacy,Ebert,sebert@alvincollege.edu,,Allied Health Alvin Community College,,,,,Director,alvincollege.edu,false
+Brad,Hall,bradhall@elitephysicalmedicine.co.uk,,Elite Physical Medicine,,,,,Owner and Treating Doctor,elitephysicalmedicine.co.uk,true
+Dr.,Austin Sanford,daustinsanford@foothillsrehab.com,,Adjust Physical Medicine PLLC,,,,,Case Manager/ Chiropractor,foothillsrehab.com,false
+Nichole,Snyder DC,nsnyderdc@snydersolutions.com,,Snyder Solutions,,,,,Past: Owner,snydersolutions.com,false
+Dr.,Fabrizio Mancini,dfabriziomancini@dallascityhall.com,,Dallas,,,,,"International Executive & Consultant, President Emeritus, Chiropractor, Speaker & Author",dallascityhall.com,false
+Dr.,Hailey Heard,dhaileyheard@corporatefitnessworks.com,,NeuroWorks Wellness Center,,,,,Functional Medicine Practitioner & Chiropractor,corporatefitnessworks.com,false
+Jesus,Castaneda,jcastaneda@allstate.com,,Chiropractic Office Coverage,,,,,Independent Business Owner,allstate.com,false
+Dr.,Alexander Jimenez ♛,dalexanderjimenez@medicinenet.com,,El Paso Neuropathy Center,,,,,Past: Founder/Owner: El Paso Neuropathy Center,medicinenet.com,false
+John,"Tarpoff DC, CSCS",jtarpoffdc@backfit.com,,Backfit,,,,,Owner,backfit.com,false
+Jose,Simon D.C.,jsimondc@simonspine.com,,Simon Spine,,,,,Doctor of Chiropratic/Owner,simonspine.com,false
+Gursimran,S. Gill,gursimran@zenith.com,,ZENITH,,,,,Business Owner,zenith.com,false
+Dr.,"Michael P. Willemse, CCIC",dmichaelpwillemse@advancedhealing.com,,Advanced Healing & Pain Relief Center,,,,,Chiropractic/Owner,advancedhealing.com,false
+Fred,Casper,fcasper@owner.com,,Owner/Chiropractor,,,,,Past: Owner,owner.com,false
+Rob,Vasquez,rvasquez@urbanfamilypractice.com,,Vasquez Family Chiropractic,,,,,Chiropractor,urbanfamilypractice.com,false
+William,Denman,wdenman@thepawsresort.com,,The Paws Resort & Spa,,,,,Business Owner,thepawsresort.com,false
+Dr.,Marquetta Giles D. C.,dmarquettagilesdc@liebertpub.com,,Spinal Perceptions Chiropractic and Wellness Center,,,,,Owner,liebertpub.com,false
+Rita,"Lathon, DC, LMT",rlathon@restorativetouchchiropractic.com,,Restorative Touch Chiropractic,,,,,"Chiropractor, Massage Therapist, Owner",restorativetouchchiropractic.com,false
+Dr.Gabor,Farkas DC,drgabor@greaterhoustonchiropractic.com,,Greater Houston Chiropractic,,,,,Doctor of Chiropractor,greaterhoustonchiropractic.com,false
+Royce,Barnett,rbarnett@wellfamilychiropractic.com,,Well Family Chiropractic,,,,,Owner,wellfamilychiropractic.com,false
+Jose,C. Picasso,jcpicasso@tacomachamber.org,,Picasso Chiropractic Clinic,,,,,Owner/Chiropractor,tacomachamber.org,false
+Paul,"Theriot, D.C.",ptheriot@theamericanchiropractor.com,,Gemini Chiropratic and Rehab,,,,,Co-Owner / Chiropractor,theamericanchiropractor.com,false
+Amber,Fekete,afekete@thriveoptimalwellness.com,,Thrive Optimal Wellness,,,,,"Owner, Chiropractor",thriveoptimalwellness.com,false
+Dr.,Bolden Harris,dboldenharris@familywellness.com,,Family Wellness,,,,,Owner,familywellness.com,false
+Dr.,"Bryant Mays, D.C.",dr@mayoclinic.org,,Texas Specific Clinic of Chiropractic,,,,,Owner,mayoclinic.org,false
+Jeff,"Manning, DC",jeffmanning@manningwellness.com,,Manning Wellness Clinic,,,,,Chiropractor/Owner,manningwellness.com,true
+Dr.,Kristi Farrell,dkristifarrell@backtohealthfamilycare.com,,Back to Health Chiropractic,,,,,Chiropractor / owner,backtohealthfamilycare.com,true
+Dr.,Kris Wilson,drwilson@soonerchiropractic.com,,Sooner Chiropractic,,,,,Chiropractor and Owner,soonerchiropractic.com,false
+Dr.,Christina Brasher,drchristinabrasher@charlestonchiropracticcompany.com,,Amazing Health Chiropractic,,,,,Chiropractor/Owner,charlestonchiropracticcompany.com,false
+Stephen,Taylor DC,staylordc@checdocs.org,,Neurological Relief Center of Northern Utah,,,,,Chiropractor,checdocs.org,true
+Christine,Lebiecki,clebiecki@familyfirstchiropractic.com,,Family First Chiropractic,,,,,Owner/ Chiropractor,familyfirstchiropractic.com,false
+Dr.,Wendy Mehaffey,dwendymehaffey@epicstretch.com,,Epic Stretch,,,,,Epic Stretch Owner,epicstretch.com,false
+Heather,"Spalding DC, MS",hspaldingdc@ekhealth.com,,EK Health Services,,,,,Utilization Review,ekhealth.com,false
+Ben,Jensen,benjensen@unitedwoundhealing.com,,United Wound Healing,,,,,Senior Partnership Executive,unitedwoundhealing.com,false
+Michael,MacKinnon,michael.mackinnon@atosmedical.com,,Atos Medical,,,,,Territory Sales Manager,atosmedical.com,false
+Raymond,"Sue, DC, CSCS, ACP",rsue@airrostirehabcenters.com,,Airrosti Rehab Centers,,,,,Airrosti Certified Provider,airrostirehabcenters.com,false
+Heather,Denniston DC CCWP NASM CPT,hdennistondcccwpnasmcpt@wellfitandfed.com,,WELLFITandFED,,,,,"Owner, Blogger, Coach, Consultant",wellfitandfed.com,true
+Joelle,Cafaro,joelle.cafaro@drjoellecafaro.com,,Dr Joelle Cafaro,,,,,Owner,drjoellecafaro.com,false
+Stephen,"Erle DC, CSCS, USAW",serledc@umw.edu,,University of Mary Washington,,,,,Past: Strength Coach / Team Physician,umw.edu,false
+Zackery,"Conklin, DC",zconklin@zackcompany.com,,Doctors By Zack,,,,,Business Owner,zackcompany.com,false
+Shan,Twit,stwit@cornerstonechiropractic.com,,Cornerstone Chiropractic Wellness,,,,,Owner,cornerstonechiropractic.com,false
+Jennifer,Welch,j.welch@iowafunctionalhealth.com,,Iowa Functional Health,,,,,Owner,iowafunctionalhealth.com,false
+Cheryl,Lee-Pow,cleepow@powherchiro.com,,POW-HER CHIROPRACTIC,,,,,Owner,powherchiro.com,false
+Terry,Kronlund,tkronlund@reliantmedicalgroup.org,,Kronlund Chiropractic Clinic,,,,,Chiropractor,reliantmedicalgroup.org,false
+Dr.,April J Lee,dapriljlee@lifechiropractic.com,,Life Chiropractic,,,,,Owner,lifechiropractic.com,false
+Mike,"Grimsley, DC",mgrimsley@henryclinic.com,,henry chiropractic and wellness,,,,,Chiropractor-owner,henryclinic.com,false
+Adam,Siler,asiler@silverandfit.com,,Siler Chiropractic and Rehabilitation,,,,,Owner / Chiropractor,silverandfit.com,false
+Tiffany,"Christie, D.C.",tiffany_christie@seattletotalhealth.com,,Seattle Total Health,,,,,Owner/Chiropractor,seattletotalhealth.com,false
+Bobby,"Mozafari, DC, SFMA, FMSC",bmozafari@isspecialties.com,,Integrated Sport,,,,,Owner/Chiropractor,isspecialties.com,false
+Lori,Maupin,lmaupin@wolfchiro.net,,Wolf Chiropractic Clinic,,,,,Chiropractor,wolfchiro.net,false
+Adam,"Tetuan, DC, CKTP, C.ART",atetuan@adamjamesinternational.com,,Innovative Chiropractic Care Dr. Adam J. Tetuán,,,,,Owner,adamjamesinternational.com,false
+Matthew,Lieber,mlieber@yardleyboro.com,,Yardley Chiropractic Centre,,,,,Past: Chiropractor and Owner,yardleyboro.com,false
+Dr.,"Rick Rosa (D.C., D.A.A.P.M, C.C.S.P.)",drickrosadc@abcclinics.com,,ABC Clinics,,,,,Owner/Manger,abcclinics.com,false
+Keith,Silcox,keith@activecare.com,,Active Care PLLC,,,,,Past: Chiropractor / Athletic Trainer / Owner,activecare.com,false
+Gelareh,"Naenifard, DC",gnaenifard@pain.com,,Pain & Rehab Center,,,,,Owner,pain.com,false
+Corey,"Schneider, DC, CSCS",cschneider@goodyearhealth.com,,Goodyear Health Center,,,,,"Owner, Chiropractor, Rehab Specialist, Strength and Conditioning Specialist",goodyearhealth.com,false
+David,Gustitus,dgustitus@mychiroforlife.com,,Rhythm of Life Chiropractic,,,,,Chiropractor,mychiroforlife.com,false
+Dr.,"Angela Graper, CACCP",dangelagraper@familyfocuschiropractic.com,,Family Focus Chiropractic,,,,,Chiropractor,familyfocuschiropractic.com,false
+Donald,"Brown, DC, DACBOH",dbrown@3m.com,,the Wisconsin...,,,,,"Summary: ...practice, Owner, Business... member",3m.com,false
+Heather,Steckling,hsteckling@3m.com,,.,,,,,Owner/Chiropractor,3m.com,false
+Ross,"Jensen, D.C., M.S.",rjensen@optimalspinewc.com,,Jensen Chiropractic,,,,,Owner/Doctor,optimalspinewc.com,false
+Dr.,Travis Fisher,dtravisfisher@genesischiropractic.com,,Genesis Chiropractic,,,,,Owner / Chiropractor,genesischiropractic.com,false
+Dr.,Matt Christiansen,dmattchristiansen@brookfieldchiropractic.com,,Brookfield Chiropractic,,,,,Chiropractor,brookfieldchiropractic.com,false
+Dr.,Anthony Miller DC CCSP,danthonymillerdcccsp@ajmmortgage.com,,AJM Chiropractic,,,,,Chiropractor,ajmmortgage.com,false
+Mike,Komro,mike@affinitychirocare.com,,Affinity Chiropractic Minnetonka,,,,,"Owner, Chiropractor",affinitychirocare.com,false
+Dr.,Nick Albert,dnickalbert@spinedesignchiro.com,,Spine by Design Chiropractic Center,,,,,Chiropractor & Owner,spinedesignchiro.com,false
+Doc,"Stephie Rae Grenier, DC",dstephieraegrenier@holisticchiropracticcenter.com,,Grenier Chiropractic,,,,,"Chiropractor, Owner",holisticchiropracticcenter.com,false
+Dr.,"Kellie Seth, DC",drseth@healingriverchiropractic.com,,Healing River Chiropractic,,,,,"Chiropractor, Owner",healingriverchiropractic.com,false
+Michelle,"R. Tell Peck, D.C.",mrtellpeck@wissotachiro.com,,Wissota Chiropractic,,,,,Chiropractor/Owner,wissotachiro.com,false
+Pamela,Zink,pamela@triunehealthgroup.com,,TRIUNE Health Group,,,,,Medical Case Manager,triunehealthgroup.com,false
+Dr.,Tara Horrall,dtarahorrall@kennardchiropracticandpt.com,,Kennard Clinic of Chiropractic,,,,,"Founder, Owner, and Chiropractor",kennardchiropracticandpt.com,false
+Christine,Graham,cgraham@yelp.com,,Essential Chiropractic LLC dba the Practice,,,,,Owner- Chiropractor,yelp.com,false
+Jennifer,"Bulger, DC",jenniferbulger@charlestonchiropracticcompany.com,,Charleston Chiropractic Company,,,,,Owner/Chiropractor,charlestonchiropracticcompany.com,false
+Marcus,Dunn,marcusdunn@nearsay.com,,Dunn Chiropractic,,,,,Chiropractor/Owner,nearsay.com,false
+Shara,Posner,sposner@justadjustit.com,,Back to Health Center PLLC,,,,,Chiropractor/Owner,justadjustit.com,true
+Christy,Darin,cdarin@darinchiropractic.com,,Darin Chiropractic,,,,,Owner,darinchiropractic.com,false
+Dr,Eric Eickhorst,dericeickhorst@healthgrades.com,,Eickhorst Family Chiropractic,,,,,Chiropractor,healthgrades.com,false
+Nick,Kuennen,nkuennen@thewellnesssource.net,,The Wellness Source,,,,,"Chiropractor, owner",thewellnesssource.net,false
+Travis,Morgan,travismorgan@adv-health.com,,Advanced Health and Wellness Center of Nashville,,,,,Owner/Chiropractor,adv-health.com,true
+Ricky,Delacruz,rdelacruz@yelp.com,,Delacruz Wellness,,,,,Owner & Chiropractor,yelp.com,false
+KayLynne,Gasiorowski,kgasiorowski@universalwellnesssource.com,,Universal Wellness Source,,,,,Chiropractor/Owner,universalwellnesssource.com,false
+Andrea,"Mursu, DC",andrea@harmonyhealthlifeandfitness.com,,Health in Harmony Chiropractic,,,,,Owner/Chiropractor,harmonyhealthlifeandfitness.com,true
+Dr.,Shane Harada,dshaneharada@quickweightloss.net,,Totally HCG and Lighthouse Wellness,,,,,Owner,quickweightloss.net,false
+Joe,Betz,joe@idahohousing.com,,Idaho Association of Chiropractic Physicians,,,,,President,idahohousing.com,false
+Jennifer,Broad,jennifer@starenergypartners.com,,All-Star Solar LLC,,,,,Co-Owner,starenergypartners.com,false
+Kim,"Johnston, D.C.",kjohnston@wsphealth.com,,Wellspring Health and Sports Performance,,,,,Past: Doctor Of Chiropractic/ Licensed and Certified in Acupuncture.,wsphealth.com,false
+Carol,Langley,clangley@premierinc.com,,Better Results-Better Health,,,,,Owner,premierinc.com,false
+Jarrod,"Wilner, DC, CNIM",jwilner@mercurynews.com,,Jarrod S. Wilner,,,,,"Chiropractic Physician, Owner",mercurynews.com,false
+Lydia,Crystal,lcrystal@lydiacrystal.com,,Lydia Crystal,,,,,Owner,lydiacrystal.com,false
+Carey,Pabouet-Sigafoose,cpabouetsigafoose@chiropractiedenhaag.com,,Chiropractie Den Haag,,,,,Chiropractor,chiropractiedenhaag.com,false
+Pat,"Helma, DC, DACBSP",phelma@springer.com,,Patrick J. Helma,,,,,Owner,springer.com,false
+Mark,Gabriel,mgabriel@advancedwellnesscenter.com,,Advanced Wellness Center,,,,,Owner and Chiropractic Physician,advancedwellnesscenter.com,false
+Maribeth,Cantwell,mcantwell@liebertpub.com,,Alternative Care Therapies,,,,,Past: Chiropractor,liebertpub.com,false
+Jacob,Canfield,jcanfield@grandapps.com,,Grand Apps,,,,,Owner,grandapps.com,false
+Dr.,Michele Lay,dmichelelay@goodlifeusa.com,,Goodlife USA,,,,,Independent Business Owner,goodlifeusa.com,false
+Cindy,"Perkins, DC, MBA",cperkins@backinhealthwellness.com,,Back In Health Wellness Center,,,,,Owner,backinhealthwellness.com,false
+Dr.,Steven Harrison,dr@drsteveharrison.com,,DrSteveHarrison.com / Total Health & Rehab,,,,,"Chiropractor, Acupuncturist, Functional Medicine Practitioner",drsteveharrison.com,false
+Robert,"Koser, D.C.",rkoser@laserspineinstitute.com,,Laser Spine Institute,,,,,Patient Services Physician - Chiropractor,laserspineinstitute.com,false
+Dr.,Melissa Harmon,dmelissaharmon@cityofnorthport.com,,Port CHarlotte Family Chiropractic,,,,,President/Owner,cityofnorthport.com,false
+Brian,Capra,bcapra@genesischiropracticsoftware.com,,Genesis Chiropractic Software - A Product of Billing Precision,,,,,Owner,genesischiropracticsoftware.com,false
+Jose,Patino,jpatino@urhealth.org,,URHealth,,,,,Chiropractor,urhealth.org,false
+Dr.,Haig John,dhaigjohn@drhaigjohn.com,,Dr. Haig John,,,,,Owner,drhaigjohn.com,false
+Trek,"Smith, DC",tsmith@backtohealthchiropractic.com,,Back To Health Chiropractic,,,,,Owner/ Doctor of Chiropractic,backtohealthchiropractic.com,false
+Dr.,Joshua Ryan Cleveland,djoshuaryancleveland@childsfamilychiropractic.com,,Cleveland Family Chiropractic Center,,,,,"Owner, Chiropractor",childsfamilychiropractic.com,false
+Jennie,Yates,jyates@healthgrades.com,,CoreHealth of Clearwater LLC,,,,,Owner,healthgrades.com,false
+Kristen,"Bravo, D.C., F.I.A.M.A.",bravo@bravotv.com,,Bravo Mobile Chiropractic LLC,,,,,Owner,bravotv.com,false
+Dr.,Neil Berman,dneilberman@bermanchiropractic.com,,Berman Chiropractic & Rehab,,,,,Chiropractor,bermanchiropractic.com,false
+Geneva,Burch,gburch@thcmi.com,,Florida Total Health & Wellness,,,,,Owner/Chiropractor,thcmi.com,false
+Dr,Andreu J MacA Richardson,dandreujmacarichardson@wiltonmanors.com,,Wilton Manors Family Chiropractic & Wellness Centre,,,,,Chiropractor & Owner,wiltonmanors.com,false
+Dr.,Arthur Lee Matthews III D.C.,dlee@yelp.com,,RAINBOW CITY CHIROPRACTIC,,,,,CHIROPRACTOR/OWNER,yelp.com,false
+Dr.,Eric Wright,dwright@peakhealthmedicine.com,,Peak Family Health,,,,,Chiropractor/ Owner,peakhealthmedicine.com,false
+Alyssa,Kenyon,akenyon@healthsourcechiro.com,,HealthSource® - America's Chiropractor,,,,,Chiropractor/Owner,healthsourcechiro.com,false
+Leah,"Gallucci, D.C.",lgallucci@vitalhealthchiro.com,,Vital Health Chiropractic,,,,,Owner/Chiropractor,vitalhealthchiro.com,false
+Marissa,Hols,marissahols@practicalhorsemanmag.com,,Lead Performance Equine and Small Animal Chiropractic,,,,,Owner/Chiropractor,practicalhorsemanmag.com,false
+Lerin,Weirich,lerin@gardenchiro.com,,Garden Chiropractic,,,,,Chiropractor/Owner,gardenchiro.com,false
+Richard,Day,rday@chiropractickansas.com,,Great Day Chiropractic and Wellness Center,,,,,Past: Owner/Chiropractor,chiropractickansas.com,false
+Jeffrey,Johnson,jjohnson@sechosp.org,,Southeast Colorado Hospital,,,,,Past: Chiropractor,sechosp.org,false
+Ed,Le Cara DC PhD MBA,ed@kinetikchaindenver.com,,KinetikChain Denver,,,,,Owner/Clinician,kinetikchaindenver.com,false
+Dr.,"Jennifer Rada DC, CSCS",djenniferradadc@ucdenver.edu,,Denver Functional Health,,,,,Co-Founder,ucdenver.edu,false
+Shawn,"Caldwell, D.C.",shawn@denversportsrecovery.com,,Denver Sports Recovery,,,,,Owner,denversportsrecovery.com,false
+Dr.,"Katie Decker, MsED, C.A.C.C.P.",dkatiedecker@5280bhc.com,,5280 Balanced Health Center,,,,,Doctor of Chiropractic/ Owner,5280bhc.com,false
+Mark,Tilley,mark.tilley@yelp.com,,Total Living Chiropractic,,,,,Chiropractor,yelp.com,false
+Nate,"Williams D.C., CSCS",natewilliamsdc@charlestonchiropracticcompany.com,,Performance Sports Chiropractic,,,,,Owner,charlestonchiropracticcompany.com,false
+Dr.,Melissa Grosboll,dmelissagrosboll@comerfamilyfoundation.org,,Grosboll Family Health Center,,,,,Owner,comerfamilyfoundation.org,false
+Jacob,Hasse DC,jhassedc@hassefamilychiro.com,,Hasse Family Chiropractic,,,,,"Chiropractor, Owner of Hasse Family Chiropractic",hassefamilychiro.com,false
+N.,"LeAnne Davis, DC, ASQ CQA",n@drleanne.net,,Health Revolution Lindale,,,,,Owner/Chiropractor,drleanne.net,false
+W.,"C. La Rock, DC",w@affordablechiropractic.com,,Affordable Chiropractic,,,,,Owner/Chiropractor,affordablechiropractic.com,false
+Michael,Tancredi,mtancredi@tancredichiropractic.com,,Tancredi Chiropractic & Physical Therapy,,,,,Owner,tancredichiropractic.com,false
+Jonathan,"Weimer DC, MS, CCSP",jweimerdc@shopdenveroutlaws.com,,Denver Outlaws,,,,,Team Chiropractor,shopdenveroutlaws.com,false
+Pete,Eisenhauer,peteeisenhauer@owners.com,,Owner/Chiropractor,,,,,Owner / Chiropractor,owners.com,false
+Dr.,Jace Buzek,djacebuzek@wellset.com,,Well Set,,,,,Owner/Chiropractor,wellset.com,false
+Chad,Cotter,ccotter@healthsourcechiro.com,,HealthSource Chiropractic & Progressive Rehabilitation,,,,,owner/Chiropractor,healthsourcechiro.com,false
+Dr.,Roxanne Wagner,droxannewagner@comprehensivechiropractic.com,,Comprehensive Chiropractic,,,,,Owner/Chiropractor,comprehensivechiropractic.com,false
+Terry,Wright,twright@coldwellbankerresidential.com,,Coldwell Banker Residential Brokerage,,,,,Real Estate Sales Professional,coldwellbankerresidential.com,false
+Dennis,Adams,dadams@kimballhealth.org,,Kimball Health Services,,,,,"Director of Revenue Cycle, Clinics, and Business Office",kimballhealth.org,false
+Michael,"Piazza, DC",mpiazza@johnsonandjohnson.net,,Johnson and Johnson,,,,,"Exec. Immunology Sales Specialist - Gastroenterology, Janssen Biotech, Inc.",johnsonandjohnson.net,false
+Ramiro,"Torres, D.C.",rtorres@valleymed.org,,Valley Injury Clinic,,,,,Past: Owner-Chiropractor,valleymed.org,false
+Elliot,Berlin,eberlin@trialoflabor.com,,Trial of Labor,,,,,Executive Producer,trialoflabor.com,false
+Sharon,Rick D.C.,srickdc@genexservices.com,,GENEX Services,,,,,Director of Clinical Personnel Recruitment and Training,genexservices.com,false
+Dr.,"Eden Goldman, D.C., C.Y.T., E-RYT500",dedengoldman@lmu.com,,LMU & Former Director of Yoga/Mindfulness,,,,,Director of Yoga & The Healing Sciences,lmu.com,false
+elizabeth,Dr. Elizabeth Halouzka,edrelizabethhalouzka@massageenvy.com,,Dr E Massage,,,,,Chiropractor,massageenvy.com,false
+Ira,"Schneider, D.C., C.C.S.P.",ischneider@csun.edu,,Caliornia State University,,,,,"Chiropractor, for Athletic Department",csun.edu,false
+Adam,Shorter,ashorter@f45training.com,,F45 Training Goldenwest,,,,,Franchise Owner,f45training.com,false
+Pat,Gayman,pgayman@mckinsey.com,,Authentic Alignment Business Coach,,,,,Owner/Founder,mckinsey.com,false
+Elizabeth,Sordyl,esordyl@oregonlive.com,,Dr. Elizabeth M. Sordyl,,,,,Owner,oregonlive.com,false
+Manon,Fielding,mfielding@life.edu,,Life University,,,,,Adjunct Faculty Clinician,life.edu,false
+Martin,"Rosen, DC",mrosen@drmartinrosen.com,,Drs. Rosen Pediatric Seminars,,,,,Doctor,drmartinrosen.com,false
+Shaun,"Wiebe-Bailey DC, CCSP®, CKTP",swiebebaileydc@housecallwellness.com,,House Call Wellness,,,,,Owner / Sports Medicine Chiropractor,housecallwellness.com,false
+Trace,Alexander,talexander@txla.org,,TLA HealthServices and Alexander Chiropractic and Sports Rehab,,,,,Owner/Family Nurse Practitioner/Chiropractor/Acupuncturist,txla.org,false
+Jim,"Cox, DC",jcox@laverne.edu,,Southern California University of Health Sciences,,,,,"Clinician, Assistant Professor, Quality Assurance Chair for University Health Systems",laverne.edu,false
+Molly,Cooper,mcooper@healthsourcechiro.com,,HealthSource of Anaheim,,,,,"Chiropractor, Owner",healthsourcechiro.com,false
+Adam,Jacobs,adamjacobs@sfcustomchiro.com,,SF Custom Chiropractic,,,,,Chiropractor/ Owner,sfcustomchiro.com,false
+Dr.,Tracey St John DC,dtraceystjohndc@childrens.com,,Mend Health and Wellness of Maine,,,,,Chiropractor,childrens.com,false
+Eric,Shane DC DACBSP EMT,eshanedcdacbspemt@medco-athletics.com,,Shane Sports Medicine Chiropractic,,,,,Owner / Chiropractor,medco-athletics.com,false
+Dr.,Craig Couillard,drcraigcouillard@minnesotamonthly.com,,Lake Marion Chiropractic Center,,,,,Owner,minnesotamonthly.com,false
+Erika,"Bonilla DC,CCSP,SFG",ebonilladc@elitespinebody.com,,Elite Spine and Body Chiropractic & Sports Therapy,,,,,Owner - Sports Chiropractor,elitespinebody.com,false
+Dr,"Mahsa Khodabakhsh, D.C.",dmahsakhodabakhsh@empoweredchiropractic.com,,Empowered Chiropractic,,,,,"Owner, Chiropractor",empoweredchiropractic.com,false
+Chad,"Moreau, DC, CSCS",cmoreau@backtofunction.com,,Back to Function,,,,,Business Owner,backtofunction.com,false
+Dr.,Ben Weitz,dbenweitz@drweitz.com,,Weitz Sports Chiropractic,,,,,Chiropractor & Nutritional Counselor,drweitz.com,false
+Angie,Fix Ortiz,afixortiz@phoenixcollege.edu,,Fix Ortiz Chiropractic,,,,,Owner and Chiropractor,phoenixcollege.edu,false
+Marilyn,Carmona,mcarmona@pasadena-development.com,,Marilyn I Carmona,,,,,Owner,pasadena-development.com,false
+Steve,"Hom, D.C.",shom@paradigmwellness.com,,Paradigm Wellness,,,,,Wellness Chiropractor,paradigmwellness.com,false
+Glenn,"Fischel, DC",gdc@investopedia.com,,OCO,,,,,Chiropractor; Healer,investopedia.com,false
+Michael,Carey,mcarey@backpainreliefohio.com,,Carey Chiropractic Spine & Sport Therapy,,,,,Owner/Chiropractor,backpainreliefohio.com,false
+Dr.,Phil Sledz,drphilsledz@fundamentalhealthsolutions.com,,Fundamental Health Solutions,,,,,Owner,fundamentalhealthsolutions.com,false
+Jacqueline,Pick,jpick@jackieos.com,,Dr. Jacqueline A. Pick,,,,,Owner,jackieos.com,false
+Atousa,Bahadori,abahadori@injuryclinicdallas.com,,Injury Clinic of Dallas,,,,,"Chiropractor, Owner",injuryclinicdallas.com,false
+Kim,"Kromas, Retail Options Trainer",kkromas@standardprocess.com,,Chiropractic and Nutrition Center,,,,,Clinical Nutritionist/Chiropractor,standardprocess.com,false
+Dr.,Cara Iovino,dcaraiovino@onestopwellness.org,,One Stop Wellness,,,,,Owner,onestopwellness.org,false
+Elmira,Aghdam D.C.,eaghdamdc@chiroeco.com,,Aghdam Chiropractic Inc.,,,,,Chiropractor/Owner,chiroeco.com,false
+Deena,Hakim,dhakim@healthgrades.com,,Deena Hakim,,,,,"Owner, Chiropractor",healthgrades.com,false
+Dr.,Ronald Vogtsberg,dronaldvogtsberg@orangetreechiro.com,,Orange Tree Chiropractic Ctr,,,,,chiropractor/owner,orangetreechiro.com,false
+Brian,Wofford,brian@woffordchiropractic.com,,Wofford Chiropractic Clinic,,,,,Chiropractor & Owner,woffordchiropractic.com,false
+Morris,Rashtian,mrashtian@healthgrades.com,,Morris Rashtian Chiropractic Corp.,,,,,Chiropractor / Owner,healthgrades.com,false
+Michael,Powaser,mpowaser@healphysiotherapy.co.uk,,Physioheel,,,,,Owner,healphysiotherapy.co.uk,false
+Krista,Cerruti-Schmidt,kcerrutischmidt@coinlaundry.org,,Pajaro Coin Laundries,,,,,Business Owner,coinlaundry.org,false
+Bryan,Fall DC,bfalldc@fallchiropractic.com,,Fall Chiropractic,,,,,Chiropractor/Owner,fallchiropractic.com,false
+Launa,"Rapa, D.C.",lrapa@tripadvisor.com,,Launa R. Rapa,,,,,Owner,tripadvisor.com,false
+Alicia,Oswald,aliciaoswald@elevatedchiropractic.com,,Elevated Chiropractic,,,,,Owner/Chiropractor,elevatedchiropractic.com,false
+Steve,Baek DC,steve@bluespringchiropractic.com,,Blue Spring Chiropractic,,,,,Chiropractor / Owner,bluespringchiropractic.com,false
+Leyla,"Jahromi, D.C.",leylajahromi@greenhillschiropractic.com,,Green Spine Chiropractic,,,,,Chiropractor/Owner,greenhillschiropractic.com,false
+Jeffrey,Becker,jbecker@integratedhealthcareclinic.com,,Integrated Healthcare Clinic,,,,,"Past: Consultant, Chiropractor, Physical Medicine Specialist",integratedhealthcareclinic.com,false
+Deb,Wood-Schade,dwoodschade@alternativepainrelief.com,,Alternative Pain Relief,,,,,"owner, practioner",alternativepainrelief.com,false
+Bob,Rimkis,brimkis@merritthawkins.com,,MHA and Doctor,,,,,Director,merritthawkins.com,false
+Dr.,"Irma ""Jo"" Kaleta",dirmajokaleta@healthgrades.com,,Kaleta Family Chiropractic PLLC,,,,,Chiropractor/Owner,healthgrades.com,false
+Scott,Nissenbaum,snissenbaum@benfranklin.org,,Dr. Scott Nissenbaum Chiropractic,,,,,Owner,benfranklin.org,false
+Joseph,Forte Jr,jfortejr@dmakproductions.com,,D-Mak Productions LLC,,,,,"Owner, Producer",dmakproductions.com,false
+TODD,FORBES,tforbes@regentmedical.com,,REGENT MEDICAL,,,,,CHIROPRACTOR,regentmedical.com,false
+Jamie,"Clouse, DC",jclouse@nbfacademy.org,,Healthy Beginnings Family Chiropractic,,,,,Owner/Chiropractor,nbfacademy.org,false
+Karen,"A. Coscolluela, DC, CCSP®",kcoscolluela@yelp.com,,Karen A. Coscolluela,,,,,Chiropractor/Owner,yelp.com,false
+John,Thoma,jthoma@infinityspine.com,,Infinity Spine Center,,,,,Chiropractor/Owner,infinityspine.com,false
+Kevin,Miller  DC MSc ATC CPed,kmillerdcmscatccped@auburn.edu,,Auburn University Student Medical Clinic,,,,,"Chiropractor,Clinical Biomechanics",auburn.edu,false
+Sean,"Wallis, DC",swallis@spinecare.com,,SpineCare,,,,,Doctor of Chiropractic,spinecare.com,false
+Joseph,"L. Follette, Jr. LMFT",jlfollette@lifestyletherapy.com,,Lifestyle Therapy & Coaching,,,,,Owner,lifestyletherapy.com,false
+Shoshana,Loerch,sloerch@ssrehab.com,,Dr. Shoshana Loerch DC,,,,,Owner/ chiropractor,ssrehab.com,false
+Joshua,White,jwhite@life.edu,,Complete Life Chiropractic,,,,,Owner,life.edu,false
+Samantha,W.,samantha@tamu.edu,,Dr. Samantha L. Wilfong,,,,,Owner/Chiropractor,tamu.edu,false
+Ryan,Diefenbach,rdiefenbach@tesla.com,,Tesla,,,,,Associate Store Manager,tesla.com,false
+Dr.,Katie Kutterna,dkatiekutterna@progressivechiropractic.com,,Progressive Chiropractic Center,,,,,Owner,progressivechiropractic.com,false
+Dr.,"Glenn J. Waldt, MS, DC",dglennjwaldt@accentcare.com,,Accent on Health Family Chiropractic,,,,,owner and chiropractor,accentcare.com,false
+Eric,Foster,efoster@theultimatelife.net,,Ultimate Life Today,,,,,Owner and Founder,theultimatelife.net,false
+Kurt,Hassel,khassel@self.com,,Self,,,,,Coverage Chiropractor & Life Coach,self.com,true
+Christophe,Dean,dean@deanchiropractic.com,,Dean Chiropractic,,,,,"Owner, Chiropractor",deanchiropractic.com,false
+Dr.,"Lauren Schofield, D.C.",dlaurenschofield@advancedchiropracticwellness.com,,Advanced Chiropractic Wellness Center,,,,,Chiropractor/ Owner,advancedchiropracticwellness.com,false
+Dr.,Stuart Lakernick,dstuartlakernick@groupon.com,,Lakernick Family Chiropractic & Wellness Center,,,,,Chiropractor/Owner,groupon.com,false
+Anthony,Vitale,avitale@dranthonyvitale.com,,Vitale Chiropractic & Rehabilitation Center P.C.,,,,,Owner,dranthonyvitale.com,false
+Andrea,"DelMonte, DC, MSA",adelmonte@gentlehealth.com,,Gentle Health & Wellness Center,,,,,"Owner, Chiropractor & Acupuncturist",gentlehealth.com,false
+Diane,Stewart D.C.,dstewartdc@healthgrades.com,,Lyte 2 Touch Chiropractic & Wellness,,,,,Owner,healthgrades.com,false
+Eileen,L'Estrange,elestrange@spinsaver.com,,Dr. Eileen L'Estrange,,,,,Chiropractor,spinsaver.com,false
+Adam,Kritzberg,adamkritzberg@owners.com,,Owner,,,,,Chiropractor,owners.com,false
+Dr.,Beth F. Snyder,dbethfsnyder@stonebridgewellness.com,,Stone Bridge Wellness,,,,,Business Owner / Chiropractor,stonebridgewellness.com,false
+Andy,Szekely,andy@northwell.edu,,Szekely Chiropractic Center,,,,,Chiropractor/Owner,northwell.edu,false
+Natalie,Spagnola,nspagnola@autozone.com,,Harmonic Balance Chiropractic,,,,,Chiropractor/Owner,autozone.com,false
+Kyle,Klim DC,klimdc@discoverwellness.center,,Flow Chiropractic & Wellness,,,,,Owner/Chiropractor,discoverwellness.center,false
+Andrew,Agasar DC,andrew@getradiantlife.com,,Radiant Life Chiropractic,,,,,Owner and Chiropractor,getradiantlife.com,true
+Will,"Cornett, DC",wcornett@bkstr.com,,New York Chiropractic College,,,,,Past: Teaching Assistant,bkstr.com,false
+Dr.Carla,Miller D.C.,dmillerdc@millerchiropracticcenter.com,,Miller Chiropractic Center,,,,,CEO,millerchiropracticcenter.com,false
+Bill,Moss,bill@getspecificpa.com,,Keystone Specific Chiropractic Center,,,,,Owner/ Chiropractor,getspecificpa.com,false
+Jennifer,"Lovern, DC",jlovern@northcountyhealthservices.com,,North County Health Services,,,,,Lead Chiropractor,northcountyhealthservices.com,false
+Joshua,Cole,jcole@bkstr.com,,New York Chiropractic College,,,,,Adjunct Faculty,bkstr.com,false
+Dr.,Hector Colón,dhectorcolon@motionschiropractic.com,,Motions Chiropractic,,,,,Chiropractor/Owner,motionschiropractic.com,false
+Dr.,Ashley Cruz,dashleycruz@santacruzcore.com,,Cruz Chiropractic and Wellness,,,,,Owner/Founder & Chiropractor,santacruzcore.com,false
+Denise,"Martino, D.C.",denise@ricksroasters.com,,Ricks Roasters Coffee Company,,,,,New York/New Jersey Coffee Rep,ricksroasters.com,false
+Karen,McGlynn,kmcglynn@3m.com,,Chiropractic and New York...,,,,,Summary: Experienced Chiropractor...,3m.com,false
+Marc,Gulitz,marc@midatlanticspinalrehab.com,,Mid-Atlantic Spinal Rehab & Chiropractic,,,,,Owner/Chiropractor,midatlanticspinalrehab.com,false
+Keith,Litwak,klitwak@keithlitwak.com,,Keith Litwak,,,,,Owner,keithlitwak.com,false
+Linda,Gianetti,lgianetti@therapeuticlasercenter.com,,Therapeutic Laser Center,,,,,Owner/ Chiropractor,therapeuticlasercenter.com,false
+Dr.,Denny Stone,ddennystone@chirocare.com,,ChiroCare,,,,,Chiropractor,chirocare.com,false
+Richard,Tesoriero,rtesoriero@oswegofultonchamber.com,,Tesoriero Chiropractic Office PC,,,,,Chiropractor,oswegofultonchamber.com,false
+Dr.,"Rick Rosa (D.C., D.A.A.P.M, C.C.S.P.)",drickrosadc@3m.com,,New York...,,,,,Summary: ...Doctorate from New York... graduate faculty,3m.com,false
+Dr.,Kathleen Henneberger,dr@buffalochiropractictoday.com,,Buffalo Family Chiropractic & Wellness,,,,,Owner/Chiropractor,buffalochiropractictoday.com,false
+Brian,M Murray,bmmurray@betterbackschiropractic.com,,Better Backs Chiropractic,,,,,Chiropractor/Owner,betterbackschiropractic.com,false
+Jerry,"Sangiamo, DC",jerry.sangiamo@healthgrades.com,,Dr. Jerry Sangiamo Family Chiropractic & Massage Therapy,,,,,Chiropractor/Owner,healthgrades.com,false
+Susan,Doyle,sdoyle@absolutewellnesscenterinc.com,,Absolute Wellness Center,,,,,Owner & Chiropractor,absolutewellnesscenterinc.com,false
+Rene,Latella DC,rlatelladc@visitscotia.com,,Latella Chiropractic PLLC,,,,,Chiropractor/owner,visitscotia.com,false
+Dr.,Erik Chamberjian,derikchamberjian@absolutehealthchiropractic.com,,Absolute Health Chiropractic,,,,,"Owner, Head Chiropractor",absolutehealthchiropractic.com,false
+Darin,Burdman,darin@drburdmanchiropractic.com,,Dr Darin Burdman,,,,,Owner,drburdmanchiropractic.com,false
+Jessica,Spindel,jessicaspindel@houstonmedicalwellnessclinic.com,,Bering Wellness Center,,,,,Owner/ Chiropractor,houstonmedicalwellnessclinic.com,false
+John,Rosa,jrosa@abcclinics.com,,Accessible Beltway Clinics with 14 Integrative Medicine clinics in the DMV.,,,,,Owner/Manager,abcclinics.com,true
+Dr.,Phyllis Burgio,dphyllisburgio@buffalotech.com,,Buffalo,,,,,Education: State University of New York College,buffalotech.com,false
+Nick,"Carruthers, D.C.",ncarruthers@integrativewellnessgroup.com,,Integrative Wellness Group,,,,,Chiropractor/Owner,integrativewellnessgroup.com,false
+Mary,"DellaValle Balliett DC, MSACN",mdellavalleballiettdc@bkstr.com,,New York Chiropractic College,,,,,Full Professor,bkstr.com,false
+Dr.,Frank S. Lizzio,dfrankslizzio@bkstr.com,,New York Chiropractic College,,,,,Trustee,bkstr.com,false
+Jared,Fiedler D.C.,jfiedlerdc@huestonwoodslodge.com,,Woods Corner Family Chiropractic,,,,,Owner/Chiropractor,huestonwoodslodge.com,false
+Michael,Berlin,michael.berlin@yelp.com,,The Family Wellness Center,,,,,Owner / Chiropractor,yelp.com,false
+Geoffrey,Berard,gberard@emergencychiropractic.com,,Berard Chiropractic and Performance Therapy,,,,,Owner/Chiropractor,emergencychiropractic.com,false
+Dr.,Justine Marini,djustinemarini@thrivent.com,,New Faith Chiropractic,,,,,Chiropractor,thrivent.com,false
+Alison,Sullivan,alison@sullivanchiropractic.net,,Sullivan Chiropractic,,,,,Owner/Chiropractor,sullivanchiropractic.net,false
+Dr., Irum Hussain,dirumhussain@chiropracticcare.com,,Chiropractic Care,,,,,Owner/ Chiropractor,chiropracticcare.com,false
+Elizabeth,Scatena,escatena@bloomsburgfamilychiropractic.com,,Bloomsburg Family Chiropractic PLLC,,,,,Owner/Chiropractor,bloomsburgfamilychiropractic.com,false
+Dr.,Ashley Seaver,dashleyseaver@traversecitychiropractor.com,,Spa City Chiropractic,,,,,Owner/Chiropractor,traversecitychiropractor.com,false
+Rachel,E. Meegan Iacchetta,remeeganiacchetta@lifetimewellnesschiropractic.com,,Lifetime Wellness Chiropractic of WNY,,,,,Chiropractor & Owner,lifetimewellnesschiropractic.com,false
+Michael,"Zumpano, PhD, DC",mzumpano@bkstr.com,,New York Chiropractic College,,,,,"Director, Anatomy Center & Anatomical Gift Program Professor, Dept of Basic Sciences",bkstr.com,false
+Virna,Lampinstein,virna@tribecafamilychiropractic.com,,Dr. Virna Lampinstein,,,,,Owner-Chiropractor,tribecafamilychiropractic.com,false
+Alan,Cooper,acooper@alanrcooper.com,,Alan R Cooper,,,,,Owner/Chiropractor,alanrcooper.com,false
+Dr.,Brian Baldia,dbrianbaldia@chirosport.net,,CHIROsport & spine,,,,,owner & chiropractor,chirosport.net,false
+Dr.Christina,Trzaska D.C.,dtrzaskadc@groupon.com,,Chiropractic Care Dr. Christina Trzaska P.C.,,,,,Chiropractor/owner,groupon.com,false
+Wil,Holdsworth,wholdsworth@your-indianapolis-chiropractor.com,,Pain Relief Chiropractic,,,,,Chiropractor/Owner,your-indianapolis-chiropractor.com,false
+Jason,Brown,jbrown@brownintegratedchiropractic.com,,Brown Integrated Chiropractic,,,,,Chiropractor - Owner,brownintegratedchiropractic.com,false
+Chris,"Cueto, DC, CCSP",ccueto@heraldsquarechiropractic.com,,Herald Square Chiropractic and Sport,,,,,President and CEO,heraldsquarechiropractic.com,true
+Debra,"Hoolahan, MS DC",debrah@chiropractic-help.com,,Chiropractic,,,,,Doctor,chiropractic-help.com,true
+Dr.,Lawrence G. Stern,dlawrencegstern@neohospitals.org,,The Center For Health and Healing,,,,,"Network Spinal Analysis, Chiropractor, Awaken Wellness Consultant",neohospitals.org,false
+Nathaniel,"Majoris, DC, DACRB, ATC",nmajoris@bkstr.com,,New York Chiropractic College,,,,,Adjunct Faculty,bkstr.com,false
+Grove,Higgins,ghiggins@availsofttissue.com,,Spring Soft Tissue,,,,,Owner/Operator: Chiropractor and Consultant,availsofttissue.com,false
+Zackery,"Conklin, DC",zconklin@bkstr.com,,New York Chiropractic College,,,,,Past: Intern,bkstr.com,false
+Michael,"Shapiro, DC",mshapiro@michaelshapiro.com,,Michael Shapiro,,,,,Chiropractor,michaelshapiro.com,false
+Jonathan,"Mulholland, DC",jdc@dictionary.com,,Knowledge. Purveyor,,,,,Sports Chiropractor. Strength Coach. Running Expert. Athlete. Public Speaker. Seeker,dictionary.com,false
+Leonard,Ershow,lershow@siriusxm.com,,Ershow Chiropractic Center,,,,,Owner,siriusxm.com,false
+Dr.,Loretta Friedman,dlorettafriedman@synergyhealthassociates.com,,Synergy Health Associates,,,,,Dr. Loretta T. Friedman,synergyhealthassociates.com,false
+Joseph,McNamara,jmcnamara@ventureforamerica.org,,Fellow from the American College of Functional Neurology,,,,,FACFN,ventureforamerica.org,false
+Erik,"LeMoullec DC, FCAMI",elemoullecdc@backtohealthchiropractic.com,,Back to Health Chiropractic & Acupuncture,,,,,Chiropractic Physician and Owner,backtohealthchiropractic.com,false
+Ryan,"Diana, D.C.",rdiana@bkstr.com,,New York Chiropractic College,,,,,Adjunct Instructor,bkstr.com,false
+Christian,Carollo,ccarollo@prestigehealthchoice.com,,Prestige Health & Wellness,,,,,Owner Medical director,prestigehealthchoice.com,false
+Alaina,Kulikowski,akulikowski@brockport.org,,Brockport,,,,,Education: State University of New York College,brockport.org,false
+Michael,"C. Guernsey, DC",mcguernsey@haemonetics.com,,BrainTree Medical,,,,,Entrepreneur/Owner Sales & Consulting Healthcare,haemonetics.com,false
+Jordana,Levine,jlevine@atecspine.com,,SpineTech Corp.,,,,,Owner / Chiropractor,atecspine.com,false
+Michael,"DeBole, DC",mdebole@bkstr.com,,New York Chiropractic College,,,,,Graduate Student,bkstr.com,false
+Dr,Bill - Spinal Kinetics,dbillspinalkinetics@spinalkinetics.com,,Spinal Kinetics,,,,,Chiropractor,spinalkinetics.com,false
+Marielle,"Feingold, DC",mfeingold@bhcare.org,,Marielle Feingold Family Chiropractic,,,,,Owner/chiropractor,bhcare.org,false
+Dr.,Rashaad Nauth-Ali,drashaadnauthali@amenclinics.com,,FIT Clinic - Functional Integrity Therapies,,,,,Chiropractor / Functional Capacity Evaluator / Owner,amenclinics.com,false
+Dr,Bradley Hopkins,dbradleyhopkins@straightuppr.com.au,,Straight Up Health Performance,,,,,Co Owner,straightuppr.com.au,false
+Brandon,"Osborne, DC",bosborne@centraljerseyspine.com,,Central Jersey Spine & Rehabilitation Center,,,,,"Owner, Clinician, Chiropractor",centraljerseyspine.com,false
+Dr.,Leslie Stoklosa,dlesliestoklosa@mtairyncchamber.org,,Dr. Leslie Stoklosa,,,,,Owner/Chiropractor,mtairyncchamber.org,false
+Dr.,"Heidi Sonn, DC, RYT",drheidisonn@bcurrent.org,,Bcurrent,,,,,"Founder, Educator, Licensed Chiropractor, Certified Pilates/Yoga Instructor",bcurrent.org,false
+Lindsay,Rae,lrae@bkstr.com,,New York Chiropractic College,,,,,Adjunct Faculty,bkstr.com,false
+Pietro,Baio,pbaio@aviatorsports.com,,New york aviators,,,,,Past: Team chiropractor,aviatorsports.com,false
+Jesse,West,west@wework.com,,Jesse West DC,,,,,Owner/Chiropractor,wework.com,false
+Dr,Jane Fitzgerald,djanefitzgerald@mercyatlanta.org,,Dr Jane M Fitzgerald,,,,,Chiropractor,mercyatlanta.org,false
+Jeffrey,Linder,jlinder@facialpainclinic.com,,Facial Pain Clinic,,,,,Past: Chief Chiropractor,facialpainclinic.com,false
+Dr.,Ellen Rencher,dellenrencher@heart.org,,Cardiac Rehabilitation and Wellness,,,,,Past: Exercise Physiologist,heart.org,false
+Joel,Saeks D.C.,jsaeksdc@chiroeco.com,,Saeks Chiropractic LLC,,,,,Chiropractor,chiroeco.com,false
+Dr.,Josh Wagner,djoshwagner@perfectpatients.com,,The Perfect Perfect Patient Funnel System,,,,,Owner / Creator,perfectpatients.com,false
+Andrew,Wengert,awengert@veracitysts.com,,Veracity Soft Tissue and Spine,,,,,Owner,veracitysts.com,false
+Christine,"Dargout, DC",cdargout@healthgrades.com,,Dargout Family Chiropractic LLC,,,,,Chiropractor/ owner,healthgrades.com,false
+Dr.,Louis Fernandez,dlouisfernandez@farmers.com,,Louis Fernandez DC,,,,,"Past: Owner, chiropractor",farmers.com,false
+Dr,Darren Scarafile,dr@groupon.com,,Scarafile Family Chiropractic,,,,,Chiropractor,groupon.com,false
+Ted,koziol,tkoziol@drkoziol.com,,Back and Neck Center of Brick,,,,,Chiropractor,drkoziol.com,false
+Dr.,"Monica Chadha, B.A.(Hons), DC",dr.monicachadha@wellnesscorporatesolutions.com,,BODability Performance & Wellness,,,,,Owner/Chiropractor,wellnesscorporatesolutions.com,false
+Dr.,Angelica Houston,dangelicahouston@ehcqcy.com,,Tri State Healthcare in Waynesburg PA,,,,,Owner and Chiropractor,ehcqcy.com,false
+Douglas,"J. VanVorst, DC, DACRB",djvanvorst@chiropracticcare.com,,Chiropractic Care & Sports Rehab Center,,,,,Owner,chiropracticcare.com,false
+Andrew,Klein,andrew.klein@parknicollet.com,,Park Nicollet Health Services,,,,,Chiropractor,parknicollet.com,false
+Matt,Kreinheder,mkreinheder@chugachchiropractic.com,,Unwind Chiropracitc,,,,,"Chiropractor, Owner",chugachchiropractic.com,false
+Kevin,"E. Sadowski, DC, MSN, FNP-C",kesadowski@primaryspine.com,,Primary Spine & Rehab,,,,,owner,primaryspine.com,false
+Dr.,Siri Smith,drsirismith@chipstechnologygroup.com,,Midtown Integrative Health and Wellness,,,,,Chiropractor,chipstechnologygroup.com,true
+Michael,Scatko,mscatko@integratedhealth21.com,,Integrated Health and wellness,,,,,Chiropractor,integratedhealth21.com,false
