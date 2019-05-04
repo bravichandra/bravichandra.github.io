@@ -59,6 +59,8 @@
 <td><input type="text" id="textid3" name="text13" value="" /></td></tr>
 <tr> <span id="text_valid"></span>
 <td colspan="2" align="center"><input type="submit" name="submit" value="submit" />
+	<tr> <span id="text_valid"></span>
+<td colspan="2" align="center"><input type="submit" name="cancel" value="Cancel" />
 </table>
 </form>
 </body>
